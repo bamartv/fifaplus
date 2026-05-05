@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:45:21 PM 05-05-2026
+#last update time: 11:00:45 PM 05-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a3/71/27/95/a3712795-20dc-40f7-a340-f5ec7bcfe69c.png" group-title="FIFA Live", AS Rivière du Rempart v AS Port-Louis 2000 | MFA Cup 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6afbf090bdd53e379540755491f10a66:6f0c2f5f6e8c0f936a479030d8c874fa
-https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_09_45_19_4b111b55-3767-4b44-bf0d-cd72875b70f9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1777990740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e8/f2/83/44/e8f28344-61b0-4d83-92ad-7d71bf448c8b.png" group-title="FIFA Live", Olympic FC v AS Fan | Super Ligue 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:21 PM 05-05-2026",
-        "total_live": 6,
+        "last_update_time": "11:00:45 PM 05-05-2026",
+        "total_live": 5,
         "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "98a3ecdd-45fb-4e09-b8a3-6dd21bd777c2",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "98a3ecdd-45fb-4e09-b8a3-6dd21bd777c2",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Rivière du Rempart v AS Port-Louis 2000 | MFA Cup 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-riviere-du-rempart-vs-as-port-louis-2000",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/d7/aa/fb/da/d7aafbda-e39c-4193-a973-ec3d850cf357.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a3/71/27/95/a3712795-20dc-40f7-a340-f5ec7bcfe69c.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Rivière du Rempart v AS Port-Louis 2000 | MFA Cup 2025/26",
-            "titleTemplateValues": {
-                "city": "Port Louis",
-                "season": "MFA Cup 2025/26",
-                "competition": "MFA Cup",
-                "team:as-riviere-du-rempart": "AS Rivière du Rempart",
-                "match": "AS Rivière du Rempart v AS Port-Louis 2000",
-                "publisher": "MA | Mauritius",
-                "stadium": "St. François Xavier Stadium",
-                "country": "Mauritius",
-                "association": "Mauritius",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "global-stage": "Semi-finals",
-                "stage": "1/2 Finals",
-                "publisher-channel": "MA | Mauritius | MFA Cup 2025/26 (Channel)",
-                "team:as-port-louis-2000": "AS Port-Louis 2000",
-                "video-type": "Live Streams",
-                "organizer": "Mauritius",
-                "organizer-country": "Mauritius"
-            },
-            "startDate": "2026-05-05T14:20:00Z",
-            "endDate": "2026-05-05T17:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-05T14:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Rivière du Rempart v AS Port-Louis 2000"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "MFA Cup 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Semi-finals"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritius"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_09_45_19_4b111b55-3767-4b44-bf0d-cd72875b70f9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1777990740",
-                "decryption_keys": [
-                    "6afbf090bdd53e379540755491f10a66:6f0c2f5f6e8c0f936a479030d8c874fa"
-                ]
-            }
-        },
         {
             "id": "eabaed8a-e0df-480e-b4db-cc3eb17df254",
             "channelId": "fifa-tournaments",
