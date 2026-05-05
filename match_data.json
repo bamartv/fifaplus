@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:15:31 AM 06-05-2026",
-        "total_live": 1,
+        "last_update_time": "02:30:30 AM 06-05-2026",
+        "total_live": 0,
         "total_upcoming": 27
     },
     "matches": [
-        {
-            "id": "7ca25387-1bc9-419e-a41a-fd95d151d9ae",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "7ca25387-1bc9-419e-a41a-fd95d151d9ae",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC Vaduz v USV Eschen/Mauren | Liechtensteiner Cup 25/26",
-            "category": "livestream",
-            "urlSlug": "fc-vaduz-vs-usv-eschen-mauren",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/67/77/b9/79/6777b979-17a6-4d2b-99f1-9f7e5f6c86c8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/8c/25/81/40/8c258140-c376-40e4-87f9-9983f16c003e.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC Vaduz v USV Eschen/Mauren | Liechtensteiner Cup 25/26",
-            "titleTemplateValues": {
-                "city": "Vaduz",
-                "country": "Liechtenstein",
-                "publisher": "MA | Liechtenstein",
-                "match": "FC Vaduz v USV Eschen/Mauren",
-                "stage": "Final",
-                "association": "Liechtenstein",
-                "team:usv-eschen-mauren": "USV Eschen/Mauren",
-                "team:fc-vaduz": "FC Vaduz",
-                "global-stage": "Final",
-                "publisher-channel": "MA | Liechtenstein | Liechtensteiner Cup 2026 (Channel)",
-                "stadium": "Rheinpark Stadion",
-                "season": "Liechtensteiner Cup 25/26",
-                "video-type": "Live Streams",
-                "competition": "Liechtensteiner Cup",
-                "organizer": "Liechtenstein",
-                "organizer-country": "Liechtenstein"
-            },
-            "startDate": "2026-05-05T17:50:00Z",
-            "endDate": "2026-05-05T20:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-05T18:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC Vaduz v USV Eschen/Mauren"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liechtensteiner Cup 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Final"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liechtenstein"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_09_18_29_79c66bc4-1af1-47df-aaba-79716f2af086/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Adeu%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778003340",
-                "decryption_keys": [
-                    "075ee29b399b3ca2947a75106b232066:1f3c64ab8abd422c8ba8e76f1ef771d2"
-                ]
-            }
-        },
         {
             "id": "3ec45bee-f920-4e2e-88ef-fc1995698415",
             "channelId": "fifa-tournaments",
