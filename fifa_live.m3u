@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:34 AM 06-05-2026
+#last update time: 12:45:40 AM 06-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/20/42/a5/5e/2042a55e-fceb-4092-a154-10b440930288.png" group-title="FIFA Live", Bhantal FC v Old Edwardians FC | Leone Rock Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=168b60064e533fafa2f9128d809d4a83:d12071c75e6e40193a36e2089567f02b
-https://d7pd9oqdl4d44.cloudfront.net/2026_04_21_09_09_53_351df88c-c5bd-4679-8f63-99ecb16e44d3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1777997940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/48/d9/c7/6e/48d9c76e-6cad-4e8f-9c91-855cbf5a63c0.png" group-title="FIFA Live", FC Tevragh Zeina v AS Pompier | Super D-1 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey

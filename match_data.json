@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:34 AM 06-05-2026",
-        "total_live": 3,
+        "last_update_time": "12:45:40 AM 06-05-2026",
+        "total_live": 2,
         "total_upcoming": 27
     },
     "matches": [
-        {
-            "id": "2af155bd-1c84-4d12-9745-f993d6109db2",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2af155bd-1c84-4d12-9745-f993d6109db2",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Bhantal FC v Old Edwardians FC | Leone Rock Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "bhantal-fc-vs-old-edwardians-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/20/42/a5/5e/2042a55e-fceb-4092-a154-10b440930288.png",
-            "freeMode": "FREE_ADS",
-            "title": "Bhantal FC v Old Edwardians FC | Leone Rock Premier League 2025-26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "global-stage": "Round 24",
-                "country": "Sierra Leone",
-                "competition": "Premier League",
-                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
-                "association": "Sierra Leone",
-                "team:bhantal-fc": "Bhantal FC",
-                "stadium": "SLFA Academy Field",
-                "city": "Freetown",
-                "season": "Leone Rock Premier League 2025-26",
-                "publisher": "MA | Sierra Leone",
-                "team:old-edwardians-fc": "Old Edwardians FC",
-                "video-type": "Live Streams",
-                "match": "Bhantal FC v Old Edwardians FC",
-                "organizer": "Sierra Leone",
-                "organizer-country": "Sierra Leone"
-            },
-            "startDate": "2026-05-05T16:20:00Z",
-            "endDate": "2026-05-05T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-05T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Bhantal FC v Old Edwardians FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Leone Rock Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 24"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Sierra Leone"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_21_09_09_53_351df88c-c5bd-4679-8f63-99ecb16e44d3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1777997940",
-                "decryption_keys": [
-                    "168b60064e533fafa2f9128d809d4a83:d12071c75e6e40193a36e2089567f02b"
-                ]
-            }
-        },
         {
             "id": "75637e1f-ec7e-4ddb-9da3-48d7d2d37990",
             "channelId": "fifa-tournaments",
