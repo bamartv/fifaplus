@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:21 PM 05-05-2026
+#last update time: 12:00:40 AM 06-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e8/f2/83/44/e8f28344-61b0-4d83-92ad-7d71bf448c8b.png" group-title="FIFA Live", Olympic FC v AS Fan | Super Ligue 2025/26
@@ -28,3 +28,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_04_21_09_09_53_351df88c-c5bd-4679-8f63
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e513186c3b6034dc89b9554d4d4362f0:9f5e396287baaf318ad8afb349fa555c
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_15_11_32_b514b285-26b2-4564-a8f5-13783764787b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1777998840
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8c/25/81/40/8c258140-c376-40e4-87f9-9983f16c003e.png" group-title="FIFA Live", FC Vaduz v USV Eschen/Mauren | Liechtensteiner Cup 25/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=075ee29b399b3ca2947a75106b232066:1f3c64ab8abd422c8ba8e76f1ef771d2
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_09_18_29_79c66bc4-1af1-47df-aaba-79716f2af086/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Adeu%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778003340
