@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:40 AM 06-05-2026
+#last update time: 12:15:25 AM 06-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e8/f2/83/44/e8f28344-61b0-4d83-92ad-7d71bf448c8b.png" group-title="FIFA Live", Olympic FC v AS Fan | Super Ligue 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3d471c6cc323ea1b3a4956877ba8fa5:417d8cd75ceb64560defe6ee1e44a224
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_16_09_26_387fcf3d-0678-4c09-9994-195a37d37b5a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1777995240
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b9/8c/a2/05/b98ca205-30f9-4888-a980-d024c9b59f66.png" group-title="FIFA Live", Bea Mountain FC v LISCR FC | LFA First Division League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey

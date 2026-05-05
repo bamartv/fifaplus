@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:40 AM 06-05-2026",
-        "total_live": 6,
+        "last_update_time": "12:15:25 AM 06-05-2026",
+        "total_live": 5,
         "total_upcoming": 27
     },
     "matches": [
-        {
-            "id": "eabaed8a-e0df-480e-b4db-cc3eb17df254",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "eabaed8a-e0df-480e-b4db-cc3eb17df254",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Olympic FC v AS Fan | Super Ligue 2025/26",
-            "category": "livestream",
-            "urlSlug": "olympic-fc-vs-as-fan",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/ec/cd/44/9eeccd44-ac8e-414d-a647-f8fe021614d5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e8/f2/83/44/e8f28344-61b0-4d83-92ad-7d71bf448c8b.png",
-            "freeMode": "FREE_ADS",
-            "title": "Olympic FC v AS Fan | Super Ligue 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Niger ",
-                "global-stage": "Round 23",
-                "season": "Super Ligue 2025/26",
-                "stage": "Regular stage",
-                "association": "Niger",
-                "match": "Olympic FC v AS Fan",
-                "stadium": "SGSK Stadium",
-                "team:as-fan": "AS Fan",
-                "competition": "Super Ligue",
-                "team:olympic-fc": "Olympic FC",
-                "country": "Niger",
-                "city": "Niamey",
-                "publisher-channel": "MA | Niger | Super Ligue 2025/2026",
-                "video-type": "Live Streams",
-                "organizer": "Niger",
-                "organizer-country": "Niger"
-            },
-            "startDate": "2026-05-05T15:35:00Z",
-            "endDate": "2026-05-05T18:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-05T15:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Olympic FC v AS Fan"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super Ligue 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 23"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Niger"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_16_09_26_387fcf3d-0678-4c09-9994-195a37d37b5a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1777995240",
-                "decryption_keys": [
-                    "a3d471c6cc323ea1b3a4956877ba8fa5:417d8cd75ceb64560defe6ee1e44a224"
-                ]
-            }
-        },
         {
             "id": "a4108d15-0212-4e8a-a6e7-221a166e8534",
             "channelId": "fifa-tournaments",
