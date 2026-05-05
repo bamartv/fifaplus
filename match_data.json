@@ -1,0 +1,571 @@
+{
+    "metadata": {
+        "name": "Fifa Plus Live Events",
+        "telegram": "https://t.me/livesportsplay",
+        "owner": "Md Sohanur Rahman Hady",
+        "last_update_time": "12:45:26 PM 05-05-2026",
+        "total_live": 0,
+        "total_upcoming": 9
+    },
+    "matches": [
+        {
+            "id": "f22eccb2-9309-49ea-8f43-62daa2dc6a0b",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "f22eccb2-9309-49ea-8f43-62daa2dc6a0b",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Ngozi City v Rukinzo FC | Coupe du Président de Burundi 2026",
+            "category": "livestream",
+            "urlSlug": "ngozi-city-vs-rukinzo-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/58/41/af/2c/5841af2c-fa69-4d9c-8aa5-dd131b87d558.png",
+            "freeMode": "FREE_ADS",
+            "title": "Ngozi City v Rukinzo FC | Coupe du Président de Burundi 2026",
+            "titleTemplateValues": {
+                "publisher": "MA | Burundi",
+                "team:rukinzo-fc": "Rukinzo FC",
+                "association": "Burundi",
+                "country": "Burundi",
+                "city": "Buye",
+                "season": "Coupe du Président de Burundi 2026",
+                "team:ngozi-city": "Ngozi City",
+                "stage": "1/2 Finales",
+                "competition": "President's Cup",
+                "global-stage": "Semi-finals - Second Leg",
+                "match": "Ngozi City v Rukinzo FC",
+                "stadium": "Urukundo Stadium",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Burundi | Coupe du Président de Burundi 2026 (Channel)",
+                "organizer": "Burundi",
+                "organizer-country": "Burundi"
+            },
+            "startDate": "2026-05-05T12:50:00Z",
+            "endDate": "2026-05-05T15:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-05T13:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Ngozi City v Rukinzo FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Coupe du Président de Burundi 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Semi-finals - Second Leg"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burundi"
+                }
+            ]
+        },
+        {
+            "id": "26d6f18e-60c4-4de3-98ca-23639dd543bc",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "26d6f18e-60c4-4de3-98ca-23639dd543bc",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Vital'O FC v Aigle Noir CS | Coupe du Président de Burundi 2026",
+            "category": "livestream",
+            "urlSlug": "vital-o-fc-vs-aigle-noir-cs",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d3/58/fb/2d/d358fb2d-b613-436c-bc40-8ca337b34c88.png",
+            "freeMode": "FREE_ADS",
+            "title": "Vital'O FC v Aigle Noir CS | Coupe du Président de Burundi 2026",
+            "titleTemplateValues": {
+                "publisher": "MA | Burundi",
+                "association": "Burundi",
+                "team:vital-o-fc": "Vital'O FC",
+                "team:aigle-noir-cs": "Aigle Noir CS",
+                "country": "Burundi",
+                "season": "Coupe du Président de Burundi 2026",
+                "stadium": "Stade Intwari",
+                "city": "Bujumbura",
+                "match": "Vital'O FC v Aigle Noir CS",
+                "stage": "1/2 Finales",
+                "competition": "President's Cup",
+                "global-stage": "Semi-finals - Second Leg",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Burundi | Coupe du Président de Burundi 2026 (Channel)",
+                "organizer": "Burundi",
+                "organizer-country": "Burundi"
+            },
+            "startDate": "2026-05-05T12:50:00Z",
+            "endDate": "2026-05-05T15:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-05T13:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Vital'O FC v Aigle Noir CS"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Coupe du Président de Burundi 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Semi-finals - Second Leg"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burundi"
+                }
+            ]
+        },
+        {
+            "id": "a92db7e8-6edc-407d-af7b-37c7a99e6e5c",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "a92db7e8-6edc-407d-af7b-37c7a99e6e5c",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Young Buffaloes FC v Amawele FC | MTN Premier League 2025/26",
+            "category": "livestream",
+            "urlSlug": "young-buffaloes-fc-vs-amawele-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/94/35/5d/9e94355d-7748-4afb-b681-3496922e3cb0.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/39/39/50/91/39395091-b1b1-46e6-9cd4-0b9ae28de80d.png",
+            "freeMode": "FREE_ADS",
+            "title": "Young Buffaloes FC v Amawele FC | MTN Premier League 2025/26",
+            "titleTemplateValues": {
+                "competition": "Premier League of Eswatini",
+                "country": "Eswatini",
+                "team:amawele-fc": "Amawele FC",
+                "association": "Eswatini",
+                "season": "MTN Premier League 2025/26",
+                "stage": "Regular Season",
+                "team:young-buffaloes-fc": "Young Buffaloes FC",
+                "publisher": "MA | Eswatini",
+                "publisher-channel": "MA | Eswatini | Premier League 2025/2026",
+                "global-stage": "Round 28",
+                "match": "Young Buffaloes FC v Amawele FC",
+                "city": "Big Bend",
+                "stadium": "Mayaluka Stadium",
+                "video-type": "Live Streams",
+                "organizer": "Eswatini",
+                "organizer-country": "Eswatini"
+            },
+            "startDate": "2026-05-05T12:50:00Z",
+            "endDate": "2026-05-05T15:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-05T13:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Young Buffaloes FC v Amawele FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "MTN Premier League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 28"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Eswatini"
+                }
+            ]
+        },
+        {
+            "id": "98a3ecdd-45fb-4e09-b8a3-6dd21bd777c2",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "98a3ecdd-45fb-4e09-b8a3-6dd21bd777c2",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Rivière du Rempart v AS Port-Louis 2000 | MFA Cup 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-riviere-du-rempart-vs-as-port-louis-2000",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/d7/aa/fb/da/d7aafbda-e39c-4193-a973-ec3d850cf357.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a3/71/27/95/a3712795-20dc-40f7-a340-f5ec7bcfe69c.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Rivière du Rempart v AS Port-Louis 2000 | MFA Cup 2025/26",
+            "titleTemplateValues": {
+                "city": "Port Louis",
+                "season": "MFA Cup 2025/26",
+                "competition": "MFA Cup",
+                "team:as-riviere-du-rempart": "AS Rivière du Rempart",
+                "match": "AS Rivière du Rempart v AS Port-Louis 2000",
+                "publisher": "MA | Mauritius",
+                "stadium": "St. François Xavier Stadium",
+                "country": "Mauritius",
+                "association": "Mauritius",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "global-stage": "Semi-finals",
+                "stage": "1/2 Finals",
+                "publisher-channel": "MA | Mauritius | MFA Cup 2025/26 (Channel)",
+                "team:as-port-louis-2000": "AS Port-Louis 2000",
+                "video-type": "Live Streams",
+                "organizer": "Mauritius",
+                "organizer-country": "Mauritius"
+            },
+            "startDate": "2026-05-05T14:20:00Z",
+            "endDate": "2026-05-05T17:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-05T14:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Rivière du Rempart v AS Port-Louis 2000"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "MFA Cup 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Semi-finals"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritius"
+                }
+            ]
+        },
+        {
+            "id": "eabaed8a-e0df-480e-b4db-cc3eb17df254",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "eabaed8a-e0df-480e-b4db-cc3eb17df254",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Olympic FC v AS Fan | Super Ligue 2025/26",
+            "category": "livestream",
+            "urlSlug": "olympic-fc-vs-as-fan",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/ec/cd/44/9eeccd44-ac8e-414d-a647-f8fe021614d5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e8/f2/83/44/e8f28344-61b0-4d83-92ad-7d71bf448c8b.png",
+            "freeMode": "FREE_ADS",
+            "title": "Olympic FC v AS Fan | Super Ligue 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Niger ",
+                "global-stage": "Round 23",
+                "season": "Super Ligue 2025/26",
+                "stage": "Regular stage",
+                "association": "Niger",
+                "match": "Olympic FC v AS Fan",
+                "stadium": "SGSK Stadium",
+                "team:as-fan": "AS Fan",
+                "competition": "Super Ligue",
+                "team:olympic-fc": "Olympic FC",
+                "country": "Niger",
+                "city": "Niamey",
+                "publisher-channel": "MA | Niger | Super Ligue 2025/2026",
+                "video-type": "Live Streams",
+                "organizer": "Niger",
+                "organizer-country": "Niger"
+            },
+            "startDate": "2026-05-05T15:35:00Z",
+            "endDate": "2026-05-05T18:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-05T15:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Olympic FC v AS Fan"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super Ligue 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 23"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Niger"
+                }
+            ]
+        },
+        {
+            "id": "a4108d15-0212-4e8a-a6e7-221a166e8534",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "a4108d15-0212-4e8a-a6e7-221a166e8534",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Bea Mountain FC v LISCR FC | LFA First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "bea-mountain-vs-liscr-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b9/8c/a2/05/b98ca205-30f9-4888-a980-d024c9b59f66.png",
+            "freeMode": "FREE_ADS",
+            "title": "Bea Mountain FC v LISCR FC | LFA First Division League 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "team:liscr-fc": "LISCR FC",
+                "association": "Liberia",
+                "season": "LFA First Division League 2025/26",
+                "competition": "Liberia National League",
+                "country": "Liberia",
+                "team:bea-mountain": "Bea Mountain FC",
+                "global-stage": "Round 26",
+                "publisher": "MA | Liberia",
+                "city": "Paynesville",
+                "match": "Bea Mountain FC v LISCR FC",
+                "video-type": "Live Streams",
+                "stadium": "SKD Annex",
+                "organizer": "Liberia",
+                "organizer-country": "Liberia"
+            },
+            "startDate": "2026-05-05T15:50:00Z",
+            "endDate": "2026-05-05T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-05T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Bea Mountain FC v LISCR FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "LFA First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Liberia"
+                }
+            ]
+        },
+        {
+            "id": "2af155bd-1c84-4d12-9745-f993d6109db2",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "2af155bd-1c84-4d12-9745-f993d6109db2",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Bhantal FC v Old Edwardians FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "bhantal-fc-vs-old-edwardians-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/20/42/a5/5e/2042a55e-fceb-4092-a154-10b440930288.png",
+            "freeMode": "FREE_ADS",
+            "title": "Bhantal FC v Old Edwardians FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "global-stage": "Round 24",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "team:bhantal-fc": "Bhantal FC",
+                "stadium": "SLFA Academy Field",
+                "city": "Freetown",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "team:old-edwardians-fc": "Old Edwardians FC",
+                "video-type": "Live Streams",
+                "match": "Bhantal FC v Old Edwardians FC",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-05T16:20:00Z",
+            "endDate": "2026-05-05T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-05T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Bhantal FC v Old Edwardians FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 24"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "75637e1f-ec7e-4ddb-9da3-48d7d2d37990",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "75637e1f-ec7e-4ddb-9da3-48d7d2d37990",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "FC Tevragh Zeina v AS Pompier | Super D-1 2025/26",
+            "category": "livestream",
+            "urlSlug": "fc-tevragh-zeina-vs-as-pompier",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/48/d9/c7/6e/48d9c76e-6cad-4e8f-9c91-855cbf5a63c0.png",
+            "freeMode": "FREE_ADS",
+            "title": "FC Tevragh Zeina v AS Pompier | Super D-1 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular season",
+                "publisher": "MA | Mauritania",
+                "match": "FC Tevragh Zeina v AS Pompier",
+                "global-stage": "Round 23",
+                "team:fc-tevragh-zeina": "FC Tevragh Zeina",
+                "competition": "Super D-1",
+                "city": "Nouakchott",
+                "association": "Mauritania",
+                "stadium": "Stade Cheikha Ould Boïdiya",
+                "team:as-pompier": "AS Pompier",
+                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
+                "season": "Super D-1 2025/26",
+                "country": "Mauritania",
+                "video-type": "Live Streams",
+                "organizer": "Mauritania",
+                "organizer-country": "Mauritania"
+            },
+            "startDate": "2026-05-05T16:35:00Z",
+            "endDate": "2026-05-05T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-05T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "FC Tevragh Zeina v AS Pompier"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super D-1 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 23"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritania"
+                }
+            ]
+        },
+        {
+            "id": "e53f54e4-52d8-4f48-bf84-12a2135d217b",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "e53f54e4-52d8-4f48-bf84-12a2135d217b",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Wologisi FC v Discoveries SA | LFA First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "wologisi-fc-vs-discoveries-sa",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/64/07/6c/4f/64076c4f-a77e-4f45-952f-ff4cc7e864b1.png",
+            "freeMode": "FREE_ADS",
+            "title": "Wologisi FC v Discoveries SA | LFA First Division League 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "team:discoveries-sa": "Discoveries SA",
+                "team:wologisi-fc": "Wologisi FC",
+                "association": "Liberia",
+                "season": "LFA First Division League 2025/26",
+                "stadium": "D-Tweh Field",
+                "competition": "Liberia National League",
+                "match": "Wologisi FC v Discoveries SA",
+                "country": "Liberia",
+                "global-stage": "Round 26",
+                "city": "Monrovia",
+                "publisher": "MA | Liberia",
+                "video-type": "Live Streams",
+                "organizer": "Liberia",
+                "organizer-country": "Liberia"
+            },
+            "startDate": "2026-05-06T15:50:00Z",
+            "endDate": "2026-05-06T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-05T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Wologisi FC v Discoveries SA"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "LFA First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Liberia"
+                }
+            ]
+        }
+    ]
+}
