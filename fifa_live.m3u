@@ -1,5 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:27 AM 06-05-2026
+#last update time: 05:00:23 AM 06-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b1/d7/a7/54/b1d7a754-d375-4ffb-a795-d0458d49204a.png" group-title="FIFA Live", Doc's United v Attackers FC | Anguilla Senior Men's League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b6ac962fa703dc298b0c5584181e170:c7127c8557c91e3f54252bade8ba327d
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_12_25_51_e1c1286c-d9bf-445b-82f0-16fdb29f0d07/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778021340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/43/3a/70/48/433a7048-3435-4ba4-ad03-4810c927dc7e.png" group-title="FIFA Live", Brittons Hill FC v St.Andrew Lions FC | BFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5525bbbe0c63051ac680d87d27bb4ea:18b0651ff3f48463292497ae1481cfcf
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_53_36_ce9a1be4-ef90-4c47-9aba-3939bc72240e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778021340
