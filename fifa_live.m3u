@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:24 AM 06-05-2026
+#last update time: 07:00:22 AM 06-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b1/d7/a7/54/b1d7a754-d375-4ffb-a795-d0458d49204a.png" group-title="FIFA Live", Doc's United v Attackers FC | Anguilla Senior Men's League 2026
@@ -18,3 +18,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_53_36_ce9a1be4-ef90-4c47-9aba
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04862561b173f62917ea67bcec5c567:a7e71ffe39286035de0ac11333f7df98
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_26_24_21b269ef-f0be-4dbe-942b-32542ce40248/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778026740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ad/79/1f/b6/ad791fb6-38e7-4f5f-9e85-57bc6568d781.png" group-title="FIFA Live", Bagatelle FC v Kickstart Rush | BFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be463b1787ab3417b59faf187ef37cb8:60014787f140961573483ec23ef9050a
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_53_40_81e342eb-0cec-4d00-918c-85e891e61709/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778028840

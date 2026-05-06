@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:45:24 AM 06-05-2026",
-        "total_live": 3,
-        "total_upcoming": 24
+        "last_update_time": "07:00:22 AM 06-05-2026",
+        "total_live": 4,
+        "total_upcoming": 23
     },
     "matches": [
         {
@@ -250,7 +250,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -272,7 +272,13 @@
                     "p": 1,
                     "value": "Barbados"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_53_40_81e342eb-0cec-4d00-918c-85e891e61709/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778028840",
+                "decryption_keys": [
+                    "be463b1787ab3417b59faf187ef37cb8:60014787f140961573483ec23ef9050a"
+                ]
+            }
         },
         {
             "id": "e51db805-5cae-4db7-ac0a-2495c8b1cdb4",
