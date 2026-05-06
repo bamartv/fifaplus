@@ -3,77 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:15:40 PM 06-05-2026",
-        "total_live": 1,
+        "last_update_time": "03:30:28 PM 06-05-2026",
+        "total_live": 0,
         "total_upcoming": 21
     },
     "matches": [
-        {
-            "id": "95d1b345-47d5-4020-bcf6-e68b6da8018d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "95d1b345-47d5-4020-bcf6-e68b6da8018d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Auckland FC v South Melbourne FC | OFC Professional League 2026",
-            "category": "livestream",
-            "urlSlug": "auckland-fc-vs-south-melbourne",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/88/a0/a1/a3/88a0a1a3-c513-4137-894e-f16b66f42862.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Auckland FC v South Melbourne FC | OFC Professional League 2026",
-            "titleTemplateValues": {
-                "publisher": "OFC",
-                "association:australia": "Australia",
-                "team:south-melbourne": "South Melbourne FC",
-                "team:auckland-fc": "Auckland FC",
-                "association:new-zealand": "New Zealand",
-                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
-                "country:new-zealand": "New Zealand",
-                "stage": "Round 6 - Leaders Group",
-                "city": "Penrose",
-                "season": "OFC Professional League 2026",
-                "confederation": "OFC",
-                "stadium": "Go Media Stadium",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "country:australia": "Australia",
-                "global-stage": "Round 6",
-                "competition": "OFC Professional League ",
-                "match": "Auckland FC v South Melbourne FC",
-                "video-type": "Live Streams",
-                "organizer": "OFC"
-            },
-            "startDate": "2026-05-06T06:50:00Z",
-            "endDate": "2026-05-06T09:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T07:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Auckland FC v South Melbourne FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "OFC Professional League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 6"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_09_25c0871a-51c0-490f-8f04-a46c2c4f2e5b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778050140",
-                "decryption_keys": [
-                    "f69144598f833d4cae30c470576398e5:ad32c4125cfc673865c9845f78853de8"
-                ]
-            }
-        },
         {
             "id": "44a3f366-ddba-43f0-8eb1-572b84ecbfcc",
             "channelId": "fifa-tournaments",
