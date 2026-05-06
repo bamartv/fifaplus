@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:45:35 PM 06-05-2026
+#last update time: 11:00:31 PM 06-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0b/f8/21/20/0bf82120-abf6-4754-9c74-34315d8ee524.png" group-title="FIFA Live", Cercle de Joachim SC v La Cure Waves SC | MFA Cup 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b84e2aeece323245a2204be26958740d:a9c106c16f55590f39c1a1848609e7ec
-https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_09_45_23_c9d5f830-2298-44ec-bbde-f4b606585f4c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778077140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c9/87/fd/a2/c987fda2-3325-4407-94e6-3867399c1333.png" group-title="FIFA Live", Le Havre v Nantes | Arkema Première Ligue 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey

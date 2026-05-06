@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:35 PM 06-05-2026",
-        "total_live": 13,
+        "last_update_time": "11:00:31 PM 06-05-2026",
+        "total_live": 12,
         "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "43a461f6-d134-4aaf-802e-86db0f8aedb6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "43a461f6-d134-4aaf-802e-86db0f8aedb6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Cercle de Joachim SC v La Cure Waves SC | MFA Cup 2025/26",
-            "category": "livestream",
-            "urlSlug": "cercle-de-joachim-sc-vs-la-cure-waves-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/d7/aa/fb/da/d7aafbda-e39c-4193-a973-ec3d850cf357.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/0b/f8/21/20/0bf82120-abf6-4754-9c74-34315d8ee524.png",
-            "freeMode": "FREE_ADS",
-            "title": "Cercle de Joachim SC v La Cure Waves SC | MFA Cup 2025/26",
-            "titleTemplateValues": {
-                "city": "Port Louis",
-                "season": "MFA Cup 2025/26",
-                "competition": "MFA Cup",
-                "publisher": "MA | Mauritius",
-                "team:cercle-de-joachim-sc": "Cercle de Joachim SC",
-                "stadium": "St. François Xavier Stadium",
-                "country": "Mauritius",
-                "match": "Cercle de Joachim SC v La Cure Waves SC",
-                "association": "Mauritius",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "global-stage": "Semi-finals",
-                "stage": "1/2 Finals",
-                "publisher-channel": "MA | Mauritius | MFA Cup 2025/26 (Channel)",
-                "team:la-cure-waves-sc": "La Cure Waves SC",
-                "video-type": "Live Streams",
-                "organizer": "Mauritius",
-                "organizer-country": "Mauritius"
-            },
-            "startDate": "2026-05-06T14:20:00Z",
-            "endDate": "2026-05-06T17:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T14:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Cercle de Joachim SC v La Cure Waves SC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "MFA Cup 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Semi-finals"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritius"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_09_45_23_c9d5f830-2298-44ec-bbde-f4b606585f4c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778077140",
-                "decryption_keys": [
-                    "b84e2aeece323245a2204be26958740d:a9c106c16f55590f39c1a1848609e7ec"
-                ]
-            }
-        },
         {
             "id": "ae0143fa-370c-47ad-be39-7d87ace31c00",
             "channelId": "fifa-tournaments",
