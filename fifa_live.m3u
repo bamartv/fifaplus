@@ -1,10 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:20 AM 07-05-2026
+#last update time: 05:00:28 AM 07-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/77/40/75/c1774075-c2cb-4949-88f9-50a68e177b9f.png" group-title="FIFA Live", Cayon FC v St. Peters FC | SKNFA Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=270894f3a72f36b88e197b6187b0ee3b:5f9f9c35c6a8017324d1167ba605228d
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_22_50_e839f708-3a6e-4fd3-a35a-f3db0d465120/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778105940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/da/f4/6e/59/daf46e59-11e1-4e8c-86ab-1748db8ff1e9.png" group-title="FIFA Live", Dublanc FC v Pointe Michel FC | DFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1093e7b058333311965714c4319c452f:41fd2085643c45ba0680631cbde3fe4f
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_22_08_51_47_3f342d93-4dd2-407d-83d8-fcb72b96e3b4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778107740
