@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:35 PM 06-05-2026
+#last update time: 08:30:34 PM 06-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9b/b0/7e/88/9bb07e88-f669-4276-acdf-194dcd0caa56.png" group-title="FIFA Live", Azerbaijan v Lithuania | UEFA Development Tournament Women's U-16 2026
@@ -38,3 +38,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_49_06_2c1f0e86-85a2-4010-9376
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4026031a24ae3f0688e2b50e3b12ce05:6dee27ebb65a549c1eeb51b933a7b85d
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_49_03_1195667a-a9df-4b9d-92f3-755e6d0db243/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778075340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0b/f8/21/20/0bf82120-abf6-4754-9c74-34315d8ee524.png" group-title="FIFA Live", Cercle de Joachim SC v La Cure Waves SC | MFA Cup 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b84e2aeece323245a2204be26958740d:a9c106c16f55590f39c1a1848609e7ec
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_09_45_23_c9d5f830-2298-44ec-bbde-f4b606585f4c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778077140
