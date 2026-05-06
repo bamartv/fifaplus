@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:23 AM 07-05-2026
+#last update time: 05:45:27 AM 07-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/77/40/75/c1774075-c2cb-4949-88f9-50a68e177b9f.png" group-title="FIFA Live", Cayon FC v St. Peters FC | SKNFA Premier League 2025/26
@@ -13,3 +13,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_22_50_e839f708-3a6e-4fd3-a35a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1093e7b058333311965714c4319c452f:41fd2085643c45ba0680631cbde3fe4f
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_22_08_51_47_3f342d93-4dd2-407d-83d8-fcb72b96e3b4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778107740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/34/9e/5b/9e/349e5b9e-34fe-40bc-94b9-74b7bbeebbf3.png" group-title="FIFA Live", Diriangén v Matagalpa FC | Liga Primera Nicaragua 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=027f4e13324139249917a5360f758cb1:d390e2984469975fdaf9f71c153251b6
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_55_01_f79e7aa7-f70a-4512-87f0-0cd49e95e26e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778110620

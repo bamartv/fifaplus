@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:23 AM 07-05-2026",
-        "total_live": 2,
-        "total_upcoming": 19
+        "last_update_time": "05:45:27 AM 07-05-2026",
+        "total_live": 3,
+        "total_upcoming": 18
     },
     "matches": [
         {
@@ -174,7 +174,7 @@
                 "organizer": "Nicaragua",
                 "organizer-country": "Nicaragua"
             },
-            "startDate": "2026-05-06T23:50:00Z",
+            "startDate": "2026-05-06T23:38:00Z",
             "endDate": "2026-05-07T02:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-07T00:00:00Z"
@@ -182,7 +182,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -204,7 +204,13 @@
                     "p": 1,
                     "value": "Nicaragua"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_55_01_f79e7aa7-f70a-4512-87f0-0cd49e95e26e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778110620",
+                "decryption_keys": [
+                    "027f4e13324139249917a5360f758cb1:d390e2984469975fdaf9f71c153251b6"
+                ]
+            }
         },
         {
             "id": "70bcf087-d182-40e7-b19e-094e134ec3d8",
