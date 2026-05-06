@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:34 AM 06-05-2026",
-        "total_live": 2,
+        "last_update_time": "09:15:27 AM 06-05-2026",
+        "total_live": 1,
         "total_upcoming": 22
     },
     "matches": [
-        {
-            "id": "10453731-5cf5-4113-ac13-b294bd175aec",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "10453731-5cf5-4113-ac13-b294bd175aec",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Bagatelle FC v Kickstart Rush | BFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "bagatelle-fc-vs-kickstart-rush",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ad/79/1f/b6/ad791fb6-38e7-4f5f-9e85-57bc6568d781.png",
-            "freeMode": "FREE_ADS",
-            "title": "Bagatelle FC v Kickstart Rush | BFA Premier League 2026",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
-                "stadium": "BFA Technical Centre",
-                "match": "Bagatelle FC v Kickstart Rush",
-                "association": "Barbados",
-                "team:kickstart-rush": "Kickstart Rush",
-                "global-stage": "Round 15",
-                "publisher": "MA | Barbados",
-                "stage": "Regular Season",
-                "team:bagatelle-fc": "Bagatelle FC",
-                "city": "Saint Michael",
-                "competition": "BFA Premier League",
-                "country": "Barbados",
-                "season": "BFA Premier League 2026",
-                "video-type": "Live Streams",
-                "organizer": "Barbados",
-                "organizer-country": "Barbados"
-            },
-            "startDate": "2026-05-06T00:55:00Z",
-            "endDate": "2026-05-06T03:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T01:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Bagatelle FC v Kickstart Rush"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 15"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Barbados"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_53_40_81e342eb-0cec-4d00-918c-85e891e61709/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778028840",
-                "decryption_keys": [
-                    "be463b1787ab3417b59faf187ef37cb8:60014787f140961573483ec23ef9050a"
-                ]
-            }
-        },
         {
             "id": "e51db805-5cae-4db7-ac0a-2495c8b1cdb4",
             "channelId": "fifa-tournaments",
