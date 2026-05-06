@@ -1,5 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:31 PM 06-05-2026
+#last update time: 07:00:31 PM 06-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9b/b0/7e/88/9bb07e88-f669-4276-acdf-194dcd0caa56.png" group-title="FIFA Live", Azerbaijan v Lithuania | UEFA Development Tournament Women's U-16 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53b729653d0b3c5d947e992982884768:813a08080ce104202f844f81d91328be
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_12_05_79f2ac5b-2437-4e3a-8f34-9cf6a7e591bd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778071740
