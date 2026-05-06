@@ -3,419 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:29 PM 06-05-2026",
+        "last_update_time": "10:30:31 PM 06-05-2026",
         "total_live": 12,
-        "total_upcoming": 8
+        "total_upcoming": 1
     },
     "matches": [
-        {
-            "id": "60686dc4-9d6d-4a74-8423-1d2462791732",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "60686dc4-9d6d-4a74-8423-1d2462791732",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Club Red Star de Bangui v TP USCA | Central African Republic Super League 2026",
-            "category": "livestream",
-            "urlSlug": "club-red-star-de-bangui-vs-tp-usca",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/12/d2/95/35/12d29535-9e89-468f-85f5-3ba4a598305a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/df/f2/31/54/dff23154-5e04-4eb4-b03a-4627e0129f2c.png",
-            "freeMode": "FREE_ADS",
-            "title": "Club Red Star de Bangui v TP USCA | Central African Republic Super League 2026",
-            "titleTemplateValues": {
-                "global-stage": "Round 5",
-                "stadium": "Zari Herman",
-                "publisher-channel": "MA | Central Africa Republic | League D1 - Super League 2026 (Channel)",
-                "city": "Bouar",
-                "season": "Central African Republic Super League 2026",
-                "team:club-red-star-de-bangui": "Club Red Star de Bangui",
-                "publisher": "MA | Central African Republic (Publisher)",
-                "competition": "Ligue de Bangui",
-                "match": "Club Red Star de Bangui v TP USCA",
-                "association": "Central African Republic",
-                "team:tp-usca": "TP USCA",
-                "country": "Central African Republic",
-                "stage": "Regular Season",
-                "video-type": "Live Streams",
-                "organizer": "Central African Republic",
-                "organizer-country": "Central African Republic"
-            },
-            "startDate": "2026-05-06T13:50:00Z",
-            "endDate": "2026-05-06T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Club Red Star de Bangui v TP USCA"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Central African Republic Super League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 5"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Central African Republic"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_44_08_2ec79595-d9e9-4701-8802-5401d8e27384/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778075340",
-                "decryption_keys": [
-                    "7e38ff71648e3e9b9cf4b26f60ef5d80:77676ee282d4b109d5627ad1a078a3e4"
-                ]
-            }
-        },
-        {
-            "id": "7921e7f0-837c-4ef0-bb2b-3282a36b2fa0",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "7921e7f0-837c-4ef0-bb2b-3282a36b2fa0",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC Dinamo City v Vora | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "fc-dinamo-city-vs-kf-vora",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f8/5f/76/a2/f85f76a2-5357-4516-92c2-ea898657c9b0.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC Dinamo City v Vora | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "stadium": "Air Albania Stadium",
-                "global-stage": "Round 35",
-                "season": "Kategoria Superiore 2025/26",
-                "country": "Albania",
-                "video-type": "Full Match Replays",
-                "team:kf-vora": "Vora",
-                "match": "FC Dinamo City v Vora",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "publisher": "MA | Albania",
-                "competition": "Kategoria Superiore",
-                "team:fc-dinamo-city": "FC Dinamo City",
-                "association": "Albania",
-                "city": "Tirana",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-06T13:50:00Z",
-            "endDate": "2026-05-06T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC Dinamo City v Vora"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 35"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_49_16_833f425d-7490-4df7-be4a-839f6d3e288f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778075340",
-                "decryption_keys": [
-                    "6c1ff59a2c213c988ee78e9b2d284b4a:f2f1c54d1bacf35cdcebea0ee50cca1a"
-                ]
-            }
-        },
-        {
-            "id": "2ef8e96a-2b96-4ff7-ad77-a0b3c014519c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2ef8e96a-2b96-4ff7-ad77-a0b3c014519c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Flamurtari v KF Teuta | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "flamurtari-fc-vs-kf-teuta",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/05/31/2e/d5/05312ed5-2672-4a5b-b634-aa352c5b01b2.png",
-            "freeMode": "FREE_ADS",
-            "title": "Flamurtari v KF Teuta | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "stadium": "Stadiumi Flamurtari",
-                "team:kf-teuta": "KF Teuta",
-                "team:flamurtari-fc": "Flamurtari",
-                "global-stage": "Round 35",
-                "season": "Kategoria Superiore 2025/26",
-                "country": "Albania",
-                "video-type": "Full Match Replays",
-                "city": "Vlorë",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "publisher": "MA | Albania",
-                "match": "Flamurtari v KF Teuta",
-                "competition": "Kategoria Superiore",
-                "association": "Albania",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-06T13:50:00Z",
-            "endDate": "2026-05-06T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Flamurtari v KF Teuta"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 35"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_49_09_2f9e177c-0091-44ea-bbfd-ef9afd711359/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778075340",
-                "decryption_keys": [
-                    "f6dfaa4647e0336d9a7ce3ea25b809f3:33a27b2c583c7a5e30365fcedcfe8fb6"
-                ]
-            }
-        },
-        {
-            "id": "c2c7acbe-0753-4c0d-89d2-62042c75532c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c2c7acbe-0753-4c0d-89d2-62042c75532c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "KF Bylis v AF Elbasani | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "kf-bylis-vs-af-elbasani",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e6/11/62/6f/e611626f-eba9-4fa6-8576-13cb52a044e0.png",
-            "freeMode": "FREE_ADS",
-            "title": "KF Bylis v AF Elbasani | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "stadium": "Adush Muçaj Stadium",
-                "global-stage": "Round 35",
-                "season": "Kategoria Superiore 2025/26",
-                "team:af-elbasani": "AF Elbasani",
-                "team:kf-bylis": "KF Bylis",
-                "country": "Albania",
-                "city": "Ballsh",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "publisher": "MA | Albania",
-                "competition": "Kategoria Superiore",
-                "match": "KF Bylis v AF Elbasani",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-06T13:50:00Z",
-            "endDate": "2026-05-06T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "KF Bylis v AF Elbasani"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 35"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_49_13_4b6b1105-49c5-43d9-8337-36b743b21679/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778075340",
-                "decryption_keys": [
-                    "46bc10ed4952326d84967067eb6425eb:97338921aa14269ffc68ec699a63d6d0"
-                ]
-            }
-        },
-        {
-            "id": "0696d734-0ffa-4e2f-bc92-5e5eb231ea5e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "0696d734-0ffa-4e2f-bc92-5e5eb231ea5e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "KF Egnatia v FK Partizani | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "kf-egnatia-vs-fk-partizani",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f5/7f/40/04/f57f4004-6db1-4b6c-be25-33513ef59288.png",
-            "freeMode": "FREE_ADS",
-            "title": "KF Egnatia v FK Partizani | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "team:kf-egnatia": "KF Egnatia",
-                "global-stage": "Round 35",
-                "stadium": "Arena Egnatia",
-                "season": "Kategoria Superiore 2025/26",
-                "team:fk-partizani": "FK Partizani",
-                "country": "Albania",
-                "match": "KF Egnatia v FK Partizani",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "city": "Rrogozhinë",
-                "publisher": "MA | Albania",
-                "competition": "Kategoria Superiore",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-06T13:50:00Z",
-            "endDate": "2026-05-06T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "KF Egnatia v FK Partizani"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 35"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_49_06_2c1f0e86-85a2-4010-9376-0e96eca1b5e5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778075340",
-                "decryption_keys": [
-                    "adc56891ba17353bbc6f688d9e3ec403:fe834731c591852fba4632c055c1c1c0"
-                ]
-            }
-        },
-        {
-            "id": "88d0f3bf-356f-4c57-ba86-904bd3f41154",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "88d0f3bf-356f-4c57-ba86-904bd3f41154",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "KF Tirana v KF Vllaznia | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "kf-tirana-vs-kf-vllaznia",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/33/c9/62/1e/33c9621e-5a06-4b33-b766-be39739a637a.png",
-            "freeMode": "FREE_ADS",
-            "title": "KF Tirana v KF Vllaznia | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "stadium": "Selman Stërmasi Stadium",
-                "global-stage": "Round 35",
-                "season": "Kategoria Superiore 2025/26",
-                "team:kf-vllaznia": "KF Vllaznia",
-                "country": "Albania",
-                "team:kf-tirana": "KF Tirana",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "publisher": "MA | Albania",
-                "competition": "Kategoria Superiore",
-                "match": "KF Tirana v KF Vllaznia",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "city": "Tirana",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-06T13:50:00Z",
-            "endDate": "2026-05-06T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "KF Tirana v KF Vllaznia"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 35"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_49_03_1195667a-a9df-4b9d-92f3-755e6d0db243/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778075340",
-                "decryption_keys": [
-                    "4026031a24ae3f0688e2b50e3b12ce05:6dee27ebb65a549c1eeb51b933a7b85d"
-                ]
-            }
-        },
         {
             "id": "43a461f6-d134-4aaf-802e-86db0f8aedb6",
             "channelId": "fifa-tournaments",
@@ -758,74 +350,6 @@
             }
         },
         {
-            "id": "b8ab8739-6a56-45ac-85a7-9740c5a4836f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "b8ab8739-6a56-45ac-85a7-9740c5a4836f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Inter Bom-Bom v Juba de Diogo Simão | National Football Championship 2026",
-            "category": "livestream",
-            "urlSlug": "inter-bom-bom-vs-juba-diogo-simao",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/19/63/88/32/19638832-df6d-43d7-9048-30127ce18e4d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/2c/cf/46/5b/2ccf465b-96c3-4b52-86dd-8cd59b6e8bfd.png",
-            "freeMode": "FREE_ADS",
-            "title": "Inter Bom-Bom v Juba de Diogo Simão | National Football Championship 2026",
-            "titleTemplateValues": {
-                "publisher": "São Tomé e Príncipe ",
-                "stadium": "Bombom Field",
-                "stage": "Regular Season",
-                "team:juba-diogo-simao": "Juba de Diogo Simão",
-                "competition": "Campeonato Nacional de Futebol",
-                "global-stage": "Round 2",
-                "city": "Bombom",
-                "season": "National Football Championship 2026",
-                "team:inter-bom-bom": "Inter Bom-Bom",
-                "match": "Inter Bom-Bom v Juba de Diogo Simão",
-                "publisher-channel": "MA | São Tomé e Príncipe | Campeonato Nacional de Futebol 2025/26 (Channel)",
-                "video-type": "Live Streams",
-                "association": "São Tomé and Príncipe",
-                "country": "São Tomé and Príncipe",
-                "organizer": "São Tomé and Príncipe",
-                "organizer-country": "São Tomé and Príncipe"
-            },
-            "startDate": "2026-05-06T14:50:00Z",
-            "endDate": "2026-05-06T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Inter Bom-Bom v Juba de Diogo Simão"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "National Football Championship 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 2"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "São Tomé and Príncipe"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_28_10_39_35_3847d1df-e14a-4b3b-823f-ce3f7a93e38c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778078940",
-                "decryption_keys": [
-                    "ee0152fb9c7732668fb78b75d8a84757:e808cc4e776be6a52c7847cec522d51e"
-                ]
-            }
-        },
-        {
             "id": "04ab3d2e-f186-40dd-abb9-e87d67c8076f",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "04ab3d2e-f186-40dd-abb9-e87d67c8076f",
@@ -863,7 +387,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -885,7 +409,13 @@
                     "p": 1,
                     "value": "The Gambia"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_25_92fcd933-caa1-49b1-8510-0a27d811d617/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084340",
+                "decryption_keys": [
+                    "2bcb796678af3807a82b6fc96adc04fc:293a861a100aada45edfd6e26f67cc95"
+                ]
+            }
         },
         {
             "id": "4028b315-71bd-433e-a9f6-d51a646d3dd3",
@@ -925,7 +455,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -947,7 +477,13 @@
                     "p": 1,
                     "value": "The Gambia"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_38_aaac8415-2b6e-401b-99bc-2dfb91c8a40f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084340",
+                "decryption_keys": [
+                    "a770f59a43fc3fb3b3c4d689f7b32c1b:a22af00da533c52411d03cdeff9bf0e0"
+                ]
+            }
         },
         {
             "id": "0bf03814-2b59-4de7-b102-7fc567033446",
@@ -987,7 +523,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1009,69 +545,13 @@
                     "p": 1,
                     "value": "The Gambia"
                 }
-            ]
-        },
-        {
-            "id": "03766d60-6a98-4591-8213-8f2e9216bc06",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "03766d60-6a98-4591-8213-8f2e9216bc06",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Gambia Ports Authority FC v Steve Biko | Gambia GFF League 25/26",
-            "category": "livestream",
-            "urlSlug": "gambia-ports-authority-fc-vs-steve-biko-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d3/6f/09/30/d36f0930-0e13-46a7-8518-160568f080fe.png",
-            "freeMode": "FREE_ADS",
-            "title": "Gambia Ports Authority FC v Steve Biko | Gambia GFF League 25/26",
-            "titleTemplateValues": {
-                "global-stage": "Round 23",
-                "country": "The Gambia",
-                "publisher": "MA | Gambia",
-                "stage": "Regular Season",
-                "competition": "Gambia GFF League",
-                "association": "The Gambia",
-                "team:steve-biko-fc": "Steve Biko",
-                "team:gambia-ports-authority-fc": "Gambia Ports Authority FC",
-                "match": "Gambia Ports Authority FC v Steve Biko",
-                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
-                "season": "Gambia GFF League 25/26",
-                "city": "Bakau",
-                "stadium": "Bakau Mini Stadium",
-                "video-type": "Live Streams",
-                "organizer": "The Gambia",
-                "organizer-country": "The Gambia"
-            },
-            "startDate": "2026-05-06T16:20:00Z",
-            "endDate": "2026-05-06T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Gambia Ports Authority FC v Steve Biko"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Gambia GFF League 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 23"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "The Gambia"
-                }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_50_f4dcc60c-b9c5-4059-8730-9623d36cbaf1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084340",
+                "decryption_keys": [
+                    "07ed55b1693e3425898d5a3bd2f1181b:0dbe8f256559f481ed8d43e19ffa5eb4"
+                ]
+            }
         },
         {
             "id": "f3d12624-e5fb-4abf-9926-8669a8c2e7f7",
@@ -1111,7 +591,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1133,7 +613,13 @@
                     "p": 1,
                     "value": "The Gambia"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_34_a9b1ef45-90ba-4c26-9f1e-596cda534821/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084340",
+                "decryption_keys": [
+                    "aa10bf82d7dd3baf826245ed4705bd5e:f7f1f53569124d99941f9d5394d679b9"
+                ]
+            }
         },
         {
             "id": "bbb2d5b1-4bd9-404a-a632-fa57925b93c4",
@@ -1173,7 +659,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1195,7 +681,13 @@
                     "p": 1,
                     "value": "The Gambia"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_45_c5933929-b921-436f-baf0-8b1129f68985/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084340",
+                "decryption_keys": [
+                    "432ca2bf9c913b4789ff1c4ce29bc374:d97592d30a77c0b99af1ee95881ea2c4"
+                ]
+            }
         },
         {
             "id": "ca8855a8-275a-4273-b110-f15761592d8c",
@@ -1235,7 +727,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1257,7 +749,81 @@
                     "p": 1,
                     "value": "Sierra Leone"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_36_09_b53e7acb-dc90-43f9-be23-8d5b280cedc5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084340",
+                "decryption_keys": [
+                    "290d957de6643152aa6e5b3157e52453:575b1b91dbadc6b0870eae20a4802336"
+                ]
+            }
+        },
+        {
+            "id": "03766d60-6a98-4591-8213-8f2e9216bc06",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "03766d60-6a98-4591-8213-8f2e9216bc06",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Gambia Ports Authority FC v Steve Biko | Gambia GFF League 25/26",
+            "category": "livestream",
+            "urlSlug": "gambia-ports-authority-fc-vs-steve-biko-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d3/6f/09/30/d36f0930-0e13-46a7-8518-160568f080fe.png",
+            "freeMode": "FREE_ADS",
+            "title": "Gambia Ports Authority FC v Steve Biko | Gambia GFF League 25/26",
+            "titleTemplateValues": {
+                "global-stage": "Round 23",
+                "country": "The Gambia",
+                "publisher": "MA | Gambia",
+                "stage": "Regular Season",
+                "competition": "Gambia GFF League",
+                "association": "The Gambia",
+                "team:steve-biko-fc": "Steve Biko",
+                "team:gambia-ports-authority-fc": "Gambia Ports Authority FC",
+                "match": "Gambia Ports Authority FC v Steve Biko",
+                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
+                "season": "Gambia GFF League 25/26",
+                "city": "Bakau",
+                "stadium": "Bakau Mini Stadium",
+                "video-type": "Live Streams",
+                "organizer": "The Gambia",
+                "organizer-country": "The Gambia"
+            },
+            "startDate": "2026-05-06T16:30:00Z",
+            "endDate": "2026-05-06T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-06T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Gambia Ports Authority FC v Steve Biko"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Gambia GFF League 25/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 23"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "The Gambia"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_20_3fec281f-224f-439f-8cbb-d5dc13483359/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084940",
+                "decryption_keys": [
+                    "e728aa50fd493623b59178b1e7376e0f:d7e64e726c8c2c6bec61d5a25d476552"
+                ]
+            }
         },
         {
             "id": "771b01a9-1c8d-4a1f-b51e-8252ebd3be40",
