@@ -1,10 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:34 AM 08-05-2026
+#last update time: 01:15:25 AM 08-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/87/53/37/02/87533702-7c28-4796-b16a-8a3bb5f831d4.png" group-title="FIFA Live", Nouakchott Kings v Nouakchott Academy | Super D-1 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d95820defc2734669066f16d3447d35e:de52a937699a9f21b08f9bcf5bc5bba1
-https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_08_58_29_56671179-9fa2-49a1-a73f-b99769921789/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778171340
