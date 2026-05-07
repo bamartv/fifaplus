@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:17 AM 07-05-2026
+#last update time: 09:00:35 AM 07-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4e/b8/4b/b2/4eb84bb2-e0be-444c-8d3c-0945f12e6754.png" group-title="FIFA Live", Robinhood v Leo Victor | Suriname Major League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79955689ceb43a2e9d8e557c2ecafa3a:ddafb9bd901f518a12600197613c7f32
-https://d7pd9oqdl4d44.cloudfront.net/2026_03_30_13_54_57_ac3e36a0-8580-4ec7-9f5f-33e3da960642/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778111340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f0/31/d3/32/f031d332-3a88-4ffd-877f-56f115809a74.png" group-title="FIFA Live", Old Road United Jets v Newtown United FC | SKNFA Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cef371c6d553cb48b9f59a7a9381178:cdce47742cc2422fdd6a13e9370e938f
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_22_53_576e7e26-be6b-45b4-a390-06a59cdcefe7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778113140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c3/47/23/a2/c34723a2-5d7c-43ab-a972-1cad9b69cd34.png" group-title="FIFA Live", Real Estelí v ART Jalapa | Liga Primera Nicaragua 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
