@@ -3,147 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:23 PM 07-05-2026",
-        "total_live": 5,
-        "total_upcoming": 3
+        "last_update_time": "10:30:33 PM 07-05-2026",
+        "total_live": 6,
+        "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "57e70322-705d-4abe-a281-c2f45c5ed8e5",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "57e70322-705d-4abe-a281-c2f45c5ed8e5",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "KF Iliria v Besa | Kategoria e Parë 2025/26",
-            "category": "livestream",
-            "urlSlug": "kf-iliria-vs-ks-besa",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a9/29/53/83/a9295383-98b2-479b-b8b1-74c35fc272cb.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/41/b7/0e/30/41b70e30-5a01-4219-8e19-e82d3add2ae9.png",
-            "freeMode": "FREE_ADS",
-            "title": "KF Iliria v Besa | Kategoria e Parë 2025/26",
-            "titleTemplateValues": {
-                "city": "Fushë-Krujë",
-                "season": "Kategoria e Parë 2025/26",
-                "team:kf-iliria": "KF Iliria",
-                "stadium": "Stadiumi Redi Maloku",
-                "team:ks-besa": "Besa",
-                "country": "Albania",
-                "publisher": "MA | Albania",
-                "publisher-channel": "MA | Albania | Kategoria e Parë 2025/26",
-                "match": "KF Iliria v Besa",
-                "stage": "Play-offs Semi-final",
-                "competition": "Kategoria e Parë",
-                "global-stage": "Semi-finals",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-07T13:50:00Z",
-            "endDate": "2026-05-07T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-07T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "KF Iliria v Besa"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria e Parë 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Semi-finals"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_35_47_16b3079e-d1e3-45dc-85f9-517b20a4e813/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778161740",
-                "decryption_keys": [
-                    "58ca89c091693d46a8c5db609531a205:c931db94581522b94cf3743fe79143f4"
-                ]
-            }
-        },
-        {
-            "id": "5eb07d08-e250-41b9-9e12-18b62d2fffc9",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5eb07d08-e250-41b9-9e12-18b62d2fffc9",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Pogradeci v Kastrioti | Kategoria e Parë 2025/26",
-            "category": "livestream",
-            "urlSlug": "fk-pogradeci-vs-ks-kastrioti",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a9/29/53/83/a9295383-98b2-479b-b8b1-74c35fc272cb.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3c/c1/01/f4/3cc101f4-f83a-4e4f-8b5c-3ee922d08a78.png",
-            "freeMode": "FREE_ADS",
-            "title": "Pogradeci v Kastrioti | Kategoria e Parë 2025/26",
-            "titleTemplateValues": {
-                "season": "Kategoria e Parë 2025/26",
-                "team:ks-kastrioti": "Kastrioti",
-                "team:fk-pogradeci": "Pogradeci",
-                "country": "Albania",
-                "city": "Pogradec",
-                "publisher": "MA | Albania",
-                "publisher-channel": "MA | Albania | Kategoria e Parë 2025/26",
-                "match": "Pogradeci v Kastrioti",
-                "stage": "Play-offs Semi-final",
-                "competition": "Kategoria e Parë",
-                "global-stage": "Semi-finals",
-                "stadium": "Stadiumi Gjorgji Kycyku",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-07T13:50:00Z",
-            "endDate": "2026-05-07T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-07T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Pogradeci v Kastrioti"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria e Parë 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Semi-finals"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_34_52_216620a1-30ae-409e-895a-246fb7ea1dec/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778161740",
-                "decryption_keys": [
-                    "4778089398ad338b8b7cedd1c8543dc3:25300cd4d4860cb5afea21a5877b6a6f"
-                ]
-            }
-        },
         {
             "id": "90e0824a-aaab-45e5-94ed-47475659dbe7",
             "channelId": "fifa-tournaments",
@@ -387,7 +251,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -409,7 +273,13 @@
                     "p": 1,
                     "value": "The Gambia"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_16_21_36_bc7aac99-d7b8-4024-967c-03b8946df41b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778170740",
+                "decryption_keys": [
+                    "b92a906d4b113d43ba05ed5fb4cd8dc0:4f504e051cebd10babdfb764ab1a8fd2"
+                ]
+            }
         },
         {
             "id": "1c4aff0f-d0e1-4f80-92ad-7d1758be6f06",
@@ -449,7 +319,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -471,7 +341,13 @@
                     "p": 1,
                     "value": "Sierra Leone"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_16_43_42_c97ad492-a3ab-420a-9545-6ad87deec99d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778170740",
+                "decryption_keys": [
+                    "f9e3d594461e377e84eb934c7eabd16f:bffe04f27cff9173766e18d35957c414"
+                ]
+            }
         },
         {
             "id": "bfb4c550-a519-475d-a83c-0ab27f06e230",
@@ -503,7 +379,7 @@
                 "organizer": "Mauritania",
                 "organizer-country": "Mauritania"
             },
-            "startDate": "2026-05-07T16:35:00Z",
+            "startDate": "2026-05-07T16:30:00Z",
             "endDate": "2026-05-07T19:15:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-07T16:45:00Z"
@@ -511,7 +387,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -533,7 +409,13 @@
                     "p": 1,
                     "value": "Mauritania"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_08_58_29_56671179-9fa2-49a1-a73f-b99769921789/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778171340",
+                "decryption_keys": [
+                    "d95820defc2734669066f16d3447d35e:de52a937699a9f21b08f9bcf5bc5bba1"
+                ]
+            }
         }
     ]
 }

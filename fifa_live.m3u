@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:23 PM 07-05-2026
+#last update time: 10:30:33 PM 07-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/41/b7/0e/30/41b70e30-5a01-4219-8e19-e82d3add2ae9.png" group-title="FIFA Live", KF Iliria v Besa | Kategoria e Parë 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58ca89c091693d46a8c5db609531a205:c931db94581522b94cf3743fe79143f4
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_35_47_16b3079e-d1e3-45dc-85f9-517b20a4e813/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778161740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3c/c1/01/f4/3cc101f4-f83a-4e4f-8b5c-3ee922d08a78.png" group-title="FIFA Live", Pogradeci v Kastrioti | Kategoria e Parë 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4778089398ad338b8b7cedd1c8543dc3:25300cd4d4860cb5afea21a5877b6a6f
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_34_52_216620a1-30ae-409e-895a-246fb7ea1dec/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778161740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cb/d0/dc/c2/cbd0dcc2-47f9-4717-b069-de277f62473f.png" group-title="FIFA Live", St. Louis FC v Real Maldive FC | Seychelles Absa Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -28,3 +18,18 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_41_19_9bf339f8-9582-4865-bcc0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4178286b0a9638c386404e0fe5c6a672:ad16516ac5f520c16ca8849cfb1271be
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_03_02_89ff987c-96f6-48e6-bdc4-0ff14d9392bf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778168040
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1d/23/da/2b/1d23da2b-3abf-487e-941c-dc791b9b5f7b.png" group-title="FIFA Live", Fortune v TMT FA | Gambia GFF League 25/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b92a906d4b113d43ba05ed5fb4cd8dc0:4f504e051cebd10babdfb764ab1a8fd2
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_16_21_36_bc7aac99-d7b8-4024-967c-03b8946df41b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778170740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4d/9a/ac/e1/4d9aace1-1a36-400b-9f22-8e13c6523f71.png" group-title="FIFA Live", Freetown City FC v Bai Bureh Warriors FC | Leone Rock Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9e3d594461e377e84eb934c7eabd16f:bffe04f27cff9173766e18d35957c414
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_16_43_42_c97ad492-a3ab-420a-9545-6ad87deec99d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778170740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/87/53/37/02/87533702-7c28-4796-b16a-8a3bb5f831d4.png" group-title="FIFA Live", Nouakchott Kings v Nouakchott Academy | Super D-1 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d95820defc2734669066f16d3447d35e:de52a937699a9f21b08f9bcf5bc5bba1
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_08_58_29_56671179-9fa2-49a1-a73f-b99769921789/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778171340
