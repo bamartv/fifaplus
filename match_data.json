@@ -3,78 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:15:18 AM 07-05-2026",
-        "total_live": 1,
+        "last_update_time": "11:30:23 AM 07-05-2026",
+        "total_live": 0,
         "total_upcoming": 13
     },
     "matches": [
-        {
-            "id": "29a735b4-b152-4823-82b7-0f3b6ec3e50b",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "29a735b4-b152-4823-82b7-0f3b6ec3e50b",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Solomon Kings FC v Tahiti United | OFC Professional League 2026",
-            "category": "livestream",
-            "urlSlug": "solomon-kings-fc-vs-tahiti-united",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/59/6b/8f/94/596b8f94-5c51-4062-b188-dd786a9edbc7.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Solomon Kings FC v Tahiti United | OFC Professional League 2026",
-            "titleTemplateValues": {
-                "stadium": "Eden Park",
-                "stage": "Round 6 - Challengers Group",
-                "publisher": "OFC",
-                "association:tahiti": "Tahiti",
-                "city": "Auckland/Tāmaki Makaurau ",
-                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
-                "country:new-zealand": "New Zealand",
-                "match": "Solomon Kings FC v Tahiti United",
-                "season": "OFC Professional League 2026",
-                "country:solomon-islands": "Solomon Islands",
-                "confederation": "OFC",
-                "team:tahiti-united": "Tahiti United",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "association:solomon-islands": "Solomon Islands",
-                "global-stage": "Round 6",
-                "team:solomon-kings-fc": "Solomon Kings FC",
-                "competition": "OFC Professional League ",
-                "video-type": "Live Streams",
-                "country:tahiti": "Tahiti",
-                "organizer": "OFC"
-            },
-            "startDate": "2026-05-07T02:45:00Z",
-            "endDate": "2026-05-07T05:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-07T03:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Solomon Kings FC v Tahiti United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "OFC Professional League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 6"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_46_ee37399c-8810-4f4b-a7cd-846f66ebd8e9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778121840",
-                "decryption_keys": [
-                    "7091e3891c92317b8ec56be68a88781e:2c1ed39cfe1b526854ed2442f65b54b2"
-                ]
-            }
-        },
         {
             "id": "47b24f9c-0305-41d8-8c94-baf2257637e6",
             "channelId": "fifa-tournaments",
