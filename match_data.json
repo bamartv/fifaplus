@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:23 AM 07-05-2026",
+        "last_update_time": "08:45:17 AM 07-05-2026",
         "total_live": 4,
-        "total_upcoming": 14
+        "total_upcoming": 13
     },
     "matches": [
         {
@@ -22,6 +22,7 @@
             "title": "Robinhood v Leo Victor | Suriname Major League 2025/26",
             "titleTemplateValues": {
                 "season": "Suriname Major League 2025/26",
+                "video-type": "Full Match Replays",
                 "team:robinhood": "Robinhood",
                 "publisher": "MA | Suriname",
                 "city": "Paramaribo",
@@ -33,7 +34,6 @@
                 "match": "Robinhood v Leo Victor",
                 "association": "Suriname",
                 "global-stage": "Round 20",
-                "video-type": "Live Streams",
                 "publisher-channel": "MA | Suriname | Suriname's SML Season III 2025/2026",
                 "organizer": "Suriname",
                 "organizer-country": "Suriname"
@@ -73,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_03_30_13_54_57_ac3e36a0-8580-4ec7-9f5f-33e3da960642/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778111340",
                 "decryption_keys": [
                     "79955689ceb43a2e9d8e557c2ecafa3a:ddafb9bd901f518a12600197613c7f32"
-                ]
-            }
-        },
-        {
-            "id": "6676a1d6-8f3b-42e2-b963-8e4ae2a16f9b",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6676a1d6-8f3b-42e2-b963-8e4ae2a16f9b",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Caiquetio v River Plate Aruba | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "caiquetio-vs-riverplate-aruba",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/51/d7/30/93/51d73093-7a4b-4ce7-9100-fd90655dc845.png",
-            "freeMode": "FREE_ADS",
-            "title": "Caiquetio v River Plate Aruba | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "country": "Aruba",
-                "association": "Aruba",
-                "team:caiquetio": "Caiquetio",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "stage": "Division Honor Liga-Plata Pool B Round 2",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "global-stage": "Division Honor Plata",
-                "match": "Caiquetio v River Plate Aruba",
-                "team:riverplate-aruba": "River Plate Aruba",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-07T00:20:00Z",
-            "endDate": "2026-05-07T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-07T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Caiquetio v River Plate Aruba"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Plata"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_26_27_0d22548f-e602-4f3d-934c-8686d5c0afe7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778113140",
-                "decryption_keys": [
-                    "6e35095525bd38b68dc013b7c1a52d21:723191b6ffd2c529fd1165f238d71375"
                 ]
             }
         },
@@ -314,7 +246,7 @@
                 "country:tahiti": "Tahiti",
                 "organizer": "OFC"
             },
-            "startDate": "2026-05-07T02:50:00Z",
+            "startDate": "2026-05-07T02:45:00Z",
             "endDate": "2026-05-07T05:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-07T03:00:00Z"
@@ -322,7 +254,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -339,7 +271,13 @@
                     "p": 0,
                     "value": "Round 6"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_46_ee37399c-8810-4f4b-a7cd-846f66ebd8e9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778121840",
+                "decryption_keys": [
+                    "7091e3891c92317b8ec56be68a88781e:2c1ed39cfe1b526854ed2442f65b54b2"
+                ]
+            }
         },
         {
             "id": "47b24f9c-0305-41d8-8c94-baf2257637e6",
