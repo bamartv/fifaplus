@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:28 AM 07-05-2026
+#last update time: 06:30:33 AM 07-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/77/40/75/c1774075-c2cb-4949-88f9-50a68e177b9f.png" group-title="FIFA Live", Cayon FC v St. Peters FC | SKNFA Premier League 2025/26
@@ -23,3 +23,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_55_01_f79e7aa7-f70a-4512-87f0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79955689ceb43a2e9d8e557c2ecafa3a:ddafb9bd901f518a12600197613c7f32
 https://d7pd9oqdl4d44.cloudfront.net/2026_03_30_13_54_57_ac3e36a0-8580-4ec7-9f5f-33e3da960642/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778111340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/51/d7/30/93/51d73093-7a4b-4ce7-9100-fd90655dc845.png" group-title="FIFA Live", Caiquetio v River Plate Aruba | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e35095525bd38b68dc013b7c1a52d21:723191b6ffd2c529fd1165f238d71375
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_26_27_0d22548f-e602-4f3d-934c-8686d5c0afe7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778113140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f0/31/d3/32/f031d332-3a88-4ffd-877f-56f115809a74.png" group-title="FIFA Live", Old Road United Jets v Newtown United FC | SKNFA Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cef371c6d553cb48b9f59a7a9381178:cdce47742cc2422fdd6a13e9370e938f
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_22_53_576e7e26-be6b-45b4-a390-06a59cdcefe7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778113140
