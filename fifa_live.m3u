@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:21 AM 07-05-2026
+#last update time: 10:00:25 AM 07-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c3/47/23/a2/c34723a2-5d7c-43ab-a972-1cad9b69cd34.png" group-title="FIFA Live", Real Estelí v ART Jalapa | Liga Primera Nicaragua 2025/26 | Full Match Replay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d804b77242823dd0bae5da9ec22eaa96:041bebc99ddee8052ea2183f73f80e21
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_55_05_3264f91a-d12a-4199-ac18-e2680cf38b66/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778115840
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/6b/8f/94/596b8f94-5c51-4062-b188-dd786a9edbc7.jpg" group-title="FIFA Live", Solomon Kings FC v Tahiti United | OFC Professional League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
