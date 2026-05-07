@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:33 AM 07-05-2026",
+        "last_update_time": "06:45:25 AM 07-05-2026",
         "total_live": 6,
         "total_upcoming": 15
     },
@@ -27,13 +27,13 @@
                 "match": "Cayon FC v St. Peters FC",
                 "publisher-channel": "MA | Saint Kitts and Nevis | SKNFA Premier League 2025/2026",
                 "competition": "SKNFA Premier League",
+                "video-type": "Full Match Replays",
                 "global-stage": "Playoffs",
                 "stadium": "SKNFA Technical Center",
                 "country": "St Kitts and Nevis",
                 "season": "SKNFA Premier League 2025/26",
                 "city": "Monkey Hill",
                 "team:cayon-fc": "Cayon FC",
-                "video-type": "Live Streams",
                 "team:st-peters-fc": "St. Peters FC",
                 "organizer": "St Kitts and Nevis",
                 "organizer-country": "St Kitts and Nevis"
@@ -243,9 +243,9 @@
                 "organizer-country": "Suriname"
             },
             "startDate": "2026-05-06T23:50:00Z",
-            "endDate": "2026-05-07T02:30:00Z",
+            "endDate": "2026-05-07T03:00:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-07T00:00:00Z"
+                "kickOffTime": "2026-05-07T00:30:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
