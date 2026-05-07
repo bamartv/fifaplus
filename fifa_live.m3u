@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:27 PM 07-05-2026
+#last update time: 07:00:27 PM 07-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f9/4e/c5/2d/f94ec52d-5446-4816-9b8d-24694d04686d.png" group-title="FIFA Live", AS Douanes v DFC8 | Central African Republic Super League 2026
@@ -13,3 +13,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_44_11_a30785de-6c49-440c-a1f2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c325e0f71276389e8d3171322eb97149:8f8b50b13e31b796e5873c2f8485145e
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_06_54_23_bfc32dab-e497-43ac-8cff-8fb638c6c0d5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aamh%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778156340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/63/e2/62/24/63e26224-0496-4659-b68e-bc5264bb713d.png" group-title="FIFA Live", San Francisco v Deportivo Unidad | Equatorial Guinea Football League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a2274dd4e5f3ad2be0ef77853c056de:21d28442b592b760cb6a75ba659985b0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_41_16_49a6e67c-c85d-484e-8b07-bcb8d23c776b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778158140
