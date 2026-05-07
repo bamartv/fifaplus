@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:45:30 PM 07-05-2026",
+        "last_update_time": "12:00:37 AM 08-05-2026",
         "total_live": 4,
-        "total_upcoming": 0
+        "total_upcoming": 19
     },
     "matches": [
         {
@@ -279,6 +279,1185 @@
                     "d95820defc2734669066f16d3447d35e:de52a937699a9f21b08f9bcf5bc5bba1"
                 ]
             }
+        },
+        {
+            "id": "11655445-7b61-4e89-bc00-18b800cd9106",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "11655445-7b61-4e89-bc00-18b800cd9106",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "C.R.K.S.V. Jong Colombia v R.K.S.V. Centro Dominguito | Curaçao Promé Divishon 2025/26",
+            "category": "livestream",
+            "urlSlug": "c-r-k-s-v-jong-colombia-vs-r-k-s-v-centro-dominguito",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/8f/f7/93/69/8ff79369-5be3-4435-99e4-3ff4d2e38b4f.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/bb/10/43/a3/bb1043a3-4d5a-42b6-a99b-7dff39d4ac34.png",
+            "freeMode": "FREE_ADS",
+            "title": "C.R.K.S.V. Jong Colombia v R.K.S.V. Centro Dominguito | Curaçao Promé Divishon 2025/26",
+            "titleTemplateValues": {
+                "global-stage": "Championship Playoff",
+                "stadium": "Ergilio Hato Stadium",
+                "competition": "Curaçao Promé Divishon",
+                "city": "Willemstad",
+                "association": "Curaçao",
+                "stage": "Round of Six",
+                "publisher-channel": "MA | Curaçao | Curaçao Promé Divishon 2025/26",
+                "match": "C.R.K.S.V. Jong Colombia v R.K.S.V. Centro Dominguito",
+                "publisher": "MA | Curaçao",
+                "team:r-k-s-v-centro-dominguito": "R.K.S.V. Centro Dominguito",
+                "team:c-r-k-s-v-jong-colombia": "C.R.K.S.V. Jong Colombia",
+                "season": "Curaçao Promé Divishon 2025/26",
+                "country": "Curaçao",
+                "video-type": "Live Streams",
+                "organizer": "Curaçao",
+                "organizer-country": "Curaçao"
+            },
+            "startDate": "2026-05-07T23:50:00Z",
+            "endDate": "2026-05-08T02:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T00:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "C.R.K.S.V. Jong Colombia v R.K.S.V. Centro Dominguito"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Curaçao Promé Divishon 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Championship Playoff"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Curaçao"
+                }
+            ]
+        },
+        {
+            "id": "eac7a0b9-3666-4e44-a344-cb4f9c1d734a",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "eac7a0b9-3666-4e44-a344-cb4f9c1d734a",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "C.R.K.S.V. Jong Holland v S.V. Victory Boys | Curaçao Promé Divishon 2025/26",
+            "category": "livestream",
+            "urlSlug": "c-r-k-s-v-jong-holland-vs-s-v-victory-boys",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/8f/f7/93/69/8ff79369-5be3-4435-99e4-3ff4d2e38b4f.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5f/58/dd/f3/5f58ddf3-627a-4703-ae57-402b2622e253.png",
+            "freeMode": "FREE_ADS",
+            "title": "C.R.K.S.V. Jong Holland v S.V. Victory Boys | Curaçao Promé Divishon 2025/26",
+            "titleTemplateValues": {
+                "global-stage": "Championship Playoff",
+                "competition": "Curaçao Promé Divishon",
+                "city": "Willemstad",
+                "team:s-v-victory-boys": "S.V. Victory Boys",
+                "association": "Curaçao",
+                "stage": "Round of Six",
+                "publisher-channel": "MA | Curaçao | Curaçao Promé Divishon 2025/26",
+                "publisher": "MA | Curaçao",
+                "match": "C.R.K.S.V. Jong Holland v S.V. Victory Boys",
+                "stadium": "Stadion dr. Antoine Maduro",
+                "team:c-r-k-s-v-jong-holland": "C.R.K.S.V. Jong Holland",
+                "season": "Curaçao Promé Divishon 2025/26",
+                "country": "Curaçao",
+                "video-type": "Live Streams",
+                "organizer": "Curaçao",
+                "organizer-country": "Curaçao"
+            },
+            "startDate": "2026-05-07T23:50:00Z",
+            "endDate": "2026-05-08T02:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T00:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "C.R.K.S.V. Jong Holland v S.V. Victory Boys"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Curaçao Promé Divishon 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Championship Playoff"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Curaçao"
+                }
+            ]
+        },
+        {
+            "id": "6d2da034-7481-4c64-906f-e6519e051417",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "6d2da034-7481-4c64-906f-e6519e051417",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Inter Willemstad v RKSV Scherpenheuvel | Curaçao Promé Divishon 2025/26",
+            "category": "livestream",
+            "urlSlug": "inter-willemstad-vs-rksv-scherpenheuvel",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/27/6d/56/6e/276d566e-2068-4c5e-94e9-81df8c4008da.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/4a/e4/03/e5/4ae403e5-e690-4744-9c46-eea8a1c0e0e3.png",
+            "freeMode": "FREE_ADS",
+            "title": "Inter Willemstad v RKSV Scherpenheuvel | Curaçao Promé Divishon 2025/26",
+            "titleTemplateValues": {
+                "global-stage": "Championship Playoff",
+                "competition": "Curaçao Promé Divishon",
+                "city": "Willemstad",
+                "association": "Curaçao",
+                "stage": "Round of Six",
+                "team:inter-willemstad": "Inter Willemstad",
+                "publisher-channel": "MA | Curaçao | Curaçao Promé Divishon 2025/26",
+                "team:rksv-scherpenheuvel": "RKSV Scherpenheuvel",
+                "publisher": "MA | Curaçao",
+                "match": "Inter Willemstad v RKSV Scherpenheuvel",
+                "stadium": "Stadion Rignaal Jean Francisca",
+                "season": "Curaçao Promé Divishon 2025/26",
+                "country": "Curaçao",
+                "video-type": "Live Streams",
+                "organizer": "Curaçao",
+                "organizer-country": "Curaçao"
+            },
+            "startDate": "2026-05-07T23:50:00Z",
+            "endDate": "2026-05-08T02:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T00:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Inter Willemstad v RKSV Scherpenheuvel"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Curaçao Promé Divishon 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Championship Playoff"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Curaçao"
+                }
+            ]
+        },
+        {
+            "id": "8561694c-ee1c-4f94-adaa-b943b05715fa",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "8561694c-ee1c-4f94-adaa-b943b05715fa",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "CEA Sétif v AFAK Relizane | Ligue Nationale du Football Féminin 2025/26",
+            "category": "livestream",
+            "urlSlug": "cea-setif-vs-afak-relizane",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/26/1c/df/f9261cdf-0cd9-4854-8cfc-326117236410.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1e/41/9f/b4/1e419fb4-2e86-452a-ae2c-e9c800263835.png",
+            "freeMode": "FREE_ADS",
+            "title": "CEA Sétif v AFAK Relizane | Ligue Nationale du Football Féminin 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "team:afak-relizane": "AFAK Relizane",
+                "team:cea-setif": "CEA Sétif",
+                "season": "Ligue Nationale du Football Féminin 2025/26",
+                "stadium": "Guessab Mohamed Stadium",
+                "competition": "Ligue Nationale du Football Féminin",
+                "city": "Setif",
+                "match": "CEA Sétif v AFAK Relizane",
+                "stage": "Regular Season",
+                "country": "Algeria",
+                "global-stage": "Round 26",
+                "publisher-channel": "MA | Algeria | Ligue Nationale du Football Féminin 2025/2026",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-08T08:50:00Z",
+            "endDate": "2026-05-08T11:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T09:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "CEA Sétif v AFAK Relizane"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue Nationale du Football Féminin 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "7de408b8-00f2-4fe6-bedc-f6a18d006655",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "7de408b8-00f2-4fe6-bedc-f6a18d006655",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Revengers FC v Anse Reunion FC | Seychelles Absa Premier League 2025/26",
+            "category": "livestream",
+            "urlSlug": "revengers-fc-vs-anse-reunion-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/45/9f/11/a8/459f11a8-e0bb-4967-9ffc-2e4fe552a13e.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ce/60/bb/5a/ce60bb5a-6db7-45e3-a8ff-88909b537ced.png",
+            "freeMode": "FREE_ADS",
+            "title": "Revengers FC v Anse Reunion FC | Seychelles Absa Premier League 2025/26",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Seychelles | Absa Premier League 2025/2026",
+                "publisher": "MA | Seychelles",
+                "city": "Praslin",
+                "team:anse-reunion-fc": "Anse Reunion FC",
+                "stadium": "Amitie Stadium",
+                "team:revengers-fc": "Revengers FC",
+                "stage": "Regular Season",
+                "global-stage": "Round 18",
+                "association": "Seychelles",
+                "season": "Seychelles Absa Premier League 2025/26",
+                "match": "Revengers FC v Anse Reunion FC",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "country": "Seychelles",
+                "competition": "Seychelles Premier League",
+                "video-type": "Live Streams",
+                "organizer": "Seychelles",
+                "organizer-country": "Seychelles"
+            },
+            "startDate": "2026-05-08T10:50:00Z",
+            "endDate": "2026-05-08T13:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T11:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Revengers FC v Anse Reunion FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Seychelles Absa Premier League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 18"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Seychelles"
+                }
+            ]
+        },
+        {
+            "id": "02cd2912-b103-4cc6-abf0-25c5a7fe7d82",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "02cd2912-b103-4cc6-abf0-25c5a7fe7d82",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Hang Sai v Ching Fung | Macau First Division 2026",
+            "category": "livestream",
+            "urlSlug": "hang-sai-vs-ching-fung",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/17/fb/a2/7e17fba2-2a73-45d5-b26c-5bc6ffdd5b08.jpg",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d6/ac/ff/5a/d6acff5a-d6ae-4232-b60e-acea42adc54d.png",
+            "freeMode": "FREE_ADS",
+            "title": "Hang Sai v Ching Fung | Macau First Division 2026",
+            "titleTemplateValues": {
+                "publisher": "MA | Macau",
+                "stage": "Regular Season",
+                "country": "Macau",
+                "city": "Macao",
+                "publisher-channel": "MA | Macau | Macau First Division 2026 (Channel)",
+                "season": "Macau First Division 2026",
+                "team:ching-fung": "Ching Fung",
+                "team:hang-sai": "Hang Sai",
+                "global-stage": "Round 11",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "competition": "Macau Liga de Elite",
+                "match": "Hang Sai v Ching Fung",
+                "stadium": "Macau Stadium",
+                "association": "Macau",
+                "video-type": "Live Streams",
+                "organizer": "Macau",
+                "organizer-country": "Macau"
+            },
+            "startDate": "2026-05-08T12:50:00Z",
+            "endDate": "2026-05-08T15:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T13:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Hang Sai v Ching Fung"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Macau First Division 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 11"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Macau"
+                }
+            ]
+        },
+        {
+            "id": "6c1f0253-555e-41a1-9ab5-60502c69602c",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "6c1f0253-555e-41a1-9ab5-60502c69602c",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26",
+            "category": "livestream",
+            "urlSlug": "bg-green-maze-fc-vs-muzinga-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/07/e5/16/f2/07e516f2-bfbe-4cfe-ab7e-27df99b13d8f.png",
+            "freeMode": "FREE_ADS",
+            "title": "BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26",
+            "titleTemplateValues": {
+                "team:bg-green-maze-fc": "BG Green Maze FC",
+                "publisher": "MA | Burundi",
+                "match": "BG Green Maze FC v Muzinga FC",
+                "association": "Burundi",
+                "competition": "Ligue A",
+                "country": "Burundi",
+                "global-stage": "Round 30",
+                "stage": "Regular Season",
+                "stadium": "Urunani Stadium",
+                "city": "Buganda",
+                "publisher-channel": "MA | Burundi | Primus League Burundi 2025/2026",
+                "season": "Primus Ligue Burundi 2025/26",
+                "team:muzinga-fc": "Muzinga FC",
+                "video-type": "Live Streams",
+                "organizer": "Burundi",
+                "organizer-country": "Burundi"
+            },
+            "startDate": "2026-05-08T12:50:00Z",
+            "endDate": "2026-05-08T15:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T13:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "BG Green Maze FC v Muzinga FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Primus Ligue Burundi 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burundi"
+                }
+            ]
+        },
+        {
+            "id": "be3c7043-ded2-4040-844a-b978b5576cd5",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "be3c7043-ded2-4040-844a-b978b5576cd5",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Azerbaijan v Romania | UEFA Development Tournament Women's U-16 2026",
+            "category": "livestream",
+            "urlSlug": "azerbaijan-vs-romania",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7f/66/55/b3/7f6655b3-f8a7-4b78-87d9-c6418e95f4f9.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/76/46/c2/9a/7646c29a-02d3-4f38-ab51-1731b4b01bbc.png",
+            "freeMode": "FREE_ADS",
+            "title": "Azerbaijan v Romania | UEFA Development Tournament Women's U-16 2026",
+            "titleTemplateValues": {
+                "team:romania": "Romania",
+                "country:azerbaijan": "Azerbaijan",
+                "confederation": "UEFA",
+                "match": "Azerbaijan v Romania",
+                "team:azerbaijan": "Azerbaijan",
+                "global-stage": "Group Stage",
+                "publisher-channel": "MA | Azerbaijan | UEFA Development Tournament Women's U-16 2026 (Channel)",
+                "country:romania": "Romania",
+                "fifa-plus": "Womens (FIFA Plus)",
+                "season": "UEFA Development Tournament Women's U-16 2026",
+                "competition": "UEFA Development Tournament Women's U-16 ",
+                "stadium": "Bina District Stadium",
+                "association:azerbaijan": "Azerbaijan",
+                "stage": "Group Stage",
+                "city": "Baku",
+                "association:romania": "Romania",
+                "publisher": "MA | Azerbaijan",
+                "video-type": "Live Streams",
+                "organizer": "UEFA"
+            },
+            "startDate": "2026-05-08T12:50:00Z",
+            "endDate": "2026-05-08T15:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T13:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Azerbaijan v Romania"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "UEFA Development Tournament Women's U-16 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Group Stage"
+                }
+            ]
+        },
+        {
+            "id": "11695323-ac94-4ac7-9219-0b843233caa0",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "11695323-ac94-4ac7-9219-0b843233caa0",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Foresters FC v PTL Bazar Brothers FC | Seychelles Absa Premier League 2025/26",
+            "category": "livestream",
+            "urlSlug": "foresters-fc-vs-ptl-bazar-brothers-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/45/9f/11/a8/459f11a8-e0bb-4967-9ffc-2e4fe552a13e.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/78/e5/2a/9b/78e52a9b-6aed-434d-acfc-d8e66a7aa701.png",
+            "freeMode": "FREE_ADS",
+            "title": "Foresters FC v PTL Bazar Brothers FC | Seychelles Absa Premier League 2025/26",
+            "titleTemplateValues": {
+                "team:ptl-bazar-brothers-fc": "PTL Bazar Brothers FC",
+                "publisher-channel": "MA | Seychelles | Absa Premier League 2025/2026",
+                "publisher": "MA | Seychelles",
+                "stadium": "Stad Linite",
+                "match": "Foresters FC v PTL Bazar Brothers FC",
+                "stage": "Regular Season",
+                "global-stage": "Round 18",
+                "association": "Seychelles",
+                "season": "Seychelles Absa Premier League 2025/26",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "country": "Seychelles",
+                "city": "Roche Caiman",
+                "competition": "Seychelles Premier League",
+                "team:foresters-fc": "Foresters FC",
+                "video-type": "Live Streams",
+                "organizer": "Seychelles",
+                "organizer-country": "Seychelles"
+            },
+            "startDate": "2026-05-08T14:20:00Z",
+            "endDate": "2026-05-08T17:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T14:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Foresters FC v PTL Bazar Brothers FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Seychelles Absa Premier League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 18"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Seychelles"
+                }
+            ]
+        },
+        {
+            "id": "32afd321-cda7-4ef6-91bf-536702388623",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "32afd321-cda7-4ef6-91bf-536702388623",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "CR Témouchent v WA Tlemcen | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "cr-temouchent-vs-wa-tlemcen",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/70/c2/e2/14/70c2e214-e8a7-4517-8ed0-566aef9090b8.png",
+            "freeMode": "FREE_ADS",
+            "title": "CR Témouchent v WA Tlemcen | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "team:cr-temouchent": "CR Témouchent",
+                "publisher": "MA | Algeria",
+                "stadium": "Oucief Omar Stadium",
+                "association": "Algeria",
+                "match": "CR Témouchent v WA Tlemcen",
+                "stage": "Regular Season",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "city": "Ain Temouchent",
+                "country": "Algeria",
+                "team:wa-tlemcen": "WA Tlemcen",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-08T14:50:00Z",
+            "endDate": "2026-05-08T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "CR Témouchent v WA Tlemcen"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "efad2b56-cc49-4392-b9bc-06178c47ff5c",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "efad2b56-cc49-4392-b9bc-06178c47ff5c",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "CRB Adrar v ASM Oran | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "c-adrar-vs-asm-oran",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/34/fe/74/cb/34fe74cb-ad91-4235-a305-b9267a34cc82.png",
+            "freeMode": "FREE_ADS",
+            "title": "CRB Adrar v ASM Oran | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "team:c-adrar": "CRB Adrar",
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "match": "CRB Adrar v ASM Oran",
+                "stadium": "February 18 Stadium",
+                "stage": "Regular Season",
+                "team:asm-oran": "ASM Oran",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "city": "Adrar",
+                "country": "Algeria",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-08T14:50:00Z",
+            "endDate": "2026-05-08T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "CRB Adrar v ASM Oran"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "82db66fc-05d7-4098-9654-fbd505e6f938",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "82db66fc-05d7-4098-9654-fbd505e6f938",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "ESM Koléa v NA Hussein Dey | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "esm-kolea-vs-na-hussein-dey",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/cb/67/cb/0d/cb67cb0d-8d56-4afa-b0ed-9946f37cf544.png",
+            "freeMode": "FREE_ADS",
+            "title": "ESM Koléa v NA Hussein Dey | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "team:esm-kolea": "ESM Koléa",
+                "city": "Koléa",
+                "stadium": "M’Hmed Mouaz Stadium ",
+                "stage": "Regular Season",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "team:na-hussein-dey": "NA Hussein Dey",
+                "country": "Algeria",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "match": "ESM Koléa v NA Hussein Dey",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-08T14:50:00Z",
+            "endDate": "2026-05-08T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "ESM Koléa v NA Hussein Dey"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "1062db9a-b59b-4f76-bc08-a83aadec759a",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "1062db9a-b59b-4f76-bc08-a83aadec759a",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "MC Saida v JS Texraine | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "mc-saida-vs-js-texraine",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ce/27/9f/e3/ce279fe3-d52f-464c-9f10-6d90687d6984.png",
+            "freeMode": "FREE_ADS",
+            "title": "MC Saida v JS Texraine | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "stadium": "Said Amara Stadium",
+                "city": "Saida",
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "match": "MC Saida v JS Texraine",
+                "team:js-texraine": "JS Texraine",
+                "stage": "Regular Season",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "country": "Algeria",
+                "team:mc-saida": "MC Saida",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-08T14:50:00Z",
+            "endDate": "2026-05-08T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "MC Saida v JS Texraine"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "0ea4b185-1451-43f2-93d6-ccb90fac8548",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "0ea4b185-1451-43f2-93d6-ccb90fac8548",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "RC Kouba v GC Mascara | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "rc-kouba-vs-gc-mascara",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b1/95/0a/b2/b1950ab2-b767-4b9c-8b63-8a5d5efca92e.png",
+            "freeMode": "FREE_ADS",
+            "title": "RC Kouba v GC Mascara | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "city": "Algiers",
+                "team:rc-kouba": "RC Kouba",
+                "stage": "Regular Season",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "match": "RC Kouba v GC Mascara",
+                "country": "Algeria",
+                "team:gc-mascara": "GC Mascara",
+                "stadium": "Ben Haddad Stadium",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-08T14:50:00Z",
+            "endDate": "2026-05-08T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "RC Kouba v GC Mascara"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "ef871829-a1a5-4716-b88c-bde3cd1beb8c",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "ef871829-a1a5-4716-b88c-bde3cd1beb8c",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "US Bechar Djedid v JSM Tiaret | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "us-bechar-djedid-vs-jsm-tiaret",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/de/5a/73/64/de5a7364-2182-40e9-aa73-1d136b0f7d24.png",
+            "freeMode": "FREE_ADS",
+            "title": "US Bechar Djedid v JSM Tiaret | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "team:jsm-tiaret": "JSM Tiaret",
+                "match": "US Bechar Djedid v JSM Tiaret",
+                "stage": "Regular Season",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "stadium": "20 Aout 55 Stadium",
+                "team:us-bechar-djedid": "US Bechar Djedid",
+                "country": "Algeria",
+                "city": "Bechar",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-08T14:50:00Z",
+            "endDate": "2026-05-08T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "US Bechar Djedid v JSM Tiaret"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "57e207ac-fbc6-4d3a-aa1f-ea9f5cb0de8e",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "57e207ac-fbc6-4d3a-aa1f-ea9f5cb0de8e",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "USM El Harrach v WA Mostaganem | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "usm-el-harrach-vs-wa-mostaganem",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/13/9e/35/63/139e3563-a00e-4473-b81b-12b23451b024.png",
+            "freeMode": "FREE_ADS",
+            "title": "USM El Harrach v WA Mostaganem | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "team:wa-mostaganem": "WA Mostaganem",
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "city": "Algiers",
+                "stage": "Regular Season",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "stadium": "1st November 54 Stadium of Mohammadia",
+                "country": "Algeria",
+                "team:usm-el-harrach": "USM El Harrach",
+                "match": "USM El Harrach v WA Mostaganem",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-08T14:50:00Z",
+            "endDate": "2026-05-08T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "USM El Harrach v WA Mostaganem"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "8191d7dc-053d-454b-aaa7-e5e2a412f619",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "8191d7dc-053d-454b-aaa7-e5e2a412f619",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Etoile Filante v Unisport FC | D1 Lonato 2025/26",
+            "category": "livestream",
+            "urlSlug": "etoile-filante-vs-unisport-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a7/db/8d/db/a7db8ddb-8d1e-4263-ab6d-5d3a43919ef1.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/4c/68/22/0b/4c68220b-efe0-4fb4-b30a-d4d035f76732.png",
+            "freeMode": "FREE_ADS",
+            "title": "Etoile Filante v Unisport FC | D1 Lonato 2025/26",
+            "titleTemplateValues": {
+                "country": "Togo",
+                "association": "Togo",
+                "global-stage": "Round 23",
+                "stadium": "Omnisport Stadium",
+                "team:unisport-fc": "Unisport FC",
+                "stage": "Regular Season",
+                "publisher": "MA | Togo",
+                "match": "Etoile Filante v Unisport FC",
+                "publisher-channel": "MA | Togo | D1 Lonato 2025/2026",
+                "season": "D1 Lonato 2025/26",
+                "city": "Lomé",
+                "team:etoile-filante": "Etoile Filante",
+                "video-type": "Live Streams",
+                "competition": "Championnat de Première Division D1",
+                "organizer": "Togo",
+                "organizer-country": "Togo"
+            },
+            "startDate": "2026-05-08T15:20:00Z",
+            "endDate": "2026-05-08T18:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T15:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Etoile Filante v Unisport FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "D1 Lonato 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 23"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Togo"
+                }
+            ]
+        },
+        {
+            "id": "3ce3ff3d-7661-48fd-af44-36b9aa0991cf",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "3ce3ff3d-7661-48fd-af44-36b9aa0991cf",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Be1 NFA v Šiauliai B | Pirma Lyga 2026",
+            "category": "livestream",
+            "urlSlug": "fk-be1-vs-fa-siauliai-b",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f2/4c/3b/b0/f24c3bb0-e739-4ae5-95d3-6cbfe473d948.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d1/98/04/c4/d19804c4-094d-47f9-a59e-dfc7fc63cc11.png",
+            "freeMode": "FREE_ADS",
+            "title": "Be1 NFA v Šiauliai B | Pirma Lyga 2026",
+            "titleTemplateValues": {
+                "stage": "I Lyga Regular Season",
+                "team:fk-be1": "Be1 NFA",
+                "match": "Be1 NFA v Šiauliai B",
+                "season": "Pirma Lyga 2026",
+                "stadium": "LFF Kaunas Training Stadium Center",
+                "country": "Lithuania",
+                "team:fa-siauliai-b": "Šiauliai B",
+                "publisher": "MA | Lithuania ",
+                "competition": "Pirma Lyga",
+                "city": "Kaunas",
+                "association": "Lithuania",
+                "global-stage": "Round 9",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Lithuania | Pirma Lyga 2026 (Channel)",
+                "organizer": "Lithuania",
+                "organizer-country": "Lithuania"
+            },
+            "startDate": "2026-05-08T15:20:00Z",
+            "endDate": "2026-05-08T18:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T15:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Be1 NFA v Šiauliai B"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Pirma Lyga 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 9"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Lithuania"
+                }
+            ]
+        },
+        {
+            "id": "336f20d4-e31e-4108-ad1a-3cb5145feb71",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "336f20d4-e31e-4108-ad1a-3cb5145feb71",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "FC Kallon v Old Edwardians FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "fc-kallon-vs-old-edwardians-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/9f/40/af/cc/9f40afcc-cc88-4f3e-9595-067f1f0fb905.png",
+            "freeMode": "FREE_ADS",
+            "title": "FC Kallon v Old Edwardians FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "match": "FC Kallon v Old Edwardians FC",
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "stadium": "Approved School Field",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "team:fc-kallon": "FC Kallon",
+                "city": "Freetown",
+                "global-stage": "Round 26",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "team:old-edwardians-fc": "Old Edwardians FC",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-08T16:20:00Z",
+            "endDate": "2026-05-08T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "FC Kallon v Old Edwardians FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
         }
     ]
 }
