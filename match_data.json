@@ -3,78 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:15:31 PM 07-05-2026",
+        "last_update_time": "03:30:35 PM 07-05-2026",
         "total_live": 1,
-        "total_upcoming": 12
+        "total_upcoming": 11
     },
     "matches": [
-        {
-            "id": "47b24f9c-0305-41d8-8c94-baf2257637e6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "47b24f9c-0305-41d8-8c94-baf2257637e6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Vanuatu United FC v PNG Hekari FC | OFC Professional League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "vanuatu-united-vs-png-hekari-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ce/31/6d/a2/ce316da2-f78b-4b3f-a92b-6b849c3d20af.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Vanuatu United FC v PNG Hekari FC | OFC Professional League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "stadium": "Eden Park",
-                "match": "Vanuatu United FC v PNG Hekari FC",
-                "stage": "Round 6 - Challengers Group",
-                "association:papua-new-guinea": "Papua New Guinea",
-                "publisher": "OFC",
-                "association:vanuatu": "Vanuatu",
-                "city": "Auckland/Tāmaki Makaurau ",
-                "video-type": "Full Match Replays",
-                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
-                "country:new-zealand": "New Zealand",
-                "team:vanuatu-united": "Vanuatu United FC",
-                "season": "OFC Professional League 2026",
-                "country:vanuatu": "Vanuatu",
-                "confederation": "OFC",
-                "team:png-hekari-fc": "PNG Hekari FC",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "global-stage": "Round 6",
-                "competition": "OFC Professional League ",
-                "country:papua-new-guinea": "Papua New Guinea",
-                "organizer": "OFC"
-            },
-            "startDate": "2026-05-07T06:50:00Z",
-            "endDate": "2026-05-07T09:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-07T07:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Vanuatu United FC v PNG Hekari FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "OFC Professional League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 6"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_50_23dd6c23-7f12-4dd5-a13f-15d79129e4fb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778136540",
-                "decryption_keys": [
-                    "6aebc6069ae0385c837ae2b505d830e5:7ab1c70f7ad9565b4452a294535df526"
-                ]
-            }
-        },
         {
             "id": "6bf80e26-f89f-42b5-9413-bd26cb87918d",
             "channelId": "fifa-tournaments",
@@ -113,7 +46,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -135,7 +68,13 @@
                     "p": 1,
                     "value": "Ethiopia"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_06_54_18_56aa142a-ffb2-40bf-8785-4b19f8e96fe3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aamh%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778145540",
+                "decryption_keys": [
+                    "04f70a8be2903b9c8158649032287ae6:559d8ee97384fa6cb553d3121f1e1387"
+                ]
+            }
         },
         {
             "id": "1f6fc053-2e32-436a-8e04-3255060d794e",

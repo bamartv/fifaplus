@@ -1,10 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:31 PM 07-05-2026
+#last update time: 03:30:35 PM 07-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ce/31/6d/a2/ce316da2-f78b-4b3f-a92b-6b849c3d20af.jpg" group-title="FIFA Live", Vanuatu United FC v PNG Hekari FC | OFC Professional League 2026 | Full Match Replay
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b3/93/40/12/b3934012-fe26-4eb1-826e-877e113ec579.png" group-title="FIFA Live", Yeka SC v Dessie Ketema | Ethiopian Higher League 2025
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6aebc6069ae0385c837ae2b505d830e5:7ab1c70f7ad9565b4452a294535df526
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_50_23dd6c23-7f12-4dd5-a13f-15d79129e4fb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778136540
+#KODIPROP:inputstream.adaptive.license_key=04f70a8be2903b9c8158649032287ae6:559d8ee97384fa6cb553d3121f1e1387
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_06_54_18_56aa142a-ffb2-40bf-8785-4b19f8e96fe3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aamh%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778145540
