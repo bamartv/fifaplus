@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:37 AM 08-05-2026
+#last update time: 12:15:45 AM 08-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8c/c1/6f/66/8cc16f66-2e60-44b9-8517-5934e4978e00.png" group-title="FIFA Live", USGN v JS Tahoua | Super Ligue 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4178286b0a9638c386404e0fe5c6a672:ad16516ac5f520c16ca8849cfb1271be
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_03_02_89ff987c-96f6-48e6-bdc4-0ff14d9392bf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778168040
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1d/23/da/2b/1d23da2b-3abf-487e-941c-dc791b9b5f7b.png" group-title="FIFA Live", Fortune v TMT FA | Gambia GFF League 25/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
