@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:45:34 AM 08-05-2026",
-        "total_live": 2,
+        "last_update_time": "01:00:34 AM 08-05-2026",
+        "total_live": 1,
         "total_upcoming": 19
     },
     "matches": [
-        {
-            "id": "b49ac6f9-146c-4d00-98ff-4bcdc01baef9",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "b49ac6f9-146c-4d00-98ff-4bcdc01baef9",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Fortune v TMT FA | Gambia GFF League 25/26",
-            "category": "livestream",
-            "urlSlug": "fortune-fc-vs-tmt-fa",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1d/23/da/2b/1d23da2b-3abf-487e-941c-dc791b9b5f7b.png",
-            "freeMode": "FREE_ADS",
-            "title": "Fortune v TMT FA | Gambia GFF League 25/26",
-            "titleTemplateValues": {
-                "global-stage": "Round 23",
-                "city": "Brikama",
-                "country": "The Gambia",
-                "publisher": "MA | Gambia",
-                "stage": "Regular Season",
-                "competition": "Gambia GFF League",
-                "association": "The Gambia",
-                "match": "Fortune v TMT FA",
-                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
-                "stadium": "Brikama Box Bar Stadium",
-                "team:fortune-fc": "Fortune",
-                "season": "Gambia GFF League 25/26",
-                "team:tmt-fa": "TMT FA",
-                "video-type": "Live Streams",
-                "organizer": "The Gambia",
-                "organizer-country": "The Gambia"
-            },
-            "startDate": "2026-05-07T16:20:00Z",
-            "endDate": "2026-05-07T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-07T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Fortune v TMT FA"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Gambia GFF League 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 23"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "The Gambia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_16_21_36_bc7aac99-d7b8-4024-967c-03b8946df41b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778170740",
-                "decryption_keys": [
-                    "b92a906d4b113d43ba05ed5fb4cd8dc0:4f504e051cebd10babdfb764ab1a8fd2"
-                ]
-            }
-        },
         {
             "id": "bfb4c550-a519-475d-a83c-0ab27f06e230",
             "channelId": "fifa-tournaments",
