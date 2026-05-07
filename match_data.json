@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:00:33 AM 07-05-2026",
-        "total_live": 5,
+        "last_update_time": "08:15:29 AM 07-05-2026",
+        "total_live": 4,
         "total_upcoming": 14
     },
     "matches": [
-        {
-            "id": "82d0041d-fa22-4dec-a52c-d209d4726e22",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "82d0041d-fa22-4dec-a52c-d209d4726e22",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Diriangén v Matagalpa FC | Liga Primera Nicaragua 2025/26",
-            "category": "livestream",
-            "urlSlug": "diriangen-vs-matagalpa-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/4e/c4/bc/9c/4ec4bc9c-6da8-4fc8-bbeb-6b138e284ef1.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/34/9e/5b/9e/349e5b9e-34fe-40bc-94b9-74b7bbeebbf3.png",
-            "freeMode": "FREE_ADS",
-            "title": "Diriangén v Matagalpa FC | Liga Primera Nicaragua 2025/26",
-            "titleTemplateValues": {
-                "stadium": "Chocorrón Stadium",
-                "publisher-channel": "MA | Nicaragua | Liga Primera de Nicaragua 2025/2026",
-                "competition": "Liga Primera",
-                "association": "Nicaragua",
-                "team:matagalpa-fc": "Matagalpa FC",
-                "publisher": "MA | Nicaragua",
-                "city": "Managua",
-                "country": "Nicaragua",
-                "season": "Liga Primera Nicaragua 2025/26",
-                "global-stage": "Semi-finals - Second Leg",
-                "stage": "Semi final second leg",
-                "video-type": "Live Streams",
-                "team:diriangen": "Diriangén",
-                "match": "Diriangén v Matagalpa FC",
-                "organizer": "Nicaragua",
-                "organizer-country": "Nicaragua"
-            },
-            "startDate": "2026-05-06T23:38:00Z",
-            "endDate": "2026-05-07T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-07T00:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Diriangén v Matagalpa FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga Primera Nicaragua 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Semi-finals - Second Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Nicaragua"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_55_01_f79e7aa7-f70a-4512-87f0-0cd49e95e26e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778110620",
-                "decryption_keys": [
-                    "027f4e13324139249917a5360f758cb1:d390e2984469975fdaf9f71c153251b6"
-                ]
-            }
-        },
         {
             "id": "70bcf087-d182-40e7-b19e-094e134ec3d8",
             "channelId": "fifa-tournaments",
