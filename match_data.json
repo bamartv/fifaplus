@@ -3,148 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:30 PM 08-05-2026",
+        "last_update_time": "09:30:25 PM 08-05-2026",
         "total_live": 10,
-        "total_upcoming": 2
+        "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "02cd2912-b103-4cc6-abf0-25c5a7fe7d82",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "02cd2912-b103-4cc6-abf0-25c5a7fe7d82",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Hang Sai v Ching Fung | Macau First Division 2026",
-            "category": "livestream",
-            "urlSlug": "hang-sai-vs-ching-fung",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/17/fb/a2/7e17fba2-2a73-45d5-b26c-5bc6ffdd5b08.jpg",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d6/ac/ff/5a/d6acff5a-d6ae-4232-b60e-acea42adc54d.png",
-            "freeMode": "FREE_ADS",
-            "title": "Hang Sai v Ching Fung | Macau First Division 2026",
-            "titleTemplateValues": {
-                "publisher": "MA | Macau",
-                "stage": "Regular Season",
-                "country": "Macau",
-                "city": "Macao",
-                "publisher-channel": "MA | Macau | Macau First Division 2026 (Channel)",
-                "season": "Macau First Division 2026",
-                "team:ching-fung": "Ching Fung",
-                "team:hang-sai": "Hang Sai",
-                "global-stage": "Round 11",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "competition": "Macau Liga de Elite",
-                "match": "Hang Sai v Ching Fung",
-                "stadium": "Macau Stadium",
-                "association": "Macau",
-                "video-type": "Live Streams",
-                "organizer": "Macau",
-                "organizer-country": "Macau"
-            },
-            "startDate": "2026-05-08T12:50:00Z",
-            "endDate": "2026-05-08T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-08T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Hang Sai v Ching Fung"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Macau First Division 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 11"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Macau"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_03_6df6e1f6-97cf-453e-82aa-d4aeccbb249b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778244540",
-                "decryption_keys": [
-                    "d46b7dd77bb5364389e64329cbbe738e:8cff8ce9489f7b9756dbd81e9bafc5ea"
-                ]
-            }
-        },
-        {
-            "id": "6c1f0253-555e-41a1-9ab5-60502c69602c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6c1f0253-555e-41a1-9ab5-60502c69602c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26",
-            "category": "livestream",
-            "urlSlug": "bg-green-maze-fc-vs-muzinga-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/07/e5/16/f2/07e516f2-bfbe-4cfe-ab7e-27df99b13d8f.png",
-            "freeMode": "FREE_ADS",
-            "title": "BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Burundi | Primus League Burundi 2025/2026",
-                "country": "Burundi",
-                "city": "Buganda",
-                "match": "BG Green Maze FC v Muzinga FC",
-                "association": "Burundi",
-                "competition": "Ligue A",
-                "team:muzinga-fc": "Muzinga FC",
-                "organizer-country": "Burundi",
-                "global-stage": "Round 30",
-                "stage": "Regular Season",
-                "team:bg-green-maze-fc": "BG Green Maze FC",
-                "organizer": "Burundi",
-                "publisher": "MA | Burundi",
-                "stadium": "Urunani Stadium",
-                "season": "Primus Ligue Burundi 2025/26",
-                "video-type": "Live Streams"
-            },
-            "startDate": "2026-05-08T13:10:00Z",
-            "endDate": "2026-05-08T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-08T13:21:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "BG Green Maze FC v Muzinga FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Primus Ligue Burundi 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Burundi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_04_9ce847b4-66da-4599-bf52-0ddaab50b7a7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778244540",
-                "decryption_keys": [
-                    "471198ff5004375daa9ea3b9aeaa0ff5:841487ca3b58ceb2d54a479d713b21cd"
-                ]
-            }
-        },
         {
             "id": "11695323-ac94-4ac7-9219-0b843233caa0",
             "channelId": "fifa-tournaments",
@@ -728,7 +591,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -750,7 +613,13 @@
                     "p": 1,
                     "value": "Togo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_23_426f31ce-2d4e-4b3f-ad47-84b29f94f4ee/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778253540",
+                "decryption_keys": [
+                    "7372752612663880bf48752ffc9019e2:1a273cad8b3c378f019289152f1897d7"
+                ]
+            }
         },
         {
             "id": "3ce3ff3d-7661-48fd-af44-36b9aa0991cf",
@@ -790,7 +659,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -812,7 +681,13 @@
                     "p": 1,
                     "value": "Lithuania"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_29_08_89c2ac09-e4d8-4db5-895a-487155acc7f3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778253540",
+                "decryption_keys": [
+                    "fa9194080ded36dda50aeabf3e8fac52:8e3de64cc2d6d43744dbfbfac5524f56"
+                ]
+            }
         }
     ]
 }
