@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:27 PM 08-05-2026",
-        "total_live": 4,
-        "total_upcoming": 9
+        "last_update_time": "09:00:28 PM 08-05-2026",
+        "total_live": 11,
+        "total_upcoming": 2
     },
     "matches": [
         {
@@ -78,74 +78,6 @@
             }
         },
         {
-            "id": "6c1f0253-555e-41a1-9ab5-60502c69602c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6c1f0253-555e-41a1-9ab5-60502c69602c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26",
-            "category": "livestream",
-            "urlSlug": "bg-green-maze-fc-vs-muzinga-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/07/e5/16/f2/07e516f2-bfbe-4cfe-ab7e-27df99b13d8f.png",
-            "freeMode": "FREE_ADS",
-            "title": "BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26",
-            "titleTemplateValues": {
-                "team:bg-green-maze-fc": "BG Green Maze FC",
-                "publisher": "MA | Burundi",
-                "match": "BG Green Maze FC v Muzinga FC",
-                "association": "Burundi",
-                "competition": "Ligue A",
-                "country": "Burundi",
-                "global-stage": "Round 30",
-                "stage": "Regular Season",
-                "stadium": "Urunani Stadium",
-                "city": "Buganda",
-                "publisher-channel": "MA | Burundi | Primus League Burundi 2025/2026",
-                "season": "Primus Ligue Burundi 2025/26",
-                "team:muzinga-fc": "Muzinga FC",
-                "video-type": "Live Streams",
-                "organizer": "Burundi",
-                "organizer-country": "Burundi"
-            },
-            "startDate": "2026-05-08T12:50:00Z",
-            "endDate": "2026-05-08T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-08T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "BG Green Maze FC v Muzinga FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Primus Ligue Burundi 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Burundi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_04_9ce847b4-66da-4599-bf52-0ddaab50b7a7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778244540",
-                "decryption_keys": [
-                    "471198ff5004375daa9ea3b9aeaa0ff5:841487ca3b58ceb2d54a479d713b21cd"
-                ]
-            }
-        },
-        {
             "id": "be3c7043-ded2-4040-844a-b978b5576cd5",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "be3c7043-ded2-4040-844a-b978b5576cd5",
@@ -208,6 +140,74 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_55_18_f5078211-de05-428f-bef8-7a5772a8a2b8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778244540",
                 "decryption_keys": [
                     "f71dfe47bfec321aa4db3b0b440e9c26:e202c4f0e0564805d17d613eb12bcd63"
+                ]
+            }
+        },
+        {
+            "id": "6c1f0253-555e-41a1-9ab5-60502c69602c",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "6c1f0253-555e-41a1-9ab5-60502c69602c",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26",
+            "category": "livestream",
+            "urlSlug": "bg-green-maze-fc-vs-muzinga-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/07/e5/16/f2/07e516f2-bfbe-4cfe-ab7e-27df99b13d8f.png",
+            "freeMode": "FREE_ADS",
+            "title": "BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26",
+            "titleTemplateValues": {
+                "team:bg-green-maze-fc": "BG Green Maze FC",
+                "publisher": "MA | Burundi",
+                "match": "BG Green Maze FC v Muzinga FC",
+                "association": "Burundi",
+                "competition": "Ligue A",
+                "country": "Burundi",
+                "global-stage": "Round 30",
+                "stage": "Regular Season",
+                "stadium": "Urunani Stadium",
+                "city": "Buganda",
+                "publisher-channel": "MA | Burundi | Primus League Burundi 2025/2026",
+                "season": "Primus Ligue Burundi 2025/26",
+                "team:muzinga-fc": "Muzinga FC",
+                "video-type": "Live Streams",
+                "organizer": "Burundi",
+                "organizer-country": "Burundi"
+            },
+            "startDate": "2026-05-08T13:15:00Z",
+            "endDate": "2026-05-08T15:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-08T13:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "BG Green Maze FC v Muzinga FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Primus Ligue Burundi 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burundi"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_04_9ce847b4-66da-4599-bf52-0ddaab50b7a7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778244540",
+                "decryption_keys": [
+                    "471198ff5004375daa9ea3b9aeaa0ff5:841487ca3b58ceb2d54a479d713b21cd"
                 ]
             }
         },
@@ -318,7 +318,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -340,7 +340,13 @@
                     "p": 1,
                     "value": "Algeria"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_32_05_904ddda7-a9d4-4d71-a15b-cf0fe277ce2c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740",
+                "decryption_keys": [
+                    "e14759483e5a30538c7a6e78b2d2158b:7628f6402df72786e1fa3ddd3bc554a1"
+                ]
+            }
         },
         {
             "id": "efad2b56-cc49-4392-b9bc-06178c47ff5c",
@@ -380,7 +386,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -402,7 +408,13 @@
                     "p": 1,
                     "value": "Algeria"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_33_39_f0c1346d-4ba8-4438-b86d-48d23ee1ea8e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740",
+                "decryption_keys": [
+                    "efe061a15910372192fe0b53b51340be:93cbc4da8ec0a32ef7286eb90a6f804a"
+                ]
+            }
         },
         {
             "id": "82db66fc-05d7-4098-9654-fbd505e6f938",
@@ -442,7 +454,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -464,7 +476,13 @@
                     "p": 1,
                     "value": "Algeria"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_33_35_a13d034d-3fbb-4251-bf55-f29c97d2478d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740",
+                "decryption_keys": [
+                    "ccf981cd58e73f0e8a717d6497f51b54:3ca77f2c51fb926b56384ef10af02a16"
+                ]
+            }
         },
         {
             "id": "1062db9a-b59b-4f76-bc08-a83aadec759a",
@@ -504,7 +522,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -526,7 +544,13 @@
                     "p": 1,
                     "value": "Algeria"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_44_066b7c9a-1ba4-49c7-abc3-b7a9cd9f98e7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740",
+                "decryption_keys": [
+                    "fac7a7ff5bb037c6bb29a9e2c39cd411:4ca035d0cdbecef7365a2ab467a807d1"
+                ]
+            }
         },
         {
             "id": "0ea4b185-1451-43f2-93d6-ccb90fac8548",
@@ -566,7 +590,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -588,7 +612,13 @@
                     "p": 1,
                     "value": "Algeria"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_58_8c43a8ca-401a-4e67-8b50-6f321186aa20/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740",
+                "decryption_keys": [
+                    "bcaf44a8837a32dbb2180ce167db56fd:ef77b997c4a84e9bc09f2540ffc8649d"
+                ]
+            }
         },
         {
             "id": "ef871829-a1a5-4716-b88c-bde3cd1beb8c",
@@ -628,7 +658,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -650,7 +680,13 @@
                     "p": 1,
                     "value": "Algeria"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_48_0aa77094-de81-492a-a7fb-f4cce132c9d4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740",
+                "decryption_keys": [
+                    "9f1fda970d3f38b3b572dbca792d2a43:d4eb5229216f57e970eb5f20fc69bb6e"
+                ]
+            }
         },
         {
             "id": "57e207ac-fbc6-4d3a-aa1f-ea9f5cb0de8e",
@@ -690,7 +726,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -712,7 +748,13 @@
                     "p": 1,
                     "value": "Algeria"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_06_58_02_0ae8d697-01e9-415f-bf74-3cfa93be5e58/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740",
+                "decryption_keys": [
+                    "565730a9d4db38088391ac0bfe9936a4:3ac991968ed08a062dc80aaab42ff218"
+                ]
+            }
         },
         {
             "id": "8191d7dc-053d-454b-aaa7-e5e2a412f619",

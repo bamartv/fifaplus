@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:27 PM 08-05-2026
+#last update time: 09:00:28 PM 08-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d6/ac/ff/5a/d6acff5a-d6ae-4232-b60e-acea42adc54d.png" group-title="FIFA Live", Hang Sai v Ching Fung | Macau First Division 2026
@@ -9,17 +9,52 @@
 #KODIPROP:inputstream.adaptive.license_key=d46b7dd77bb5364389e64329cbbe738e:8cff8ce9489f7b9756dbd81e9bafc5ea
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_03_6df6e1f6-97cf-453e-82aa-d4aeccbb249b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778244540
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/07/e5/16/f2/07e516f2-bfbe-4cfe-ab7e-27df99b13d8f.png" group-title="FIFA Live", BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=471198ff5004375daa9ea3b9aeaa0ff5:841487ca3b58ceb2d54a479d713b21cd
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_04_9ce847b4-66da-4599-bf52-0ddaab50b7a7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778244540
-
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/76/46/c2/9a/7646c29a-02d3-4f38-ab51-1731b4b01bbc.png" group-title="FIFA Live", Azerbaijan v Romania | UEFA Development Tournament Women's U-16 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f71dfe47bfec321aa4db3b0b440e9c26:e202c4f0e0564805d17d613eb12bcd63
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_55_18_f5078211-de05-428f-bef8-7a5772a8a2b8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778244540
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/07/e5/16/f2/07e516f2-bfbe-4cfe-ab7e-27df99b13d8f.png" group-title="FIFA Live", BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=471198ff5004375daa9ea3b9aeaa0ff5:841487ca3b58ceb2d54a479d713b21cd
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_04_9ce847b4-66da-4599-bf52-0ddaab50b7a7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778244540
+
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/78/e5/2a/9b/78e52a9b-6aed-434d-acfc-d8e66a7aa701.png" group-title="FIFA Live", Foresters FC v PTL Bazar Brothers FC | Seychelles Absa Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d951772a4337383d932d23296cc44f90:0ce059707a0f9867e1706762445c535d
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_16_56_35_8883e814-e359-45fb-9d1f-6c22f725c3c6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778249940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/70/c2/e2/14/70c2e214-e8a7-4517-8ed0-566aef9090b8.png" group-title="FIFA Live", CR Témouchent v WA Tlemcen | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14759483e5a30538c7a6e78b2d2158b:7628f6402df72786e1fa3ddd3bc554a1
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_32_05_904ddda7-a9d4-4d71-a15b-cf0fe277ce2c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/34/fe/74/cb/34fe74cb-ad91-4235-a305-b9267a34cc82.png" group-title="FIFA Live", CRB Adrar v ASM Oran | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efe061a15910372192fe0b53b51340be:93cbc4da8ec0a32ef7286eb90a6f804a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_33_39_f0c1346d-4ba8-4438-b86d-48d23ee1ea8e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cb/67/cb/0d/cb67cb0d-8d56-4afa-b0ed-9946f37cf544.png" group-title="FIFA Live", ESM Koléa v NA Hussein Dey | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccf981cd58e73f0e8a717d6497f51b54:3ca77f2c51fb926b56384ef10af02a16
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_33_35_a13d034d-3fbb-4251-bf55-f29c97d2478d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ce/27/9f/e3/ce279fe3-d52f-464c-9f10-6d90687d6984.png" group-title="FIFA Live", MC Saida v JS Texraine | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fac7a7ff5bb037c6bb29a9e2c39cd411:4ca035d0cdbecef7365a2ab467a807d1
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_44_066b7c9a-1ba4-49c7-abc3-b7a9cd9f98e7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b1/95/0a/b2/b1950ab2-b767-4b9c-8b63-8a5d5efca92e.png" group-title="FIFA Live", RC Kouba v GC Mascara | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcaf44a8837a32dbb2180ce167db56fd:ef77b997c4a84e9bc09f2540ffc8649d
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_58_8c43a8ca-401a-4e67-8b50-6f321186aa20/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/de/5a/73/64/de5a7364-2182-40e9-aa73-1d136b0f7d24.png" group-title="FIFA Live", US Bechar Djedid v JSM Tiaret | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f1fda970d3f38b3b572dbca792d2a43:d4eb5229216f57e970eb5f20fc69bb6e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_48_0aa77094-de81-492a-a7fb-f4cce132c9d4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/13/9e/35/63/139e3563-a00e-4473-b81b-12b23451b024.png" group-title="FIFA Live", USM El Harrach v WA Mostaganem | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=565730a9d4db38088391ac0bfe9936a4:3ac991968ed08a062dc80aaab42ff218
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_06_58_02_0ae8d697-01e9-415f-bf74-3cfa93be5e58/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778251740
