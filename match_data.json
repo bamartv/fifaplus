@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:00:35 AM 08-05-2026",
-        "total_live": 3,
+        "last_update_time": "08:15:23 AM 08-05-2026",
+        "total_live": 2,
         "total_upcoming": 16
     },
     "matches": [
@@ -73,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_31_58_a03bc84d-2fb2-4066-a2cd-5ebe67c34911/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778197740",
                 "decryption_keys": [
                     "7ba76d78a75c345699fd9b22e1e0d493:dcf11d66457855699f27b7d240f41651"
-                ]
-            }
-        },
-        {
-            "id": "eac7a0b9-3666-4e44-a344-cb4f9c1d734a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "eac7a0b9-3666-4e44-a344-cb4f9c1d734a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "C.R.K.S.V. Jong Holland v S.V. Victory Boys | Curaçao Promé Divishon 2025/26",
-            "category": "livestream",
-            "urlSlug": "c-r-k-s-v-jong-holland-vs-s-v-victory-boys",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/8f/f7/93/69/8ff79369-5be3-4435-99e4-3ff4d2e38b4f.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5f/58/dd/f3/5f58ddf3-627a-4703-ae57-402b2622e253.png",
-            "freeMode": "FREE_ADS",
-            "title": "C.R.K.S.V. Jong Holland v S.V. Victory Boys | Curaçao Promé Divishon 2025/26",
-            "titleTemplateValues": {
-                "global-stage": "Championship Playoff",
-                "competition": "Curaçao Promé Divishon",
-                "city": "Willemstad",
-                "team:s-v-victory-boys": "S.V. Victory Boys",
-                "association": "Curaçao",
-                "stage": "Round of Six",
-                "publisher-channel": "MA | Curaçao | Curaçao Promé Divishon 2025/26",
-                "publisher": "MA | Curaçao",
-                "match": "C.R.K.S.V. Jong Holland v S.V. Victory Boys",
-                "stadium": "Stadion dr. Antoine Maduro",
-                "team:c-r-k-s-v-jong-holland": "C.R.K.S.V. Jong Holland",
-                "season": "Curaçao Promé Divishon 2025/26",
-                "country": "Curaçao",
-                "video-type": "Live Streams",
-                "organizer": "Curaçao",
-                "organizer-country": "Curaçao"
-            },
-            "startDate": "2026-05-07T23:50:00Z",
-            "endDate": "2026-05-08T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-08T00:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "C.R.K.S.V. Jong Holland v S.V. Victory Boys"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Curaçao Promé Divishon 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Championship Playoff"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Curaçao"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_31_55_56bf3b68-84c0-44ee-a696-56174327eed2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778197740",
-                "decryption_keys": [
-                    "7381098e68f438f8a780357d1899aca7:d3fa5f1ecf4a504a7e81e688df1c1e6a"
                 ]
             }
         },
