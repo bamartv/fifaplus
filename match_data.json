@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:28 AM 08-05-2026",
-        "total_live": 0,
-        "total_upcoming": 19
+        "last_update_time": "06:00:34 AM 08-05-2026",
+        "total_live": 3,
+        "total_upcoming": 16
     },
     "matches": [
         {
@@ -46,7 +46,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -68,7 +68,13 @@
                     "p": 1,
                     "value": "Curaçao"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_31_58_a03bc84d-2fb2-4066-a2cd-5ebe67c34911/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778197740",
+                "decryption_keys": [
+                    "7ba76d78a75c345699fd9b22e1e0d493:dcf11d66457855699f27b7d240f41651"
+                ]
+            }
         },
         {
             "id": "eac7a0b9-3666-4e44-a344-cb4f9c1d734a",
@@ -108,7 +114,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -130,7 +136,13 @@
                     "p": 1,
                     "value": "Curaçao"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_31_55_56bf3b68-84c0-44ee-a696-56174327eed2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778197740",
+                "decryption_keys": [
+                    "7381098e68f438f8a780357d1899aca7:d3fa5f1ecf4a504a7e81e688df1c1e6a"
+                ]
+            }
         },
         {
             "id": "6d2da034-7481-4c64-906f-e6519e051417",
@@ -170,7 +182,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -192,7 +204,13 @@
                     "p": 1,
                     "value": "Curaçao"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_31_52_050cd805-d4b5-429e-8c68-070d1c51dfba/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778197740",
+                "decryption_keys": [
+                    "15642392a0883b6abce53a6a52526c32:bd9171eb892806be641adff1fa5618ed"
+                ]
+            }
         },
         {
             "id": "8561694c-ee1c-4f94-adaa-b943b05715fa",
