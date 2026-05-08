@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:15:29 PM 08-05-2026",
-        "total_live": 2,
+        "last_update_time": "05:30:31 PM 08-05-2026",
+        "total_live": 1,
         "total_upcoming": 14
     },
     "matches": [
-        {
-            "id": "8561694c-ee1c-4f94-adaa-b943b05715fa",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "8561694c-ee1c-4f94-adaa-b943b05715fa",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "CEA Sétif v AFAK Relizane | Ligue Nationale du Football Féminin 2025/26",
-            "category": "livestream",
-            "urlSlug": "cea-setif-vs-afak-relizane",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/26/1c/df/f9261cdf-0cd9-4854-8cfc-326117236410.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1e/41/9f/b4/1e419fb4-2e86-452a-ae2c-e9c800263835.png",
-            "freeMode": "FREE_ADS",
-            "title": "CEA Sétif v AFAK Relizane | Ligue Nationale du Football Féminin 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "team:afak-relizane": "AFAK Relizane",
-                "team:cea-setif": "CEA Sétif",
-                "season": "Ligue Nationale du Football Féminin 2025/26",
-                "stadium": "Guessab Mohamed Stadium",
-                "competition": "Ligue Nationale du Football Féminin",
-                "city": "Setif",
-                "match": "CEA Sétif v AFAK Relizane",
-                "stage": "Regular Season",
-                "country": "Algeria",
-                "global-stage": "Round 26",
-                "publisher-channel": "MA | Algeria | Ligue Nationale du Football Féminin 2025/2026",
-                "video-type": "Live Streams",
-                "organizer": "Algeria",
-                "organizer-country": "Algeria"
-            },
-            "startDate": "2026-05-08T08:50:00Z",
-            "endDate": "2026-05-08T11:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-08T09:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "CEA Sétif v AFAK Relizane"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue Nationale du Football Féminin 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Algeria"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_35_40_d65acd5d-37dc-40e5-a96f-d9b7b4d68165/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778230140",
-                "decryption_keys": [
-                    "74ed0dc00a6e39bfbe923e497f9115f7:7d0ce9007f54b7d5ff85a90ee26f7d1f"
-                ]
-            }
-        },
         {
             "id": "7de408b8-00f2-4fe6-bedc-f6a18d006655",
             "channelId": "fifa-tournaments",
