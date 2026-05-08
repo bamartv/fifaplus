@@ -1,10 +1,25 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:19 PM 08-05-2026
+#last update time: 07:00:47 PM 08-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ce/60/bb/5a/ce60bb5a-6db7-45e3-a8ff-88909b537ced.png" group-title="FIFA Live", Revengers FC v Anse Reunion FC | Seychelles Absa Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f60f4e77deb3b708c3cec9ddfbc7877:65e6397ca1f7c9caf030a05acabfb360
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_39_50_d6d103f2-b123-4758-9baf-fd49b1358105/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778237340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d6/ac/ff/5a/d6acff5a-d6ae-4232-b60e-acea42adc54d.png" group-title="FIFA Live", Hang Sai v Ching Fung | Macau First Division 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d46b7dd77bb5364389e64329cbbe738e:8cff8ce9489f7b9756dbd81e9bafc5ea
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_03_6df6e1f6-97cf-453e-82aa-d4aeccbb249b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778244540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/07/e5/16/f2/07e516f2-bfbe-4cfe-ab7e-27df99b13d8f.png" group-title="FIFA Live", BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=471198ff5004375daa9ea3b9aeaa0ff5:841487ca3b58ceb2d54a479d713b21cd
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_04_9ce847b4-66da-4599-bf52-0ddaab50b7a7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778244540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/76/46/c2/9a/7646c29a-02d3-4f38-ab51-1731b4b01bbc.png" group-title="FIFA Live", Azerbaijan v Romania | UEFA Development Tournament Women's U-16 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f71dfe47bfec321aa4db3b0b440e9c26:e202c4f0e0564805d17d613eb12bcd63
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_55_18_f5078211-de05-428f-bef8-7a5772a8a2b8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778244540
