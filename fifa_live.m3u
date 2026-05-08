@@ -1,15 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:31 PM 08-05-2026
+#last update time: 11:45:24 PM 08-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4c/68/22/0b/4c68220b-efe0-4fb4-b30a-d4d035f76732.png" group-title="FIFA Live", Etoile Filante v Unisport FC | D1 Lonato 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7372752612663880bf48752ffc9019e2:1a273cad8b3c378f019289152f1897d7
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_23_426f31ce-2d4e-4b3f-ad47-84b29f94f4ee/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778253540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d1/98/04/c4/d19804c4-094d-47f9-a59e-dfc7fc63cc11.png" group-title="FIFA Live", Be1 NFA v Šiauliai B | Pirma Lyga 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa9194080ded36dda50aeabf3e8fac52:8e3de64cc2d6d43744dbfbfac5524f56
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_29_08_89c2ac09-e4d8-4db5-895a-487155acc7f3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778253540

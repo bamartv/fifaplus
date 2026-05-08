@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:30:31 PM 08-05-2026",
-        "total_live": 2,
+        "last_update_time": "11:45:24 PM 08-05-2026",
+        "total_live": 1,
         "total_upcoming": 0
     },
     "matches": [
@@ -73,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_23_426f31ce-2d4e-4b3f-ad47-84b29f94f4ee/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778253540",
                 "decryption_keys": [
                     "7372752612663880bf48752ffc9019e2:1a273cad8b3c378f019289152f1897d7"
-                ]
-            }
-        },
-        {
-            "id": "3ce3ff3d-7661-48fd-af44-36b9aa0991cf",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3ce3ff3d-7661-48fd-af44-36b9aa0991cf",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Be1 NFA v Šiauliai B | Pirma Lyga 2026",
-            "category": "livestream",
-            "urlSlug": "fk-be1-vs-fa-siauliai-b",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f2/4c/3b/b0/f24c3bb0-e739-4ae5-95d3-6cbfe473d948.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d1/98/04/c4/d19804c4-094d-47f9-a59e-dfc7fc63cc11.png",
-            "freeMode": "FREE_ADS",
-            "title": "Be1 NFA v Šiauliai B | Pirma Lyga 2026",
-            "titleTemplateValues": {
-                "stage": "I Lyga Regular Season",
-                "team:fk-be1": "Be1 NFA",
-                "match": "Be1 NFA v Šiauliai B",
-                "season": "Pirma Lyga 2026",
-                "stadium": "LFF Kaunas Training Stadium Center",
-                "country": "Lithuania",
-                "team:fa-siauliai-b": "Šiauliai B",
-                "publisher": "MA | Lithuania ",
-                "competition": "Pirma Lyga",
-                "city": "Kaunas",
-                "association": "Lithuania",
-                "global-stage": "Round 9",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Lithuania | Pirma Lyga 2026 (Channel)",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-08T15:20:00Z",
-            "endDate": "2026-05-08T18:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-08T15:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Be1 NFA v Šiauliai B"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Pirma Lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 9"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_29_08_89c2ac09-e4d8-4db5-895a-487155acc7f3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778253540",
-                "decryption_keys": [
-                    "fa9194080ded36dda50aeabf3e8fac52:8e3de64cc2d6d43744dbfbfac5524f56"
                 ]
             }
         }
