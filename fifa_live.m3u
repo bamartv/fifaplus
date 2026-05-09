@@ -1,23 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:15:19 AM 10-05-2026
+#last update time: 01:30:22 AM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/79/32/d2/e1/7932d2e1-a0b0-4830-8ea4-ac14f90ddc54.png" group-title="FIFA Live", Boavista da Praia v Académico do Sal | Cape Verdean Football Championship 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e12cf195c6e93edd9882db0b94d62fe6:25d0a72b32f5ec545ba0942af6b3b956
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_14_da06b27d-69a4-4cfa-aedc-0a603697946e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778345340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/61/57/2b/f2/61572bf2-ab96-44d0-846d-84ab1badb066.png" group-title="FIFA Live", Mindelense v Santo Crucifixo | Cape Verdean Football Championship 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1e790272433e8b8f5e463fc0ee849b:4e514efad8095dc1f8606d434601f6ab
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_08_9584860e-bc7f-4531-a65f-5e06fef8dd6e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778345340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1e/16/26/9b/1e16269b-8458-4149-ac75-8cc734cd420d.png" group-title="FIFA Live", Palmeira v Académica do Porto Novo | Cape Verdean Football Championship 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc13f5a6144933f9a67161d9a665bf06:ee853b434f003d11dcf2637b383a46a9
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_05_867c42b6-cc7b-4db7-83d7-d8a9c26c5e8f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778345340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2d/99/fc/96/2d99fc96-905a-4be4-bd49-2106772ed311.png" group-title="FIFA Live", Bourg-Péronnas v Valenciennes | Championnat National 2025/2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,3 +48,23 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_13_48_03_6872257b-d36c-4f86-b7c1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c58deb1588e23298896dd11560712c1e:248360b1d6ff001f43eabfa5c6d6ea0a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_28_eac40006-6060-4d94-a4b3-aaca42b996cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778350740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/56/a4/d2/aa/56a4d2aa-72c1-4330-9cfe-86f109e74112.png" group-title="FIFA Live", Monagas B v Mineros de Guayana | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0705b46770c4361fae5cc4a7decffc95:b8c1a37cc91c1d8694c486106f9006b9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_41_31_878d37db-bdbf-4845-84e0-72fbf50a20fd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/41/8d/39/1f/418d391f-562d-425b-ab64-08fd645b6145.png" group-title="FIFA Live", Real Frontera v Yaracuyanos F.C. | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39269acc75263494aadca5b1a91e76f4:c581111093550fd2e9f2e5e6a832be09
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_08_34_21_552fdd9f-bfef-454a-80db-0aa964cc5659/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c3/4d/90/9f/c34d909f-4994-4b0e-9d68-2689fa962ef5.png" group-title="FIFA Live", Zamora FC (B) v Atlético Barinas | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e7a36f846ac3e2494f93974787097e7:cea908aa863c4a374ee281c963e88e1b
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_08_34_24_610528d7-e3a1-4deb-b0b9-941d70d8f07c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/67/6f/2e/84/676f2e84-4fc9-4dc0-a6cc-0b14e9c055d3.png" group-title="FIFA Live", Aragua FC v Ávila FC | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92b61905cb6132c7984d15c35b9d1fd8:84813cf640f9d138f547e5e0fe19b160
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_41_34_fa5ce3be-2bda-4b8a-be74-eb664d71248c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354940

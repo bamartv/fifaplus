@@ -3,217 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:15:19 AM 10-05-2026",
-        "total_live": 12,
-        "total_upcoming": 38
+        "last_update_time": "01:30:22 AM 10-05-2026",
+        "total_live": 13,
+        "total_upcoming": 37
     },
     "matches": [
-        {
-            "id": "88f0d8ba-7584-4c95-988b-4860c2236ad1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "88f0d8ba-7584-4c95-988b-4860c2236ad1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Boavista da Praia v Académico do Sal | Cape Verdean Football Championship 2026",
-            "category": "livestream",
-            "urlSlug": "boavista-da-praia-vs-academico-do-sal",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/79/32/d2/e1/7932d2e1-a0b0-4830-8ea4-ac14f90ddc54.png",
-            "freeMode": "FREE_ADS",
-            "title": "Boavista da Praia v Académico do Sal | Cape Verdean Football Championship 2026",
-            "titleTemplateValues": {
-                "match": "Boavista da Praia v Académico do Sal",
-                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
-                "competition": "Cape Verdean Football Championship",
-                "stadium": "Estádio da Várzea",
-                "video-type": "Full Match Replays",
-                "global-stage": "Round 2",
-                "country": "Cabo Verde",
-                "city": "Praia",
-                "season": "Cape Verdean Football Championship 2026",
-                "publisher": "MA | Cape Verde",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "team:academico-do-sal": "Académico do Sal",
-                "association": "Cabo Verde",
-                "team:boavista-da-praia": "Boavista da Praia",
-                "organizer": "Cabo Verde",
-                "organizer-country": "Cabo Verde"
-            },
-            "startDate": "2026-05-09T16:50:00Z",
-            "endDate": "2026-05-09T19:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T17:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Boavista da Praia v Académico do Sal"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Cape Verdean Football Championship 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 2"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Cabo Verde"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_14_da06b27d-69a4-4cfa-aedc-0a603697946e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778345340",
-                "decryption_keys": [
-                    "e12cf195c6e93edd9882db0b94d62fe6:25d0a72b32f5ec545ba0942af6b3b956"
-                ]
-            }
-        },
-        {
-            "id": "47e9031f-c849-4736-81bb-34d20959f3e3",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "47e9031f-c849-4736-81bb-34d20959f3e3",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Mindelense v Santo Crucifixo | Cape Verdean Football Championship 2026",
-            "category": "livestream",
-            "urlSlug": "cs-mindelense-vs-santo-crucifixo",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/61/57/2b/f2/61572bf2-ab96-44d0-846d-84ab1badb066.png",
-            "freeMode": "FREE_ADS",
-            "title": "Mindelense v Santo Crucifixo | Cape Verdean Football Championship 2026",
-            "titleTemplateValues": {
-                "team:santo-crucifixo": "Santo Crucifixo",
-                "stage": "Group Stage",
-                "stadium": "Municipal Stadium Adérito Sena",
-                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
-                "competition": "Cape Verdean Football Championship",
-                "global-stage": "Round 2",
-                "country": "Cabo Verde",
-                "season": "Cape Verdean Football Championship 2026",
-                "publisher": "MA | Cape Verde",
-                "match": "Mindelense v Santo Crucifixo",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "city": "Mindelo",
-                "team:cs-mindelense": "Mindelense",
-                "association": "Cabo Verde",
-                "video-type": "Live Streams",
-                "organizer": "Cabo Verde",
-                "organizer-country": "Cabo Verde"
-            },
-            "startDate": "2026-05-09T16:50:00Z",
-            "endDate": "2026-05-09T19:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T17:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Mindelense v Santo Crucifixo"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Cape Verdean Football Championship 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 2"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Cabo Verde"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_08_9584860e-bc7f-4531-a65f-5e06fef8dd6e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778345340",
-                "decryption_keys": [
-                    "6d1e790272433e8b8f5e463fc0ee849b:4e514efad8095dc1f8606d434601f6ab"
-                ]
-            }
-        },
-        {
-            "id": "c8e24b7c-56c5-4a6c-af7a-993671f31b93",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c8e24b7c-56c5-4a6c-af7a-993671f31b93",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Palmeira v Académica do Porto Novo | Cape Verdean Football Championship 2026",
-            "category": "livestream",
-            "urlSlug": "palmeira-vs-academica-do-porto-novo",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1e/16/26/9b/1e16269b-8458-4149-ac75-8cc734cd420d.png",
-            "freeMode": "FREE_ADS",
-            "title": "Palmeira v Académica do Porto Novo | Cape Verdean Football Championship 2026",
-            "titleTemplateValues": {
-                "city": "Sal",
-                "team:palmeira": "Palmeira",
-                "stadium": "Marcelo Leitão Stadium",
-                "stage": "Group Stage",
-                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
-                "match": "Palmeira v Académica do Porto Novo",
-                "competition": "Cape Verdean Football Championship",
-                "global-stage": "Round 2",
-                "team:academica-do-porto-novo": "Académica do Porto Novo",
-                "country": "Cabo Verde",
-                "season": "Cape Verdean Football Championship 2026",
-                "publisher": "MA | Cape Verde",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "association": "Cabo Verde",
-                "video-type": "Live Streams",
-                "organizer": "Cabo Verde",
-                "organizer-country": "Cabo Verde"
-            },
-            "startDate": "2026-05-09T16:50:00Z",
-            "endDate": "2026-05-09T19:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T17:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Palmeira v Académica do Porto Novo"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Cape Verdean Football Championship 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 2"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Cabo Verde"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_05_867c42b6-cc7b-4db7-83d7-d8a9c26c5e8f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778345340",
-                "decryption_keys": [
-                    "fc13f5a6144933f9a67161d9a665bf06:ee853b434f003d11dcf2637b383a46a9"
-                ]
-            }
-        },
         {
             "id": "8f748cc7-3a3c-445d-92be-8abdbea5ac67",
             "channelId": "fifa-tournaments",
@@ -827,68 +621,6 @@
             }
         },
         {
-            "id": "ca7aa8ec-73cd-406e-90d8-cc5d6c063ab2",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "ca7aa8ec-73cd-406e-90d8-cc5d6c063ab2",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Aragua FC v Ávila FC | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "aragua-fc-vs-avila-f-c",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/67/6f/2e/84/676f2e84-4fc9-4dc0-a6cc-0b14e9c055d3.png",
-            "freeMode": "FREE_ADS",
-            "title": "Aragua FC v Ávila FC | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "season": "Liga FUTVE 2 2026",
-                "city": "Maracay",
-                "stadium": "Olympic Stadium Hermanos Ghersi Páez",
-                "global-stage": "Round 10",
-                "team:avila-f-c": "Ávila FC",
-                "stage": "Regular Season",
-                "association": "Venezuela",
-                "publisher": "MA | Venezuela",
-                "match": "Aragua FC v Ávila FC",
-                "competition": "Liga FUTVE 2",
-                "team:aragua-fc": "Aragua FC",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-09T19:20:00Z",
-            "endDate": "2026-05-09T22:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T19:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Aragua FC v Ávila FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 10"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ]
-        },
-        {
             "id": "6ac055a6-d2c2-47d5-98da-4e434fa2ccc6",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "6ac055a6-d2c2-47d5-98da-4e434fa2ccc6",
@@ -926,7 +658,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -948,7 +680,13 @@
                     "p": 1,
                     "value": "Venezuela"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_41_31_878d37db-bdbf-4845-84e0-72fbf50a20fd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340",
+                "decryption_keys": [
+                    "0705b46770c4361fae5cc4a7decffc95:b8c1a37cc91c1d8694c486106f9006b9"
+                ]
+            }
         },
         {
             "id": "40ac89de-9362-4229-bca2-9a1f7ced624e",
@@ -988,7 +726,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1010,7 +748,13 @@
                     "p": 1,
                     "value": "Venezuela"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_08_34_21_552fdd9f-bfef-454a-80db-0aa964cc5659/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340",
+                "decryption_keys": [
+                    "39269acc75263494aadca5b1a91e76f4:c581111093550fd2e9f2e5e6a832be09"
+                ]
+            }
         },
         {
             "id": "147118aa-1fa6-4a0f-aae5-5bb56db1e9fa",
@@ -1050,7 +794,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1072,7 +816,81 @@
                     "p": 1,
                     "value": "Venezuela"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_08_34_24_610528d7-e3a1-4deb-b0b9-941d70d8f07c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340",
+                "decryption_keys": [
+                    "2e7a36f846ac3e2494f93974787097e7:cea908aa863c4a374ee281c963e88e1b"
+                ]
+            }
+        },
+        {
+            "id": "ca7aa8ec-73cd-406e-90d8-cc5d6c063ab2",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "ca7aa8ec-73cd-406e-90d8-cc5d6c063ab2",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Aragua FC v Ávila FC | Liga FUTVE 2 2026",
+            "category": "livestream",
+            "urlSlug": "aragua-fc-vs-avila-f-c",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/67/6f/2e/84/676f2e84-4fc9-4dc0-a6cc-0b14e9c055d3.png",
+            "freeMode": "FREE_ADS",
+            "title": "Aragua FC v Ávila FC | Liga FUTVE 2 2026",
+            "titleTemplateValues": {
+                "season": "Liga FUTVE 2 2026",
+                "city": "Maracay",
+                "stadium": "Olympic Stadium Hermanos Ghersi Páez",
+                "global-stage": "Round 10",
+                "team:avila-f-c": "Ávila FC",
+                "stage": "Regular Season",
+                "association": "Venezuela",
+                "publisher": "MA | Venezuela",
+                "match": "Aragua FC v Ávila FC",
+                "competition": "Liga FUTVE 2",
+                "team:aragua-fc": "Aragua FC",
+                "country": "Venezuela",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
+                "organizer": "Venezuela",
+                "organizer-country": "Venezuela"
+            },
+            "startDate": "2026-05-09T19:30:00Z",
+            "endDate": "2026-05-09T22:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T19:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Aragua FC v Ávila FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Liga FUTVE 2 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 10"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Venezuela"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_41_34_fa5ce3be-2bda-4b8a-be74-eb664d71248c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354940",
+                "decryption_keys": [
+                    "92b61905cb6132c7984d15c35b9d1fd8:84813cf640f9d138f547e5e0fe19b160"
+                ]
+            }
         },
         {
             "id": "d0bbc9ba-15ff-47b5-a36e-24c0b9ea0c2c",
@@ -3165,6 +2983,192 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Fujairah Club v Al Dhaid Club"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "United Arab Emirates"
+                }
+            ]
+        },
+        {
+            "id": "48ba79fa-4635-44d1-930d-4ea37dc6fd6a",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "48ba79fa-4635-44d1-930d-4ea37dc6fd6a",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Gulf United v Masfout Club | Round 27 | First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "gulf-united-vs-masfout-club",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/59/f8/2c/5a/59f82c5a-3f01-401d-a52a-d658b2ae4f84.png",
+            "freeMode": "FREE_ADS",
+            "title": "Gulf United v Masfout Club | Round 27 | First Division League 2025/26",
+            "titleTemplateValues": {
+                "team:masfout-club": "Masfout Club",
+                "team:gulf-united": "Gulf United",
+                "country": "United Arab Emirates",
+                "competition": "First Division League",
+                "city": "Masfout",
+                "stage": "Second Leg",
+                "season": "First Division League 2025/26",
+                "stadium": "Masfout Club",
+                "publisher-channel": "MA | UAE | First Division League 2025/2026",
+                "publisher": "MA | UAE",
+                "global-stage": "Round 27",
+                "association": "United Arab Emirates",
+                "match": "Gulf United v Masfout Club",
+                "video-type": "Live Streams",
+                "organizer": "United Arab Emirates",
+                "organizer-country": "United Arab Emirates"
+            },
+            "startDate": "2026-05-10T13:55:00Z",
+            "endDate": "2026-05-10T16:35:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:05:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Gulf United v Masfout Club"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "United Arab Emirates"
+                }
+            ]
+        },
+        {
+            "id": "03b5a3c4-792b-484e-b459-dc7128e783e7",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "03b5a3c4-792b-484e-b459-dc7128e783e7",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Hatta Club v Al Hamriyah | Round 27 | First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "hatta-club-vs-al-hamriyah",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/78/20/f4/03/7820f403-0da5-4984-8b3b-8a74693327e0.png",
+            "freeMode": "FREE_ADS",
+            "title": "Hatta Club v Al Hamriyah | Round 27 | First Division League 2025/26",
+            "titleTemplateValues": {
+                "stadium": "Hatta Club / Hamdan Bin Rashid Stadium",
+                "country": "United Arab Emirates",
+                "competition": "First Division League",
+                "stage": "Second Leg",
+                "team:al-hamriyah": "Al Hamriyah",
+                "city": "Hatta",
+                "season": "First Division League 2025/26",
+                "team:hatta-club": "Hatta Club",
+                "publisher-channel": "MA | UAE | First Division League 2025/2026",
+                "publisher": "MA | UAE",
+                "global-stage": "Round 27",
+                "match": "Hatta Club v Al Hamriyah",
+                "association": "United Arab Emirates",
+                "video-type": "Live Streams",
+                "organizer": "United Arab Emirates",
+                "organizer-country": "United Arab Emirates"
+            },
+            "startDate": "2026-05-10T13:55:00Z",
+            "endDate": "2026-05-10T16:35:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:05:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Hatta Club v Al Hamriyah"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "United Arab Emirates"
+                }
+            ]
+        },
+        {
+            "id": "1c16e681-5099-4ea2-987f-f70071c0d37d",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "1c16e681-5099-4ea2-987f-f70071c0d37d",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "United Club v Al Arabi | Round 27 | First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "united-club-vs-al-arabi-club",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/2a/28/47/ad/2a2847ad-6eea-4f4d-bb7b-a7cc1289a39d.png",
+            "freeMode": "FREE_ADS",
+            "title": "United Club v Al Arabi | Round 27 | First Division League 2025/26",
+            "titleTemplateValues": {
+                "city": "Dubai",
+                "country": "United Arab Emirates",
+                "competition": "First Division League",
+                "team:united-club": "United Club",
+                "team:al-arabi-club": "Al Arabi",
+                "stage": "Second Leg",
+                "season": "First Division League 2025/26",
+                "match": "United Club v Al Arabi",
+                "publisher-channel": "MA | UAE | First Division League 2025/2026",
+                "publisher": "MA | UAE",
+                "global-stage": "Round 27",
+                "association": "United Arab Emirates",
+                "stadium": "United Club / Dubai Sport City",
+                "video-type": "Live Streams",
+                "organizer": "United Arab Emirates",
+                "organizer-country": "United Arab Emirates"
+            },
+            "startDate": "2026-05-10T13:55:00Z",
+            "endDate": "2026-05-10T16:35:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:05:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "United Club v Al Arabi"
                 },
                 {
                     "kind": "subtitle",
