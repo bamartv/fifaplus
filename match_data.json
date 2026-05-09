@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:23 AM 09-05-2026",
+        "last_update_time": "08:45:28 AM 09-05-2026",
         "total_live": 2,
         "total_upcoming": 48
     },
@@ -187,6 +187,69 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Auckland City v East Coast Bays"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "New Zealand Men's National League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Northern League"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "New Zealand"
+                }
+            ]
+        },
+        {
+            "id": "41dbb091-79c3-4286-bf14-0d021262c6f9",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "41dbb091-79c3-4286-bf14-0d021262c6f9",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Auckland United v Fencibles United | New Zealand Men's National League 2026",
+            "category": "livestream",
+            "urlSlug": "auckland-united-fc-vs-fencibles-united-afc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/fe/44/4a/9c/fe444a9c-2154-4ab0-a812-21413687f9ed.jpg",
+            "freeMode": "FREE_ADS",
+            "title": "Auckland United v Fencibles United | New Zealand Men's National League 2026",
+            "titleTemplateValues": {
+                "competition": "Men's National League",
+                "publisher": "MA | New Zealand",
+                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
+                "global-stage": "Northern League",
+                "team:auckland-united-fc": "Auckland United",
+                "season": "New Zealand Men's National League 2026",
+                "stage": "Regional Phase - Northern League",
+                "association": "New Zealand",
+                "stadium": "Keith Hay Park",
+                "city": "Auckland",
+                "team:fencibles-united-afc": "Fencibles United",
+                "country": "New Zealand",
+                "match": "Auckland United v Fencibles United",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "video-type": "Live Streams",
+                "organizer": "New Zealand",
+                "organizer-country": "New Zealand"
+            },
+            "startDate": "2026-05-09T02:50:00Z",
+            "endDate": "2026-05-09T05:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T03:00:00Z"
+            },
+            "isRegistrationRequired": true,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Auckland United v Fencibles United"
                 },
                 {
                     "kind": "subtitle",
@@ -449,69 +512,6 @@
                     "kind": "caption",
                     "p": 0,
                     "value": "Central League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ]
-        },
-        {
-            "id": "41dbb091-79c3-4286-bf14-0d021262c6f9",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "41dbb091-79c3-4286-bf14-0d021262c6f9",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Auckland United v Fencibles United | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "auckland-united-fc-vs-fencibles-united-afc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/fe/44/4a/9c/fe444a9c-2154-4ab0-a812-21413687f9ed.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Auckland United v Fencibles United | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "global-stage": "Northern League",
-                "team:auckland-united-fc": "Auckland United",
-                "season": "New Zealand Men's National League 2026",
-                "stage": "Regional Phase - Northern League",
-                "association": "New Zealand",
-                "stadium": "Keith Hay Park",
-                "city": "Auckland",
-                "team:fencibles-united-afc": "Fencibles United",
-                "country": "New Zealand",
-                "match": "Auckland United v Fencibles United",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "video-type": "Live Streams",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-09T04:20:00Z",
-            "endDate": "2026-05-09T05:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T03:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Auckland United v Fencibles United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Northern League"
                 },
                 {
                     "kind": "caption",
