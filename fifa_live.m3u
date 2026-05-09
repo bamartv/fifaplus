@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:21 AM 09-05-2026
+#last update time: 09:45:32 AM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/24/5c/1a/08/245c1a08-8002-44a9-8475-87301257c474.jpg" group-title="FIFA Live", Auckland FC v Bula FC | OFC Professional League 2026
@@ -33,3 +33,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_57_b5ca8c3c-68d9-48fc-b7a6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bcca0cea1d3d78b2d825f3099c273d:0999f01732a234a93fcec159441081b3
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_53_a31686a3-6ddb-4ecf-89c7-9fd333854929/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a0/53/4a/14/a0534a14-e8d0-49f6-94bc-c5cfb4577a50.jpg" group-title="FIFA Live", Wellington Olympic v Wellington Phoenix Reserves | New Zealand Men's National League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0df02c7930af328c8fb393fee67eca94:bfb891bdc729df52ea3a11a2875e2b3d
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_03_453022d4-4613-4508-a4bc-724b85f21647/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778297640

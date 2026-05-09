@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:21 AM 09-05-2026",
-        "total_live": 6,
-        "total_upcoming": 44
+        "last_update_time": "09:45:32 AM 09-05-2026",
+        "total_live": 7,
+        "total_upcoming": 43
     },
     "matches": [
         {
@@ -458,7 +458,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -480,7 +480,13 @@
                     "p": 1,
                     "value": "New Zealand"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_03_453022d4-4613-4508-a4bc-724b85f21647/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778297640",
+                "decryption_keys": [
+                    "0df02c7930af328c8fb393fee67eca94:bfb891bdc729df52ea3a11a2875e2b3d"
+                ]
+            }
         },
         {
             "id": "565ae5b1-6a75-4071-9d28-1fd8cbeab93a",
