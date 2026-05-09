@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:26 PM 09-05-2026
+#last update time: 12:15:22 PM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a0/53/4a/14/a0534a14-e8d0-49f6-94bc-c5cfb4577a50.jpg" group-title="FIFA Live", Wellington Olympic v Wellington Phoenix Reserves | New Zealand Men's National League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0df02c7930af328c8fb393fee67eca94:bfb891bdc729df52ea3a11a2875e2b3d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_03_453022d4-4613-4508-a4bc-724b85f21647/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778297640
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/80/9e/0e/9d/809e0e9d-e148-45e7-a3c9-dad79fa08c31.png" group-title="FIFA Live", Busan TC v FC Mokpo | K3 League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey

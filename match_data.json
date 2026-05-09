@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:26 PM 09-05-2026",
-        "total_live": 4,
-        "total_upcoming": 46
+        "last_update_time": "12:15:22 PM 09-05-2026",
+        "total_live": 3,
+        "total_upcoming": 47
     },
     "matches": [
-        {
-            "id": "0650a227-5d76-4b66-98f4-50a5b8312a51",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "0650a227-5d76-4b66-98f4-50a5b8312a51",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Wellington Olympic v Wellington Phoenix Reserves | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "wellington-olympic-vs-wellington-phoenix-reserves",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a0/53/4a/14/a0534a14-e8d0-49f6-94bc-c5cfb4577a50.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Wellington Olympic v Wellington Phoenix Reserves | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "match": "Wellington Olympic v Wellington Phoenix Reserves",
-                "city": "Wellington",
-                "stage": "Regional Phase - Central League",
-                "season": "New Zealand Men's National League 2026",
-                "association": "New Zealand",
-                "global-stage": "Central League",
-                "team:wellington-phoenix-reserves": "Wellington Phoenix Reserves",
-                "video-type": "Full Match Replays",
-                "country": "New Zealand",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "stadium": "Wakefield Park",
-                "team:wellington-olympic": "Wellington Olympic",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-09T03:35:00Z",
-            "endDate": "2026-05-09T06:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T03:45:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Wellington Olympic v Wellington Phoenix Reserves"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Central League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_03_453022d4-4613-4508-a4bc-724b85f21647/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778297640",
-                "decryption_keys": [
-                    "0df02c7930af328c8fb393fee67eca94:bfb891bdc729df52ea3a11a2875e2b3d"
-                ]
-            }
-        },
         {
             "id": "565ae5b1-6a75-4071-9d28-1fd8cbeab93a",
             "channelId": "fifa-tournaments",
@@ -3118,6 +3049,68 @@
                     "kind": "title",
                     "p": 0,
                     "value": "La Fiorita v Tre Penne | Semi-finals - First Leg | Campionato Sammarinese 2025/26"
+                }
+            ]
+        },
+        {
+            "id": "4c955696-9b1d-45cd-8929-45ce7936e53e",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "4c955696-9b1d-45cd-8929-45ce7936e53e",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Williamsville AC v 2 Plateaux FC | Côte d'Ivoire Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "williamsville-ac-vs-2-plateaux-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/2f/8c/0a/ac/2f8c0aac-82dd-41cc-afa6-b8ace2bf4263.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/00/2c/6d/a9/002c6da9-c61f-4707-831d-cc34f487271a.png",
+            "freeMode": "FREE_ADS",
+            "title": "Williamsville AC v 2 Plateaux FC | Côte d'Ivoire Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "match": "Williamsville AC v 2 Plateaux FC",
+                "stadium": "Parc des Sports de Treichville",
+                "competition": "Ligue 2",
+                "association": "Côte d'Ivoire",
+                "team:2-plateaux-fc": "2 Plateaux FC",
+                "city": "Abidjan",
+                "global-stage": "Round 25",
+                "publisher-channel": "MA | Côte d'Ivoire | Ligue 2 2025-2026",
+                "season": "Côte d'Ivoire Ligue 2 2025/26",
+                "country": "Côte d'Ivoire",
+                "stage": "Regular Season",
+                "publisher": "MA | Côte d'Ivoire",
+                "team:williamsville-ac": "Williamsville AC",
+                "video-type": "Live Streams",
+                "organizer": "Côte d'Ivoire",
+                "organizer-country": "Côte d'Ivoire"
+            },
+            "startDate": "2026-05-09T15:50:00Z",
+            "endDate": "2026-05-09T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Williamsville AC v 2 Plateaux FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Côte d'Ivoire Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Côte d'Ivoire"
                 }
             ]
         }
