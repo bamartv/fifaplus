@@ -1,38 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:22 PM 09-05-2026
+#last update time: 08:30:22 PM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/d5/33/49/75d53349-76aa-40fa-8a19-c3a05c40584a.png" group-title="FIFA Live", Pius Njawe FC v SCAF | Central African Republic Super League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4060700a194a34ce996d69078a56183d:e24dbb4251a2a858f85291d51c2b2bfe
-https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_44_15_8335de13-7ff9-445b-ad3b-92464468a400/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778327340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ed/b5/3b/35/edb53b35-4308-4c14-b3b8-7e5eeef0dfd4.png" group-title="FIFA Live", Atmosfera v Babrungas | Pirma Lyga 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ddedc87cb9e3857b89e6d31c493e9d0:9be304a6cf7812cf7b7fe6b5ba4e719a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_15_03_9faff738-a8c3-4a2c-a9a2-74d8a5ed8a9b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778327340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/40/70/ee/23/4070ee23-3563-4d37-b852-3ccf492c47bc.png" group-title="FIFA Live", Aigle Noir CS v Garage Express FC | Primus Ligue Burundi 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b7520c14dbb3e57a35575b371361ad0:7a5c5b80794b77a3acd77174da50bf26
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_08_e962aab2-262b-43a8-900e-3578a7622c34/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778327340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8d/98/91/12/8d989112-34a1-47d6-ab27-1bf0c12020c3.png" group-title="FIFA Live", Bel Air FC v Cote D'Or FC | Seychelles Absa Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbbf56a3d6f23b3480ca94f5a162e5c8:600edb282057085683072a634d007a18
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_14_25_55_03bafe91-c284-43f2-812f-a4a112dae9d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778327340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/db/27/7f/c6/db277fc6-3e81-4932-b156-871e583d63f4.png" group-title="FIFA Live", Atomic Ngomé v Elan Club | Championnat des Comores Division I 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e23e3d595e13eab8388c10a07178947:0ec451124fb8afd66df56b6388a1e8ff
-https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_19_23_e549cf4e-4f74-4346-b65e-cc8e839952c3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778327640
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a2/4b/9d/a8/a24b9da8-10ac-44fe-8008-58872fc01c30.png" group-title="FIFA Live", Volcan Club v US Mbéni | Championnat des Comores Division I 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85cef0d2f3703514b9656a11ef175b08:e7e6a0904572880feab4d73e181b1421
-https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_19_20_24e021d5-039e-4c14-9eed-1c83cf2685b0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778327340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e9/12/3f/7c/e9123f7c-eb80-4145-972b-1a07ad2246e5.png" group-title="FIFA Live", Civil Service United v Ekhaya FC | FDH Bank Premiership
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -113,3 +83,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_13_11_cb07307e-0f5a-4fa4-9e2a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c26b2f9df25e34b5be583bd372b3cf29:45722bb4d50e299022736a7a1585b438
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_13_08_936f7eba-0807-4ee0-9180-76bbad0da5a1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778334540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/33/b7/04/6c33b704-ef36-422f-9b09-39f33c11ccc3.png" group-title="FIFA Live", Maccabi Ahi Nazareth v Hapoel Afula | Liga Noar Leumit U19 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3fa2ddf0119378d851607a8955129b6:2e495b878a090898d4e394e514e7ac3d
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_13_30_40_9728a9f0-c148-4f0f-a46b-98ab2eda6f13/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778336940
