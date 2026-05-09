@@ -1,23 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:24 PM 09-05-2026
+#last update time: 11:15:28 PM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/78/9b/cf/1c/789bcf1c-5b46-4f31-94c5-f8300e790892.png" group-title="FIFA Live", JS El Biar v RC Arbaâ | Ligue 2 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2dc8dcbf16b53e7eb5c129ff96cf92c9:77fe66faeae7a9371c3f6a24c78db055
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_35_05_b16eef24-41c4-4375-a733-6ef7ba989c88/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778334540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/33/b7/04/6c33b704-ef36-422f-9b09-39f33c11ccc3.png" group-title="FIFA Live", Maccabi Ahi Nazareth v Hapoel Afula | Liga Noar Leumit U19 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3fa2ddf0119378d851607a8955129b6:2e495b878a090898d4e394e514e7ac3d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_13_30_40_9728a9f0-c148-4f0f-a46b-98ab2eda6f13/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778336940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d5/f2/73/dc/d5f273dc-11cf-4ed8-a0bc-e1eb1957aeae.png" group-title="FIFA Live", Bani Ganse FC v Hodio FC | Ligue 1 2025
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff9196d6b7bc394f885cdbc972551279:766e92bf94676745db2c2e9acd454da3
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_19_2adf30bf-00ee-44a3-b98e-3f5abbee4696/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778338140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f5/c9/e6/cb/f5c9e6cb-48b5-40d4-a11d-65ddc3b8be5d.png" group-title="FIFA Live", Espoir FC v Coton FC | Ligue 1 2025
 #KODIPROP:inputstream.adaptive.license_type=clearkey
