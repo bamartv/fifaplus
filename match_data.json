@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:28 AM 09-05-2026",
-        "total_live": 2,
-        "total_upcoming": 48
+        "last_update_time": "09:00:26 AM 09-05-2026",
+        "total_live": 6,
+        "total_upcoming": 44
     },
     "matches": [
-        {
-            "id": "72d86345-c00d-4f0c-9b37-d7ce89990445",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "72d86345-c00d-4f0c-9b37-d7ce89990445",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "SV Sporting Aruba v RCA | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "sv-sporting-aruba-vs-rca",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/7c/a0/f5/2e/7ca0f52e-79c1-4b12-9f10-8391fb8a4f07.png",
-            "freeMode": "FREE_ADS",
-            "title": "SV Sporting Aruba v RCA | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "stage": "Division Honor Liga-Oro Round 2",
-                "country": "Aruba",
-                "association": "Aruba",
-                "team:sv-sporting-aruba": "SV Sporting Aruba",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "team:rca": "RCA",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "match": "SV Sporting Aruba v RCA",
-                "global-stage": "Division Honor Oro",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-09T00:20:00Z",
-            "endDate": "2026-05-09T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "SV Sporting Aruba v RCA"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Oro"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_17_2e797988-b843-4753-88cf-44ea42339534/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778285940",
-                "decryption_keys": [
-                    "522e6c272ea030ceb914011a4e48dd50:cf999fafb33c426f47d3098ca76171b1"
-                ]
-            }
-        },
         {
             "id": "7940c388-b1b7-4c0e-8c41-5c0d19620b2c",
             "channelId": "fifa-tournaments",
@@ -181,7 +113,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -203,7 +135,13 @@
                     "p": 1,
                     "value": "New Zealand"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_00_fb9ab2e7-650f-4707-9476-47915ec9b3db/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
+                "decryption_keys": [
+                    "f913ec9244203dfc93e2458ed52588ed:6d6bfaeda76b9da46305f71e9b1ab1c7"
+                ]
+            }
         },
         {
             "id": "41dbb091-79c3-4286-bf14-0d021262c6f9",
@@ -244,7 +182,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -266,7 +204,13 @@
                     "p": 1,
                     "value": "New Zealand"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_10_80809a4c-82d1-479a-82cb-31367b008104/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
+                "decryption_keys": [
+                    "95d0b91ee22130f59ccdf34257477f5d:c7aa3e79c653397457004484692d786f"
+                ]
+            }
         },
         {
             "id": "9028a241-9a64-420d-a6c0-7837bc12cd0d",
@@ -307,7 +251,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -329,7 +273,13 @@
                     "p": 1,
                     "value": "New Zealand"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_50_1b4a5c6b-6e47-4323-af17-61ed429db119/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
+                "decryption_keys": [
+                    "09b1aaf431893394888c150ddaa4f145:4938ace4cb7bbe29d3b34501a78b2239"
+                ]
+            }
         },
         {
             "id": "c9661db4-a77a-4c8a-ac18-c6e71b01a20e",
@@ -370,7 +320,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -392,7 +342,13 @@
                     "p": 1,
                     "value": "New Zealand"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_57_b5ca8c3c-68d9-48fc-b7a6-57851f7e7ed8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
+                "decryption_keys": [
+                    "2fb657847f4938d9a4b2edc998a4916a:4c483d5f48228430605cb202f3086cb5"
+                ]
+            }
         },
         {
             "id": "86ccc5b8-8122-409d-9c78-b522c32a9de1",
@@ -433,7 +389,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -455,7 +411,13 @@
                     "p": 1,
                     "value": "New Zealand"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_53_a31686a3-6ddb-4ecf-89c7-9fd333854929/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
+                "decryption_keys": [
+                    "84bcca0cea1d3d78b2d825f3099c273d:0999f01732a234a93fcec159441081b3"
+                ]
+            }
         },
         {
             "id": "0650a227-5d76-4b66-98f4-50a5b8312a51",
@@ -3113,6 +3075,68 @@
                     "kind": "title",
                     "p": 0,
                     "value": "MO Constantine v HB Chelghoum Laïd"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "6034c9c2-0077-4141-9617-f654d8a540fd",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "6034c9c2-0077-4141-9617-f654d8a540fd",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "NC Magra v JS Bordj Menaiel | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "nc-magra-vs-js-bordj-menaiel",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/88/f3/cb/7e/88f3cb7e-f029-45f9-b656-ad04f8b60b2c.png",
+            "freeMode": "FREE_ADS",
+            "title": "NC Magra v JS Bordj Menaiel | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "city": "Magra",
+                "publisher": "MA | Algeria",
+                "team:nc-magra": "NC Magra",
+                "association": "Algeria",
+                "stadium": "Frères Bouchelik Stadium",
+                "team:js-bordj-menaiel": "JS Bordj Menaiel",
+                "stage": "Regular Season",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "match": "NC Magra v JS Bordj Menaiel",
+                "country": "Algeria",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-09T14:50:00Z",
+            "endDate": "2026-05-09T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "NC Magra v JS Bordj Menaiel"
                 },
                 {
                     "kind": "subtitle",
