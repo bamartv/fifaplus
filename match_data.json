@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:30 AM 10-05-2026",
-        "total_live": 17,
-        "total_upcoming": 33
+        "last_update_time": "12:45:27 AM 10-05-2026",
+        "total_live": 16,
+        "total_upcoming": 34
     },
     "matches": [
         {
@@ -141,74 +141,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_37_01_923fd6f0-71bc-44b2-95b0-12185f322ca1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778343540",
                 "decryption_keys": [
                     "77400800a15531f0813315970bb0bc4e:24c95e8ed55f1b66e507d70fe87cd686"
-                ]
-            }
-        },
-        {
-            "id": "af07d19d-2b8a-4015-a259-ddeec3f6e2ab",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "af07d19d-2b8a-4015-a259-ddeec3f6e2ab",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Djoliba AC v US Bougouni | Ligue 1 Pro Orange 2025/26",
-            "category": "livestream",
-            "urlSlug": "djoliba-ac-vs-us-bougouni",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/40/5f/cb/f2/405fcbf2-dab9-4929-a56c-afba6c186b8f.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f5/27/04/09/f5270409-5c19-4296-98e0-6b4100f2cd3a.png",
-            "freeMode": "FREE_ADS",
-            "title": "Djoliba AC v US Bougouni | Ligue 1 Pro Orange 2025/26",
-            "titleTemplateValues": {
-                "competition": "Ligue 1 Pro Orange",
-                "global-stage": "Round 19",
-                "city": "Bamako",
-                "association": "Mali",
-                "publisher": "MA | Mali",
-                "country": "Mali",
-                "season": "Ligue 1 Pro Orange 2025/26",
-                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
-                "stage": "Regular Season",
-                "stadium": "Mamadou Konate Stadium",
-                "team:djoliba-ac": "Djoliba AC",
-                "match": "Djoliba AC v US Bougouni",
-                "team:us-bougouni": "US Bougouni",
-                "video-type": "Live Streams",
-                "organizer": "Mali",
-                "organizer-country": "Mali"
-            },
-            "startDate": "2026-05-09T16:20:00Z",
-            "endDate": "2026-05-09T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Djoliba AC v US Bougouni"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 Pro Orange 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 19"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mali"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_23_07_57_22_5fdbbe8a-7a47-41cf-8ed3-26d104a2fa5a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778343540",
-                "decryption_keys": [
-                    "c9a984027d8f3ed380e074e74add94c2:7f4bd0ca2f638a3f7ef13731c714a8c4"
                 ]
             }
         },
@@ -3195,6 +3127,68 @@
                     "kind": "title",
                     "p": 0,
                     "value": "KF Vllaznia v Flamurtari"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Kategoria Superiore 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 36"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Albania"
+                }
+            ]
+        },
+        {
+            "id": "3c96cf55-e4c5-4108-a8d7-9b5c4d6fb563",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "3c96cf55-e4c5-4108-a8d7-9b5c4d6fb563",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Vora v KF Bylis | Kategoria Superiore 2025/26",
+            "category": "livestream",
+            "urlSlug": "kf-vora-vs-kf-bylis",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/24/9c/49/90/249c4990-222a-4a78-b151-cb9778a79efc.png",
+            "freeMode": "FREE_ADS",
+            "title": "Vora v KF Bylis | Kategoria Superiore 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "stadium": "Stadiumi Vora",
+                "city": "Vorë",
+                "season": "Kategoria Superiore 2025/26",
+                "team:kf-bylis": "KF Bylis",
+                "country": "Albania",
+                "team:kf-vora": "Vora",
+                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
+                "publisher": "MA | Albania",
+                "competition": "Kategoria Superiore",
+                "match": "Vora v KF Bylis",
+                "global-stage": "Round 36",
+                "association": "Albania",
+                "video-type": "Live Streams",
+                "organizer": "Albania",
+                "organizer-country": "Albania"
+            },
+            "startDate": "2026-05-10T13:50:00Z",
+            "endDate": "2026-05-10T16:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Vora v KF Bylis"
                 },
                 {
                     "kind": "subtitle",

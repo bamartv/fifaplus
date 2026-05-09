@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:30 AM 10-05-2026
+#last update time: 12:45:27 AM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7b/3b/26/c0/7b3b26c0-f53e-4acb-a55c-ec0360e010b9.png" group-title="FIFA Live", Bhantal FC v Wilberforce Strikers FC | Leone Rock Premier League 2025-26
@@ -13,11 +13,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_36_20_058c1ca0-7558-4db2-a511
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=77400800a15531f0813315970bb0bc4e:24c95e8ed55f1b66e507d70fe87cd686
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_37_01_923fd6f0-71bc-44b2-95b0-12185f322ca1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778343540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f5/27/04/09/f5270409-5c19-4296-98e0-6b4100f2cd3a.png" group-title="FIFA Live", Djoliba AC v US Bougouni | Ligue 1 Pro Orange 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9a984027d8f3ed380e074e74add94c2:7f4bd0ca2f638a3f7ef13731c714a8c4
-https://d7pd9oqdl4d44.cloudfront.net/2026_04_23_07_57_22_5fdbbe8a-7a47-41cf-8ed3-26d104a2fa5a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778343540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/bb/aa/96/6cbbaa96-5245-41b6-b17c-e6cbe89fae65.png" group-title="FIFA Live", Cupelum FC v FC Cumura | Campeonato Nacional de Futebol da 1a Divisão 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
