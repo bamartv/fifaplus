@@ -1,8 +1,13 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:22 PM 09-05-2026
+#last update time: 10:45:18 PM 09-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5b/da/e4/62/5bdae462-aa86-4d7c-9eef-14e3d0ebc16f.png" group-title="FIFA Live", AF Luftëtari v KF Sopoti | Kategoria e Parë 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=786fb4485a853763acfddb5339c7c447:11d4a736d6c796f119a4360fe4deffef
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_36_31_108eb7d6-787e-4447-9fcc-7ee5d3cf04f0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778334540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/78/9b/cf/1c/789bcf1c-5b46-4f31-94c5-f8300e790892.png" group-title="FIFA Live", JS El Biar v RC Arbaâ | Ligue 2 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -123,3 +128,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_37_01_923fd6f0-71bc-44b2-95b0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9a984027d8f3ed380e074e74add94c2:7f4bd0ca2f638a3f7ef13731c714a8c4
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_23_07_57_22_5fdbbe8a-7a47-41cf-8ed3-26d104a2fa5a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778343540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/bb/aa/96/6cbbaa96-5245-41b6-b17c-e6cbe89fae65.png" group-title="FIFA Live", Cupelum FC v FC Cumura | Campeonato Nacional de Futebol da 1a Divisão 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c80917a0cc703cd985eca998f4a18766:aa8bca22eed7796a424574db7259eddb
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_25_33_6e24f773-3cab-46ad-9e97-e9d28d9f8b4d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778344440
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1c/a5/f3/8a/1ca5f38a-8e53-4a64-8500-0fa3acc4a0ce.png" group-title="FIFA Live", ASC Gendrim v FC Ksar | Super D-1 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=782d7475cf563f8fba8be7c42f9d93e9:55789cc73dd7252f2715fcd5b4041570
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_24_02_4b4635fa-92c4-4663-a4b5-4cb60cbf535c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778344440
