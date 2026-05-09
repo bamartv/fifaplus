@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:29 PM 09-05-2026",
+        "last_update_time": "06:45:27 PM 09-05-2026",
         "total_live": 13,
         "total_upcoming": 37
     },
@@ -351,75 +351,6 @@
             }
         },
         {
-            "id": "55349e82-de56-4326-8266-cbe5cced42da",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "55349e82-de56-4326-8266-cbe5cced42da",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Volcan Club v US Mbéni | Championnat des Comores Division I 2025/26",
-            "category": "livestream",
-            "urlSlug": "volcan-club-vs-us-mbeni",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/93/27/8b/0a/93278b0a-5477-40c8-bb9d-ccd55ac409d2.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a2/4b/9d/a8/a24b9da8-10ac-44fe-8008-58872fc01c30.png",
-            "freeMode": "FREE_ADS",
-            "title": "Volcan Club v US Mbéni | Championnat des Comores Division I 2025/26",
-            "titleTemplateValues": {
-                "season": "Championnat des Comores Division I 2025/26",
-                "publisher-channel": "MA | Comoros | Division 1 2025/2026",
-                "match": "Volcan Club v US Mbéni",
-                "team:us-mbeni": "US Mbéni",
-                "city": "Moroni",
-                "competition": "Division 1",
-                "stage": "Regular Season",
-                "publisher": "MA | Comoros",
-                "country": "Comoros",
-                "stadium": "Stade de Moroni",
-                "association": "Comoros",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "team:volcan-club": "Volcan Club",
-                "global-stage": "Round 20",
-                "video-type": "Live Streams",
-                "organizer": "Comoros",
-                "organizer-country": "Comoros"
-            },
-            "startDate": "2026-05-09T11:50:00Z",
-            "endDate": "2026-05-09T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Volcan Club v US Mbéni"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championnat des Comores Division I 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 20"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Comoros"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_19_20_24e021d5-039e-4c14-9eed-1c83cf2685b0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778327340",
-                "decryption_keys": [
-                    "85cef0d2f3703514b9656a11ef175b08:e7e6a0904572880feab4d73e181b1421"
-                ]
-            }
-        },
-        {
             "id": "1034e491-f4d5-4078-995e-cc2b4d2d29f9",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "1034e491-f4d5-4078-995e-cc2b4d2d29f9",
@@ -690,6 +621,75 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_19_23_e549cf4e-4f74-4346-b65e-cc8e839952c3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778327640",
                 "decryption_keys": [
                     "5e23e3d595e13eab8388c10a07178947:0ec451124fb8afd66df56b6388a1e8ff"
+                ]
+            }
+        },
+        {
+            "id": "55349e82-de56-4326-8266-cbe5cced42da",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "55349e82-de56-4326-8266-cbe5cced42da",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Volcan Club v US Mbéni | Championnat des Comores Division I 2025/26",
+            "category": "livestream",
+            "urlSlug": "volcan-club-vs-us-mbeni",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/93/27/8b/0a/93278b0a-5477-40c8-bb9d-ccd55ac409d2.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a2/4b/9d/a8/a24b9da8-10ac-44fe-8008-58872fc01c30.png",
+            "freeMode": "FREE_ADS",
+            "title": "Volcan Club v US Mbéni | Championnat des Comores Division I 2025/26",
+            "titleTemplateValues": {
+                "season": "Championnat des Comores Division I 2025/26",
+                "publisher-channel": "MA | Comoros | Division 1 2025/2026",
+                "match": "Volcan Club v US Mbéni",
+                "team:us-mbeni": "US Mbéni",
+                "city": "Moroni",
+                "competition": "Division 1",
+                "stage": "Regular Season",
+                "publisher": "MA | Comoros",
+                "country": "Comoros",
+                "stadium": "Stade de Moroni",
+                "association": "Comoros",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "team:volcan-club": "Volcan Club",
+                "global-stage": "Round 20",
+                "video-type": "Live Streams",
+                "organizer": "Comoros",
+                "organizer-country": "Comoros"
+            },
+            "startDate": "2026-05-09T12:15:00Z",
+            "endDate": "2026-05-09T14:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T12:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Volcan Club v US Mbéni"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Championnat des Comores Division I 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 20"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Comoros"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_19_20_24e021d5-039e-4c14-9eed-1c83cf2685b0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778327340",
+                "decryption_keys": [
+                    "85cef0d2f3703514b9656a11ef175b08:e7e6a0904572880feab4d73e181b1421"
                 ]
             }
         },
