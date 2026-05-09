@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:24 PM 09-05-2026",
+        "last_update_time": "09:45:20 PM 09-05-2026",
         "total_live": 17,
         "total_upcoming": 23
     },
@@ -107,7 +107,7 @@
                 "organizer-country": "Algeria"
             },
             "startDate": "2026-05-09T13:50:00Z",
-            "endDate": "2026-05-09T16:30:00Z",
+            "endDate": "2026-05-09T16:40:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-09T14:00:00Z"
             },
