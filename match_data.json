@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:22 PM 09-05-2026",
+        "last_update_time": "08:45:19 PM 09-05-2026",
         "total_live": 17,
         "total_upcoming": 33
     },
@@ -29,11 +29,11 @@
                 "season": "FDH Bank Premiership",
                 "publisher": "MA | Malawi",
                 "stage": "Regular Season",
+                "video-type": "Full Match Replays",
                 "match": "Civil Service United v Ekhaya FC",
                 "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
                 "team:ekhaya-fc": "Ekhaya FC",
                 "competition": "Super League",
-                "video-type": "Live Streams",
                 "city": "Lilongwe",
                 "organizer": "Malawi",
                 "organizer-country": "Malawi"
@@ -1126,7 +1126,7 @@
                 "organizer": "Israel",
                 "organizer-country": "Israel"
             },
-            "startDate": "2026-05-09T14:30:00Z",
+            "startDate": "2026-05-09T14:38:00Z",
             "endDate": "2026-05-09T17:10:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-09T14:40:00Z"
@@ -1414,6 +1414,68 @@
             ]
         },
         {
+            "id": "5563489d-743d-4264-a0df-3c57efd3fbd4",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "5563489d-743d-4264-a0df-3c57efd3fbd4",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "MO Constantine v HB Chelghoum Laïd | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "mo-constantine-vs-hb-chelghoum-laid",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6c/76/13/33/6c761333-1478-4d26-9d76-4735fe7557f7.png",
+            "freeMode": "FREE_ADS",
+            "title": "MO Constantine v HB Chelghoum Laïd | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "country": "Algeria",
+                "team:hb-chelghoum-laid": "HB Chelghoum Laïd",
+                "city": "Constantine",
+                "match": "MO Constantine v HB Chelghoum Laïd",
+                "association": "Algeria",
+                "competition": "Ligue 2",
+                "organizer-country": "Algeria",
+                "team:mo-constantine": "MO Constantine",
+                "global-stage": "Round 30",
+                "stage": "Regular Season",
+                "organizer": "Algeria",
+                "publisher": "MA | Algeria",
+                "stadium": "Ben-Abdelmalek Stadium",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams"
+            },
+            "startDate": "2026-05-09T14:50:00Z",
+            "endDate": "2026-05-09T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T15:20:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "MO Constantine v HB Chelghoum Laïd"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
             "id": "40f1b5b8-a79b-44d0-a87b-44394f44ff10",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "40f1b5b8-a79b-44d0-a87b-44394f44ff10",
@@ -1426,27 +1488,27 @@
             "freeMode": "FREE_ADS",
             "title": "JS Djijel v MSP Batna | Ligue 2 2025/26",
             "titleTemplateValues": {
-                "team:msp-batna": "MSP Batna",
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "city": "Jijel",
-                "team:js-djijel": "JS Djijel",
-                "stage": "Regular Season",
-                "global-stage": "Round 30",
                 "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
-                "competition": "Ligue 2",
                 "country": "Algeria",
+                "city": "Jijel",
                 "match": "JS Djijel v MSP Batna",
+                "association": "Algeria",
+                "competition": "Ligue 2",
+                "organizer-country": "Algeria",
+                "team:msp-batna": "MSP Batna",
+                "team:js-djijel": "JS Djijel",
+                "global-stage": "Round 30",
+                "stage": "Regular Season",
+                "organizer": "Algeria",
+                "publisher": "MA | Algeria",
                 "stadium": "Hocine Rouibah Stadium",
                 "season": "Ligue 2 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Algeria",
-                "organizer-country": "Algeria"
+                "video-type": "Live Streams"
             },
-            "startDate": "2026-05-09T14:50:00Z",
+            "startDate": "2026-05-09T15:10:00Z",
             "endDate": "2026-05-09T17:30:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-09T15:00:00Z"
+                "kickOffTime": "2026-05-09T15:20:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
@@ -1505,7 +1567,7 @@
                 "organizer": "Algeria",
                 "organizer-country": "Algeria"
             },
-            "startDate": "2026-05-09T14:50:00Z",
+            "startDate": "2026-05-09T15:10:00Z",
             "endDate": "2026-05-09T17:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-09T15:00:00Z"
@@ -1538,68 +1600,6 @@
             ]
         },
         {
-            "id": "5563489d-743d-4264-a0df-3c57efd3fbd4",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5563489d-743d-4264-a0df-3c57efd3fbd4",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "MO Constantine v HB Chelghoum Laïd | Ligue 2 2025/26",
-            "category": "livestream",
-            "urlSlug": "mo-constantine-vs-hb-chelghoum-laid",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6c/76/13/33/6c761333-1478-4d26-9d76-4735fe7557f7.png",
-            "freeMode": "FREE_ADS",
-            "title": "MO Constantine v HB Chelghoum Laïd | Ligue 2 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "city": "Constantine",
-                "stadium": "Ben-Abdelmalek Stadium",
-                "stage": "Regular Season",
-                "global-stage": "Round 30",
-                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
-                "competition": "Ligue 2",
-                "team:mo-constantine": "MO Constantine",
-                "team:hb-chelghoum-laid": "HB Chelghoum Laïd",
-                "match": "MO Constantine v HB Chelghoum Laïd",
-                "country": "Algeria",
-                "season": "Ligue 2 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Algeria",
-                "organizer-country": "Algeria"
-            },
-            "startDate": "2026-05-09T14:50:00Z",
-            "endDate": "2026-05-09T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "MO Constantine v HB Chelghoum Laïd"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 2 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Algeria"
-                }
-            ]
-        },
-        {
             "id": "6034c9c2-0077-4141-9617-f654d8a540fd",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "6034c9c2-0077-4141-9617-f654d8a540fd",
@@ -1612,27 +1612,27 @@
             "freeMode": "FREE_ADS",
             "title": "NC Magra v JS Bordj Menaiel | Ligue 2 2025/26",
             "titleTemplateValues": {
-                "city": "Magra",
-                "publisher": "MA | Algeria",
-                "team:nc-magra": "NC Magra",
-                "association": "Algeria",
-                "stadium": "Frères Bouchelik Stadium",
-                "team:js-bordj-menaiel": "JS Bordj Menaiel",
-                "stage": "Regular Season",
-                "global-stage": "Round 30",
                 "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
-                "competition": "Ligue 2",
-                "match": "NC Magra v JS Bordj Menaiel",
                 "country": "Algeria",
+                "team:nc-magra": "NC Magra",
+                "city": "Magra",
+                "match": "NC Magra v JS Bordj Menaiel",
+                "association": "Algeria",
+                "competition": "Ligue 2",
+                "organizer-country": "Algeria",
+                "global-stage": "Round 30",
+                "stage": "Regular Season",
+                "organizer": "Algeria",
+                "publisher": "MA | Algeria",
+                "stadium": "Frères Bouchelik Stadium",
                 "season": "Ligue 2 2025/26",
                 "video-type": "Live Streams",
-                "organizer": "Algeria",
-                "organizer-country": "Algeria"
+                "team:js-bordj-menaiel": "JS Bordj Menaiel"
             },
-            "startDate": "2026-05-09T14:50:00Z",
+            "startDate": "2026-05-09T15:10:00Z",
             "endDate": "2026-05-09T17:30:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-09T15:00:00Z"
+                "kickOffTime": "2026-05-09T15:20:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
@@ -1674,27 +1674,27 @@
             "freeMode": "FREE_ADS",
             "title": "NRB Teleghma v AS Khroub | Ligue 2 2025/26",
             "titleTemplateValues": {
-                "team:nrb-teleghma": "NRB Teleghma",
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "team:as-khroub": "AS Khroub",
-                "stage": "Regular Season",
-                "global-stage": "Round 30",
                 "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
-                "competition": "Ligue 2",
-                "stadium": "Khebaza Bachir Stadium",
                 "country": "Algeria",
                 "city": "Teleghma",
                 "match": "NRB Teleghma v AS Khroub",
-                "season": "Ligue 2 2025/26",
-                "video-type": "Live Streams",
+                "association": "Algeria",
+                "competition": "Ligue 2",
+                "team:nrb-teleghma": "NRB Teleghma",
+                "organizer-country": "Algeria",
+                "team:as-khroub": "AS Khroub",
+                "global-stage": "Round 30",
+                "stage": "Regular Season",
                 "organizer": "Algeria",
-                "organizer-country": "Algeria"
+                "publisher": "MA | Algeria",
+                "stadium": "Khebaza Bachir Stadium",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams"
             },
-            "startDate": "2026-05-09T14:50:00Z",
+            "startDate": "2026-05-09T15:10:00Z",
             "endDate": "2026-05-09T17:30:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-09T15:00:00Z"
+                "kickOffTime": "2026-05-09T15:20:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
@@ -1736,27 +1736,27 @@
             "freeMode": "FREE_ADS",
             "title": "US Biskra v US Chaouia | Ligue 2 2025/26",
             "titleTemplateValues": {
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "city": "Biskra",
-                "team:us-chaouia": "US Chaouia",
-                "stage": "Regular Season",
-                "global-stage": "Round 30",
                 "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
-                "competition": "Ligue 2",
-                "stadium": "18 Fevrier",
-                "team:us-biskra": "US Biskra",
                 "country": "Algeria",
+                "team:us-biskra": "US Biskra",
+                "city": "Biskra",
                 "match": "US Biskra v US Chaouia",
-                "season": "Ligue 2 2025/26",
-                "video-type": "Live Streams",
+                "association": "Algeria",
+                "competition": "Ligue 2",
+                "organizer-country": "Algeria",
+                "global-stage": "Round 30",
+                "stage": "Regular Season",
                 "organizer": "Algeria",
-                "organizer-country": "Algeria"
+                "publisher": "MA | Algeria",
+                "stadium": "18 Fevrier",
+                "season": "Ligue 2 2025/26",
+                "team:us-chaouia": "US Chaouia",
+                "video-type": "Live Streams"
             },
-            "startDate": "2026-05-09T14:50:00Z",
+            "startDate": "2026-05-09T15:10:00Z",
             "endDate": "2026-05-09T17:30:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-09T15:00:00Z"
+                "kickOffTime": "2026-05-09T15:20:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
