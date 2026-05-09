@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:32 PM 09-05-2026
+#last update time: 10:15:19 PM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5b/da/e4/62/5bdae462-aa86-4d7c-9eef-14e3d0ebc16f.png" group-title="FIFA Live", AF Luftëtari v KF Sopoti | Kategoria e Parë 2025/26
@@ -18,11 +18,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_35_05_b16eef24-41c4-4375-a733
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00ba484ae60e3550bd9eabf2770d699c:b1be2686312535aa6556448719999303
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_13_11_cb07307e-0f5a-4fa4-9e2a-a0799df660ed/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778334540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e5/9a/ec/00/e59aec00-e129-4f67-8ad9-c5b0bb821c1e.png" group-title="FIFA Live", Mitrovica v KFV Prishtina | Siguria Superliga e Femrave 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26b2f9df25e34b5be583bd372b3cf29:45722bb4d50e299022736a7a1585b438
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_13_08_936f7eba-0807-4ee0-9180-76bbad0da5a1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778334540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/33/b7/04/6c33b704-ef36-422f-9b09-39f33c11ccc3.png" group-title="FIFA Live", Maccabi Ahi Nazareth v Hapoel Afula | Liga Noar Leumit U19 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,3 +113,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_09_11_43_7d560ae8-496f-4266-80ce
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29dbbf55f5a4377babe81ad18ccf7057:59418f21f4629b64e0ccd784bb63a823
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_09_11_40_5d6426f4-54fd-42a8-a354-c87bd4d09fbb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778341740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/1a/8d/14/501a8d14-3d0b-4ee5-90b5-3e6f51869bec.png" group-title="FIFA Live", CA Batna v USM Annaba | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b18d0fdc5e13b3da073d102ce7a1d27:ca151cf62d72782c53e6c23a83f20ce3
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_56_9f1edd5a-77e6-444c-b4d0-5aa50528de5c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778343120

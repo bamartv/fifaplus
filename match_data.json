@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:32 PM 09-05-2026",
+        "last_update_time": "10:15:19 PM 09-05-2026",
         "total_live": 23,
-        "total_upcoming": 17
+        "total_upcoming": 16
     },
     "matches": [
         {
@@ -209,74 +209,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_13_11_cb07307e-0f5a-4fa4-9e2a-a0799df660ed/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778334540",
                 "decryption_keys": [
                     "00ba484ae60e3550bd9eabf2770d699c:b1be2686312535aa6556448719999303"
-                ]
-            }
-        },
-        {
-            "id": "bebbea27-cd7c-4c41-a5e2-93a5591f88a8",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "bebbea27-cd7c-4c41-a5e2-93a5591f88a8",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Mitrovica v KFV Prishtina | Siguria Superliga e Femrave 2026",
-            "category": "livestream",
-            "urlSlug": "mitrovica-vs-kfv-prishtina",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/9f/e4/16/f99fe416-c506-4889-98a0-7682087e5bce.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e5/9a/ec/00/e59aec00-e129-4f67-8ad9-c5b0bb821c1e.png",
-            "freeMode": "FREE_ADS",
-            "title": "Mitrovica v KFV Prishtina | Siguria Superliga e Femrave 2026",
-            "titleTemplateValues": {
-                "competition": "Superliga e Femrave",
-                "city": "Mitrovica",
-                "stage": "Regular Season",
-                "association": "Kosovo",
-                "publisher": "MA | Kosovo",
-                "stadium": "Xhevat Jusufi Stadium",
-                "team:mitrovica": "Mitrovica",
-                "team:kfv-prishtina": "KFV Prishtina",
-                "publisher-channel": "MA | Kosovo | Siguria Superliga e Femrave 2026",
-                "match": "Mitrovica v KFV Prishtina",
-                "season": "Siguria Superliga e Femrave 2026",
-                "country": "Kosovo",
-                "video-type": "Live Streams",
-                "global-stage": "Round 8",
-                "organizer": "Kosovo",
-                "organizer-country": "Kosovo"
-            },
-            "startDate": "2026-05-09T13:50:00Z",
-            "endDate": "2026-05-09T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Mitrovica v KFV Prishtina"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Siguria Superliga e Femrave 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 8"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Kosovo"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_13_08_936f7eba-0807-4ee0-9180-76bbad0da5a1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778334540",
-                "decryption_keys": [
-                    "c26b2f9df25e34b5be583bd372b3cf29:45722bb4d50e299022736a7a1585b438"
                 ]
             }
         },
@@ -583,7 +515,7 @@
                 "organizer-country": "Albania"
             },
             "startDate": "2026-05-09T15:10:00Z",
-            "endDate": "2026-05-09T16:30:00Z",
+            "endDate": "2026-05-09T17:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-09T14:00:00Z"
             },
@@ -1592,7 +1524,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1614,7 +1546,13 @@
                     "p": 1,
                     "value": "Algeria"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_56_9f1edd5a-77e6-444c-b4d0-5aa50528de5c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778343120",
+                "decryption_keys": [
+                    "2b18d0fdc5e13b3da073d102ce7a1d27:ca151cf62d72782c53e6c23a83f20ce3"
+                ]
+            }
         },
         {
             "id": "7f83cf99-187e-4d68-a5db-a9319ac4ccbe",
