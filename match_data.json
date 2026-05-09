@@ -3,147 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:00:32 AM 10-05-2026",
-        "total_live": 14,
-        "total_upcoming": 36
+        "last_update_time": "01:15:19 AM 10-05-2026",
+        "total_live": 12,
+        "total_upcoming": 38
     },
     "matches": [
-        {
-            "id": "2ffc94c0-db0f-401a-8975-c0e223f4a751",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2ffc94c0-db0f-401a-8975-c0e223f4a751",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Cupelum FC v FC Cumura | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
-            "category": "livestream",
-            "urlSlug": "cupelum-fc-vs-fc-cumura",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f5/aa/df/8d/f5aadf8d-fa6c-49d2-9a09-43ac1fc84e29.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6c/bb/aa/96/6cbbaa96-5245-41b6-b17c-e6cbe89fae65.png",
-            "freeMode": "FREE_ADS",
-            "title": "Cupelum FC v FC Cumura | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Guinea-Bissau (Publisher)",
-                "team:fc-cumura": "FC Cumura",
-                "competition": "Campeonato Nacional de Futebol da 1a Divisão",
-                "association": "Guinea-Bissau",
-                "city": "Bissau",
-                "match": "Cupelum FC v FC Cumura",
-                "global-stage": "Round 18",
-                "season": "Campeonato Nacional de Futebol da 1a Divisão 2025/26",
-                "country": "Guinea-Bissau",
-                "publisher-channel": "MA | Guinea-Bissau | Campeonato Nacional de Futebol da 1a Divisão 2025/26 (Channel)",
-                "stadium": "Lino Correia",
-                "stage": "Regular Season",
-                "team:cupelum-fc": "Cupelum FC",
-                "video-type": "Live Streams",
-                "organizer": "Guinea-Bissau",
-                "organizer-country": "Guinea-Bissau"
-            },
-            "startDate": "2026-05-09T16:35:00Z",
-            "endDate": "2026-05-09T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Cupelum FC v FC Cumura"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Campeonato Nacional de Futebol da 1a Divisão 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 18"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Guinea-Bissau"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_25_33_6e24f773-3cab-46ad-9e97-e9d28d9f8b4d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778344440",
-                "decryption_keys": [
-                    "c80917a0cc703cd985eca998f4a18766:aa8bca22eed7796a424574db7259eddb"
-                ]
-            }
-        },
-        {
-            "id": "80f8752f-cd14-4150-83ba-895388f2bb3d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "80f8752f-cd14-4150-83ba-895388f2bb3d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "ASC Gendrim v FC Ksar | Super D-1 2025/26",
-            "category": "livestream",
-            "urlSlug": "asc-gendrim-vs-fc-ksar",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1c/a5/f3/8a/1ca5f38a-8e53-4a64-8500-0fa3acc4a0ce.png",
-            "freeMode": "FREE_ADS",
-            "title": "ASC Gendrim v FC Ksar | Super D-1 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular season",
-                "publisher": "MA | Mauritania",
-                "global-stage": "Round 24",
-                "team:asc-gendrim": "ASC Gendrim",
-                "competition": "Super D-1",
-                "city": "Nouakchott",
-                "association": "Mauritania",
-                "stadium": "Stade Cheikha Ould Boïdiya",
-                "match": "ASC Gendrim v FC Ksar",
-                "team:fc-ksar": "FC Ksar",
-                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
-                "season": "Super D-1 2025/26",
-                "country": "Mauritania",
-                "video-type": "Live Streams",
-                "organizer": "Mauritania",
-                "organizer-country": "Mauritania"
-            },
-            "startDate": "2026-05-09T16:35:00Z",
-            "endDate": "2026-05-09T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "ASC Gendrim v FC Ksar"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super D-1 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 24"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_24_02_4b4635fa-92c4-4663-a4b5-4cb60cbf535c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778344440",
-                "decryption_keys": [
-                    "782d7475cf563f8fba8be7c42f9d93e9:55789cc73dd7252f2715fcd5b4041570"
-                ]
-            }
-        },
         {
             "id": "88f0d8ba-7584-4c95-988b-4860c2236ad1",
             "channelId": "fifa-tournaments",
@@ -3177,6 +3041,130 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Dibba Al-Hisn v Al-Ittifaq"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "United Arab Emirates"
+                }
+            ]
+        },
+        {
+            "id": "63145fa5-8da6-4d5f-9944-7aba1ada5b5a",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "63145fa5-8da6-4d5f-9944-7aba1ada5b5a",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Emirates Club v Al Orooba | Round 27 | First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "emirates-club-vs-al-orooba",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/92/da/ae/e0/92daaee0-6f60-4f92-8b07-82ec405c6a04.png",
+            "freeMode": "FREE_ADS",
+            "title": "Emirates Club v Al Orooba | Round 27 | First Division League 2025/26",
+            "titleTemplateValues": {
+                "stadium": "Emirates Club Stadium",
+                "city": "Ras Al-Khaimah",
+                "country": "United Arab Emirates",
+                "competition": "First Division League",
+                "stage": "Second Leg",
+                "season": "First Division League 2025/26",
+                "publisher-channel": "MA | UAE | First Division League 2025/2026",
+                "publisher": "MA | UAE",
+                "global-stage": "Round 27",
+                "match": "Emirates Club v Al Orooba",
+                "association": "United Arab Emirates",
+                "team:emirates-club": "Emirates Club",
+                "team:al-orooba": "Al Orooba",
+                "video-type": "Live Streams",
+                "organizer": "United Arab Emirates",
+                "organizer-country": "United Arab Emirates"
+            },
+            "startDate": "2026-05-10T13:55:00Z",
+            "endDate": "2026-05-10T16:35:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:05:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Emirates Club v Al Orooba"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "United Arab Emirates"
+                }
+            ]
+        },
+        {
+            "id": "5961bbe3-59cd-42d2-8cc1-586e02e151b3",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "5961bbe3-59cd-42d2-8cc1-586e02e151b3",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Fujairah Club v Al Dhaid Club | Round 27 | First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "fujairah-club-vs-al-dhaid-club",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/89/bd/5e/29/89bd5e29-6b22-423b-95f5-7bb86de682e9.png",
+            "freeMode": "FREE_ADS",
+            "title": "Fujairah Club v Al Dhaid Club | Round 27 | First Division League 2025/26",
+            "titleTemplateValues": {
+                "team:fujairah-club": "Fujairah Club",
+                "country": "United Arab Emirates",
+                "competition": "First Division League",
+                "city": "Fujairah",
+                "stage": "Second Leg",
+                "team:al-dhaid-club": "Al Dhaid Club",
+                "season": "First Division League 2025/26",
+                "stadium": "Fujairah Club",
+                "publisher-channel": "MA | UAE | First Division League 2025/2026",
+                "publisher": "MA | UAE",
+                "global-stage": "Round 27",
+                "association": "United Arab Emirates",
+                "match": "Fujairah Club v Al Dhaid Club",
+                "video-type": "Live Streams",
+                "organizer": "United Arab Emirates",
+                "organizer-country": "United Arab Emirates"
+            },
+            "startDate": "2026-05-10T13:55:00Z",
+            "endDate": "2026-05-10T16:35:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:05:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Fujairah Club v Al Dhaid Club"
                 },
                 {
                     "kind": "subtitle",

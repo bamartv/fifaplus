@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:32 AM 10-05-2026
+#last update time: 01:15:19 AM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/bb/aa/96/6cbbaa96-5245-41b6-b17c-e6cbe89fae65.png" group-title="FIFA Live", Cupelum FC v FC Cumura | Campeonato Nacional de Futebol da 1a Divisão 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c80917a0cc703cd985eca998f4a18766:aa8bca22eed7796a424574db7259eddb
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_25_33_6e24f773-3cab-46ad-9e97-e9d28d9f8b4d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778344440
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1c/a5/f3/8a/1ca5f38a-8e53-4a64-8500-0fa3acc4a0ce.png" group-title="FIFA Live", ASC Gendrim v FC Ksar | Super D-1 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=782d7475cf563f8fba8be7c42f9d93e9:55789cc73dd7252f2715fcd5b4041570
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_24_02_4b4635fa-92c4-4663-a4b5-4cb60cbf535c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778344440
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/79/32/d2/e1/7932d2e1-a0b0-4830-8ea4-ac14f90ddc54.png" group-title="FIFA Live", Boavista da Praia v Académico do Sal | Cape Verdean Football Championship 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
