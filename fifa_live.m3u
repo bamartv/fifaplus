@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:24 PM 09-05-2026
+#last update time: 02:15:19 PM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/78/ae/03/83/78ae0383-7568-445c-911d-8673a6e8e7d6.jpg" group-title="FIFA Live", South Melbourne FC v South Island United | OFC Professional League 2026
@@ -13,3 +13,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_58_8dffc0ca-d8b7-4dd2-b932
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8b840e86b8f32c5a4fe280c7a7a5771:7ef19299dc9fcb9b7ee6894ff4dab9a4
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_44_09_ab48276b-0297-4dbb-89ca-6c6b40620b47/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778312940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fb/7b/30/88/fb7b3088-4e2a-40e5-8082-e3ab37c772dc.png" group-title="FIFA Live", Hapoel Jerusalem v Hapoel Ramat Gan | Liga Noar Leumit U19 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=651c1deacfc730e18549ca4964443305:7dbf3e37ac2ceae9392350d76ca45765
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_13_30_37_d12c22ac-20ea-47a2-818a-30d711cc96b9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778313840
