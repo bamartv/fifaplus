@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:45:19 AM 09-05-2026",
+        "last_update_time": "12:00:26 PM 09-05-2026",
         "total_live": 4,
         "total_upcoming": 46
     },
@@ -31,10 +31,10 @@
                 "association": "New Zealand",
                 "global-stage": "Central League",
                 "team:wellington-phoenix-reserves": "Wellington Phoenix Reserves",
+                "video-type": "Full Match Replays",
                 "country": "New Zealand",
                 "fifa-plus": "Mens (FIFA Plus)",
                 "stadium": "Wakefield Park",
-                "video-type": "Live Streams",
                 "team:wellington-olympic": "Wellington Olympic",
                 "organizer": "New Zealand",
                 "organizer-country": "New Zealand"
