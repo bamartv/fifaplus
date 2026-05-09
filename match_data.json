@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:22 PM 09-05-2026",
-        "total_live": 19,
-        "total_upcoming": 31
+        "last_update_time": "07:30:23 PM 09-05-2026",
+        "total_live": 18,
+        "total_upcoming": 32
     },
     "matches": [
-        {
-            "id": "c9789014-162f-4668-b505-593586a66c1f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c9789014-162f-4668-b505-593586a66c1f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Minija v DFK Dainava | Pirma Lyga 2026",
-            "category": "livestream",
-            "urlSlug": "fk-minija-vs-dfk-dainava",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f2/4c/3b/b0/f24c3bb0-e739-4ae5-95d3-6cbfe473d948.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ea/4b/9b/b5/ea4b9bb5-fd6a-44e6-b676-4135d0f04c70.png",
-            "freeMode": "FREE_ADS",
-            "title": "Minija v DFK Dainava | Pirma Lyga 2026",
-            "titleTemplateValues": {
-                "stage": "I Lyga Regular Season",
-                "season": "Pirma Lyga 2026",
-                "stadium": "Kretinga Stadium",
-                "team:dfk-dainava": "DFK Dainava",
-                "team:fk-minija": "Minija",
-                "country": "Lithuania",
-                "match": "Minija v DFK Dainava",
-                "city": "Kretinga",
-                "publisher": "MA | Lithuania ",
-                "competition": "Pirma Lyga",
-                "association": "Lithuania",
-                "global-stage": "Round 9",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Lithuania | Pirma Lyga 2026 (Channel)",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-09T10:50:00Z",
-            "endDate": "2026-05-09T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Minija v DFK Dainava"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Pirma Lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 9"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_15_00_1797de93-e1ac-48b9-a935-6ac430996fd8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778323740",
-                "decryption_keys": [
-                    "3b31c9b337a0387487967bb381cbeb5c:92359ba141fffb58f6de50e3b9cf3b19"
-                ]
-            }
-        },
         {
             "id": "51a941c3-1788-4319-abdd-7348472688fd",
             "channelId": "fifa-tournaments",
@@ -1428,6 +1360,68 @@
             ]
         },
         {
+            "id": "d71580d5-774d-4e66-987d-1de968a0a033",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "d71580d5-774d-4e66-987d-1de968a0a033",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "JS El Biar v RC Arbaâ | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "js-el-biar-vs-rc-arbaa",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/78/9b/cf/1c/789bcf1c-5b46-4f31-94c5-f8300e790892.png",
+            "freeMode": "FREE_ADS",
+            "title": "JS El Biar v RC Arbaâ | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "team:js-el-biar": "JS El Biar",
+                "team:rc-arbaa": "RC Arbaâ",
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "city": "El Biar",
+                "stadium": "Abderrahmane-Ibrir Stadium",
+                "stage": "Regular Season",
+                "match": "JS El Biar v RC Arbaâ",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "country": "Algeria",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-09T13:50:00Z",
+            "endDate": "2026-05-09T16:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T14:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "JS El Biar v RC Arbaâ"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
             "id": "62274010-e015-458a-883b-f2c216440fa7",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "62274010-e015-458a-883b-f2c216440fa7",
@@ -1968,68 +1962,6 @@
                     "kind": "title",
                     "p": 0,
                     "value": "JS Djijel v MSP Batna"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 2 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Algeria"
-                }
-            ]
-        },
-        {
-            "id": "d71580d5-774d-4e66-987d-1de968a0a033",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "d71580d5-774d-4e66-987d-1de968a0a033",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "JS El Biar v RC Arbaâ | Ligue 2 2025/26",
-            "category": "livestream",
-            "urlSlug": "js-el-biar-vs-rc-arbaa",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/78/9b/cf/1c/789bcf1c-5b46-4f31-94c5-f8300e790892.png",
-            "freeMode": "FREE_ADS",
-            "title": "JS El Biar v RC Arbaâ | Ligue 2 2025/26",
-            "titleTemplateValues": {
-                "team:js-el-biar": "JS El Biar",
-                "team:rc-arbaa": "RC Arbaâ",
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "city": "El Biar",
-                "stadium": "Abderrahmane-Ibrir Stadium",
-                "stage": "Regular Season",
-                "match": "JS El Biar v RC Arbaâ",
-                "global-stage": "Round 30",
-                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
-                "competition": "Ligue 2",
-                "country": "Algeria",
-                "season": "Ligue 2 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Algeria",
-                "organizer-country": "Algeria"
-            },
-            "startDate": "2026-05-09T14:50:00Z",
-            "endDate": "2026-05-09T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "JS El Biar v RC Arbaâ"
                 },
                 {
                     "kind": "subtitle",
@@ -3204,6 +3136,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Mauritania"
+                }
+            ]
+        },
+        {
+            "id": "88f0d8ba-7584-4c95-988b-4860c2236ad1",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "88f0d8ba-7584-4c95-988b-4860c2236ad1",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Boavista da Praia v Académico do Sal | Cape Verdean Football Championship 2026",
+            "category": "livestream",
+            "urlSlug": "boavista-da-praia-vs-academico-do-sal",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/79/32/d2/e1/7932d2e1-a0b0-4830-8ea4-ac14f90ddc54.png",
+            "freeMode": "FREE_ADS",
+            "title": "Boavista da Praia v Académico do Sal | Cape Verdean Football Championship 2026",
+            "titleTemplateValues": {
+                "match": "Boavista da Praia v Académico do Sal",
+                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
+                "competition": "Cape Verdean Football Championship",
+                "stadium": "Estádio da Várzea",
+                "global-stage": "Round 2",
+                "country": "Cabo Verde",
+                "city": "Praia",
+                "season": "Cape Verdean Football Championship 2026",
+                "publisher": "MA | Cape Verde",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "team:academico-do-sal": "Académico do Sal",
+                "association": "Cabo Verde",
+                "video-type": "Live Streams",
+                "team:boavista-da-praia": "Boavista da Praia",
+                "organizer": "Cabo Verde",
+                "organizer-country": "Cabo Verde"
+            },
+            "startDate": "2026-05-09T16:50:00Z",
+            "endDate": "2026-05-09T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Boavista da Praia v Académico do Sal"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Cape Verdean Football Championship 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 2"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Cabo Verde"
                 }
             ]
         }
