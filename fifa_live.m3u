@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:27 PM 09-05-2026
+#last update time: 07:00:25 PM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b5/40/f5/36/b540f536-6645-4706-b491-c65df2eed4ad.png" group-title="FIFA Live", Bantu FC v LCS FC | Vodacom Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3835df19157331039b8c318238bc49fa:d44b8c94723dfb4a6cbf09cea7b7b02d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_44_12_ecb6dee3-c72c-4322-b6be-4f3dfad71af6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778321940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6d/b8/c7/1a/6db8c71a-cd16-4f79-9d95-52935763e4d6.png" group-title="FIFA Live", Artilheiros v Benfica | Macau First Division 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -68,3 +63,48 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_47_55_1dd5546a-3415-4948-a7ce
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cf8130bb00e38eeb77725103acad10a:025f5fdd8e382c01f5914ffa7f2e554a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_01_df357fc6-23c6-42b0-a3ea-de9a450d6b10/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778329140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/64/a5/ac/c164a5ac-a824-453c-8f06-e1b1664ed160.png" group-title="FIFA Live", CF Akbou v US Biskra | Ligue Nationale du Football Féminin 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26db19f9eed13a4f9ca89008215ea639:2f6d573ea451db7ba128e2e91875b023
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_35_43_ca1cce20-2f9c-480c-83ac-3ccd1d3b758b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/32/97/1b/ee/32971bee-c709-46ff-b7d5-6f3a41d4f5c0.png" group-title="FIFA Live", University of Macau v Gala | Macau First Division 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c96c774d174b38a09f898cd969611484:4311f16870a741194135d33be5f57ed1
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_10_e8ca4e76-f3e9-476d-bb60-85533914dde6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778330940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ac/97/95/59/ac979559-7438-44df-a8ab-701f5366bece.png" group-title="FIFA Live", Kayanza United v BS Dynamik | Primus Ligue Burundi 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c4ee39d6d553208a59887f4932c785b:7a669a47adff4aecc9595f70975cf925
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_28_bb95881f-f5d3-4818-9b6e-dcc984067408/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/43/7b/7a/54/437b7a54-9aab-4975-864e-e4462852382a.png" group-title="FIFA Live", Messager Ngozi v Inter Star | Primus Ligue Burundi 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34c33d1e1e5733c98012056023c6a930:f5e1e1bc8d92ebe57a243f40f1746f96
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_14_11_12_42d844b9-98a1-44d2-81b0-1963aeea9a27/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7a/b9/c8/7d/7ab9c87d-6029-4057-9bb6-b6620a87c4ce.png" group-title="FIFA Live", Musongati FC v Bumamuru FC | Primus Ligue Burundi 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=533ed033638e3912a8c8b45eab89f47a:a33eacf69bfdaddd382e0fb74ac04ea2
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_11_07e5f0d4-614c-418e-8e2e-7840cba180e8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7a/32/89/3d/7a32893d-20a8-4f12-9a67-6499cf07c00e.png" group-title="FIFA Live", Olympic Star v Ngozi City | Primus Ligue Burundi 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d76c4f19dc93382af38a2073812a847:0b0fa280c3127e1f28240bc1291c7d58
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_34_bdaf3f6f-a006-4781-a32d-ab1582cbe620/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b7/a0/a2/ab/b7a0a2ab-dfa1-4767-9d28-e66dd772e714.png" group-title="FIFA Live", Royal Vision 2026 v Vital'O FC | Primus Ligue Burundi 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31d72cbd76ac3b58b981be389ef70b04:f7f1c38da5cbb9bfd37b1467d03578af
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_18_5c3fc1b6-9710-443f-9015-f6e10e7d3b72/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/84/ac/38/c3/84ac38c3-718e-4084-88a3-f63dd0cc4fd2.png" group-title="FIFA Live", Rukinzo FC v Flambeau du Centre | Primus Ligue Burundi 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c79cfa32700d3145b82fc8bc0edeb554:8bf5784f69f9ac3a60f9873601be1ee8
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_23_80db55d5-aa22-4491-9403-59c345f38605/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/84/f5/db/2b/84f5db2b-adf1-423e-b06c-e5664f16067d.png" group-title="FIFA Live", Lijabatho FC v Lioli FC | Vodacom Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0012290095336d3bd17d25b8789a532:bb3108c53a50a6dcf074f225d4b885be
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_44_16_9a269593-4bec-4e61-8743-4bbc2716408f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778330940
