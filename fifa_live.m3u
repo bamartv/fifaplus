@@ -1,15 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:27 AM 09-05-2026
+#last update time: 08:30:23 AM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e2/dd/fc/62/e2ddfc62-17f1-43ef-ab0e-0ad91cfe2e03.jpg" group-title="FIFA Live", Auckland FC v Melville United | New Zealand Men's National League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=747cb67be30a305e817a5175786605c6:4172f14e56ecc16f7575be95c5fef4db
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_17_0aef3bb2-b6c0-4d31-9941-6ddb6834177e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778284140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/a0/f5/2e/7ca0f52e-79c1-4b12-9f10-8391fb8a4f07.png" group-title="FIFA Live", SV Sporting Aruba v RCA | Division Honor 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=522e6c272ea030ceb914011a4e48dd50:cf999fafb33c426f47d3098ca76171b1
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_17_2e797988-b843-4753-88cf-44ea42339534/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778285940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/24/5c/1a/08/245c1a08-8002-44a9-8475-87301257c474.jpg" group-title="FIFA Live", Auckland FC v Bula FC | OFC Professional League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0320da6511ce390286355b1433098b6e:8a82f0e8739071b9f5b1d3e43ac9d6fc
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_53_524e1c92-3815-4854-af09-7ab7591ad25d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778293140
