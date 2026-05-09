@@ -1,23 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:45:18 AM 10-05-2026
+#last update time: 04:00:23 AM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/56/a4/d2/aa/56a4d2aa-72c1-4330-9cfe-86f109e74112.png" group-title="FIFA Live", Monagas B v Mineros de Guayana | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0705b46770c4361fae5cc4a7decffc95:b8c1a37cc91c1d8694c486106f9006b9
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_41_31_878d37db-bdbf-4845-84e0-72fbf50a20fd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/41/8d/39/1f/418d391f-562d-425b-ab64-08fd645b6145.png" group-title="FIFA Live", Real Frontera v Yaracuyanos F.C. | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39269acc75263494aadca5b1a91e76f4:c581111093550fd2e9f2e5e6a832be09
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_08_34_21_552fdd9f-bfef-454a-80db-0aa964cc5659/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/67/6f/2e/84/676f2e84-4fc9-4dc0-a6cc-0b14e9c055d3.png" group-title="FIFA Live", Aragua FC v Ávila FC | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92b61905cb6132c7984d15c35b9d1fd8:84813cf640f9d138f547e5e0fe19b160
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_41_34_fa5ce3be-2bda-4b8a-be74-eb664d71248c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e1/b8/48/04/e1b84804-b196-4385-946e-636f544da28e.png" group-title="FIFA Live", Pointe Michel FC v Harlem United SC | DFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -28,3 +13,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_57_22_9b8b9577-ac8a-4cdc-a9f2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4acae87e063b3548b905d275accd60cc:08ef17861a4e8f8132d6833119d75f67
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_59_02_f9c75585-ed6f-4ade-9fcd-eb97fcc22091/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778361540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c4/ab/ba/1d/c4abba1d-ee8e-4133-a3af-1473ae86d438.png" group-title="FIFA Live", Newtown United FC v St. Peters FC | SKNFA Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=898cee7249bc38f9bfe25dc30b987fcf:fb97684211ad18aa4149e6c262344f5b
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_22_57_c6ca776f-7e74-4e9c-a0cc-06f34964bee5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778363340

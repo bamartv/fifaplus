@@ -3,215 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:45:18 AM 10-05-2026",
-        "total_live": 5,
-        "total_upcoming": 45
+        "last_update_time": "04:00:23 AM 10-05-2026",
+        "total_live": 3,
+        "total_upcoming": 47
     },
     "matches": [
-        {
-            "id": "6ac055a6-d2c2-47d5-98da-4e434fa2ccc6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6ac055a6-d2c2-47d5-98da-4e434fa2ccc6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Monagas B v Mineros de Guayana | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "monagas-b-vs-mineros-de-guayana",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/56/a4/d2/aa/56a4d2aa-72c1-4330-9cfe-86f109e74112.png",
-            "freeMode": "FREE_ADS",
-            "title": "Monagas B v Mineros de Guayana | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "team:monagas-b": "Monagas B",
-                "match": "Monagas B v Mineros de Guayana",
-                "season": "Liga FUTVE 2 2026",
-                "global-stage": "Round 10",
-                "stage": "Regular Season",
-                "city": "Maturin",
-                "association": "Venezuela",
-                "publisher": "MA | Venezuela",
-                "stadium": "Comanche Bottini",
-                "competition": "Liga FUTVE 2",
-                "country": "Venezuela",
-                "team:mineros-de-guayana": "Mineros de Guayana",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-09T19:20:00Z",
-            "endDate": "2026-05-09T22:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T19:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Monagas B v Mineros de Guayana"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 10"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_41_31_878d37db-bdbf-4845-84e0-72fbf50a20fd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340",
-                "decryption_keys": [
-                    "0705b46770c4361fae5cc4a7decffc95:b8c1a37cc91c1d8694c486106f9006b9"
-                ]
-            }
-        },
-        {
-            "id": "40ac89de-9362-4229-bca2-9a1f7ced624e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "40ac89de-9362-4229-bca2-9a1f7ced624e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Real Frontera v Yaracuyanos F.C. | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "real-frontera-vs-yaracuyanos-f-c",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/41/8d/39/1f/418d391f-562d-425b-ab64-08fd645b6145.png",
-            "freeMode": "FREE_ADS",
-            "title": "Real Frontera v Yaracuyanos F.C. | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "stadium": "Sede Real Frontera",
-                "season": "Liga FUTVE 2 2026",
-                "match": "Real Frontera v Yaracuyanos F.C.",
-                "global-stage": "Round 13",
-                "stage": "Regular Season",
-                "team:real-frontera": "Real Frontera",
-                "team:yaracuyanos-f-c": "Yaracuyanos F.C.",
-                "association": "Venezuela",
-                "publisher": "MA | Venezuela",
-                "competition": "Liga FUTVE 2",
-                "city": "San Cristobal",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-09T19:20:00Z",
-            "endDate": "2026-05-09T22:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T19:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Real Frontera v Yaracuyanos F.C."
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 13"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_08_34_21_552fdd9f-bfef-454a-80db-0aa964cc5659/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340",
-                "decryption_keys": [
-                    "39269acc75263494aadca5b1a91e76f4:c581111093550fd2e9f2e5e6a832be09"
-                ]
-            }
-        },
-        {
-            "id": "ca7aa8ec-73cd-406e-90d8-cc5d6c063ab2",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "ca7aa8ec-73cd-406e-90d8-cc5d6c063ab2",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Aragua FC v Ávila FC | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "aragua-fc-vs-avila-f-c",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/67/6f/2e/84/676f2e84-4fc9-4dc0-a6cc-0b14e9c055d3.png",
-            "freeMode": "FREE_ADS",
-            "title": "Aragua FC v Ávila FC | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "season": "Liga FUTVE 2 2026",
-                "city": "Maracay",
-                "stadium": "Olympic Stadium Hermanos Ghersi Páez",
-                "global-stage": "Round 10",
-                "team:avila-f-c": "Ávila FC",
-                "stage": "Regular Season",
-                "association": "Venezuela",
-                "publisher": "MA | Venezuela",
-                "match": "Aragua FC v Ávila FC",
-                "competition": "Liga FUTVE 2",
-                "team:aragua-fc": "Aragua FC",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-09T19:30:00Z",
-            "endDate": "2026-05-09T22:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T19:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Aragua FC v Ávila FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 10"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_41_34_fa5ce3be-2bda-4b8a-be74-eb664d71248c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354940",
-                "decryption_keys": [
-                    "92b61905cb6132c7984d15c35b9d1fd8:84813cf640f9d138f547e5e0fe19b160"
-                ]
-            }
-        },
         {
             "id": "d0bbc9ba-15ff-47b5-a36e-24c0b9ea0c2c",
             "channelId": "fifa-tournaments",
@@ -386,7 +182,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -408,7 +204,13 @@
                     "p": 1,
                     "value": "St Kitts and Nevis"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_22_57_c6ca776f-7e74-4e9c-a0cc-06f34964bee5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778363340",
+                "decryption_keys": [
+                    "898cee7249bc38f9bfe25dc30b987fcf:fb97684211ad18aa4149e6c262344f5b"
+                ]
+            }
         },
         {
             "id": "adf8c0bc-6851-435c-b981-07e24e7a853d",
@@ -3121,6 +2923,192 @@
                     "kind": "title",
                     "p": 0,
                     "value": "AJEB v Sporting Cascades"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Burkina Faso Ligue 1 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burkina Faso"
+                }
+            ]
+        },
+        {
+            "id": "3261f0b6-9dbe-443f-92b2-33120b3664ec",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "3261f0b6-9dbe-443f-92b2-33120b3664ec",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Douanes v CFFEB | Burkina Faso Ligue 1 2025-26",
+            "category": "livestream",
+            "urlSlug": "as-douanes-burkina-faso-vs-cffeb",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/af/8b/ab/27/af8bab27-3a90-4509-8c02-387f24e06be1.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Douanes v CFFEB | Burkina Faso Ligue 1 2025-26",
+            "titleTemplateValues": {
+                "team:cffeb": "CFFEB",
+                "city": "Ouagadougou",
+                "global-stage": "Round 30",
+                "stadium": "Centre Technique National FBF",
+                "publisher": "MA | Burkina Faso",
+                "stage": "Regular Season",
+                "association": "Burkina Faso",
+                "season": "Burkina Faso Ligue 1 2025-26",
+                "competition": "Ligue 1",
+                "country": "Burkina Faso",
+                "team:as-douanes-burkina-faso": "AS Douanes",
+                "match": "AS Douanes v CFFEB",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
+                "organizer": "Burkina Faso",
+                "organizer-country": "Burkina Faso"
+            },
+            "startDate": "2026-05-10T15:50:00Z",
+            "endDate": "2026-05-10T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Douanes v CFFEB"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Burkina Faso Ligue 1 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burkina Faso"
+                }
+            ]
+        },
+        {
+            "id": "4aaa91c6-778c-438a-822b-301a5d179234",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "4aaa91c6-778c-438a-822b-301a5d179234",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Sonabel v ASFAY | Burkina Faso Ligue 1 2025-26",
+            "category": "livestream",
+            "urlSlug": "as-sonabel-vs-asfay",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/8c/c3/a9/30/8cc3a930-8c98-4a2b-b0a0-ed6a1e0a98cf.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Sonabel v ASFAY | Burkina Faso Ligue 1 2025-26",
+            "titleTemplateValues": {
+                "team:asfay": "ASFAY",
+                "city": "Ouagadougou",
+                "global-stage": "Round 30",
+                "stadium": "Terrain USFA",
+                "team:as-sonabel": "AS Sonabel",
+                "publisher": "MA | Burkina Faso",
+                "stage": "Regular Season",
+                "association": "Burkina Faso",
+                "season": "Burkina Faso Ligue 1 2025-26",
+                "competition": "Ligue 1",
+                "country": "Burkina Faso",
+                "match": "AS Sonabel v ASFAY",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
+                "organizer": "Burkina Faso",
+                "organizer-country": "Burkina Faso"
+            },
+            "startDate": "2026-05-10T15:50:00Z",
+            "endDate": "2026-05-10T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Sonabel v ASFAY"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Burkina Faso Ligue 1 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burkina Faso"
+                }
+            ]
+        },
+        {
+            "id": "b9ca42d9-be54-490f-a9e1-29548ba40770",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "b9ca42d9-be54-490f-a9e1-29548ba40770",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "RCB v USFA | Burkina Faso Ligue 1 2025-26",
+            "category": "livestream",
+            "urlSlug": "rcb-burkina-faso-vs-usfa",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/8a/c8/ee/79/8ac8ee79-f6e2-44d7-b60c-5b77d658c0b7.png",
+            "freeMode": "FREE_ADS",
+            "title": "RCB v USFA | Burkina Faso Ligue 1 2025-26",
+            "titleTemplateValues": {
+                "stadium": "Stade Sangoule Lamizana",
+                "global-stage": "Round 30",
+                "team:usfa": "USFA",
+                "city": "Bobo-Dioulasso",
+                "team:rcb-burkina-faso": "RCB",
+                "publisher": "MA | Burkina Faso",
+                "stage": "Regular Season",
+                "association": "Burkina Faso",
+                "season": "Burkina Faso Ligue 1 2025-26",
+                "competition": "Ligue 1",
+                "country": "Burkina Faso",
+                "match": "RCB v USFA",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
+                "organizer": "Burkina Faso",
+                "organizer-country": "Burkina Faso"
+            },
+            "startDate": "2026-05-10T15:50:00Z",
+            "endDate": "2026-05-10T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "RCB v USFA"
                 },
                 {
                     "kind": "subtitle",
