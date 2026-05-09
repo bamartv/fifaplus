@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:00:25 PM 09-05-2026",
-        "total_live": 21,
-        "total_upcoming": 29
+        "last_update_time": "07:15:22 PM 09-05-2026",
+        "total_live": 19,
+        "total_upcoming": 31
     },
     "matches": [
-        {
-            "id": "326ec673-1018-4a31-b82b-fc6ec0cb2d71",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "326ec673-1018-4a31-b82b-fc6ec0cb2d71",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Artilheiros v Benfica | Macau First Division 2026",
-            "category": "livestream",
-            "urlSlug": "artilheiros-vs-benfica-de-macau",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/17/fb/a2/7e17fba2-2a73-45d5-b26c-5bc6ffdd5b08.jpg",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6d/b8/c7/1a/6db8c71a-cd16-4f79-9d95-52935763e4d6.png",
-            "freeMode": "FREE_ADS",
-            "title": "Artilheiros v Benfica | Macau First Division 2026",
-            "titleTemplateValues": {
-                "team:benfica-de-macau": "Benfica",
-                "publisher": "MA | Macau",
-                "stage": "Regular Season",
-                "country": "Macau",
-                "city": "Macao",
-                "publisher-channel": "MA | Macau | Macau First Division 2026 (Channel)",
-                "season": "Macau First Division 2026",
-                "match": "Artilheiros v Benfica",
-                "global-stage": "Round 11",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "team:artilheiros": "Artilheiros",
-                "competition": "Macau Liga de Elite",
-                "stadium": "Macau Stadium",
-                "association": "Macau",
-                "video-type": "Live Streams",
-                "organizer": "Macau",
-                "organizer-country": "Macau"
-            },
-            "startDate": "2026-05-09T10:50:00Z",
-            "endDate": "2026-05-09T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Artilheiros v Benfica"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Macau First Division 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 11"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Macau"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_06_06a5cb76-c02c-465e-9ed6-6d48545fab96/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778323740",
-                "decryption_keys": [
-                    "7bc098107c7c31a68d46451f1c47cdcc:18598810a0a914cd73579e253791b636"
-                ]
-            }
-        },
         {
             "id": "c9789014-162f-4668-b505-593586a66c1f",
             "channelId": "fifa-tournaments",
@@ -142,75 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_15_00_1797de93-e1ac-48b9-a935-6ac430996fd8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778323740",
                 "decryption_keys": [
                     "3b31c9b337a0387487967bb381cbeb5c:92359ba141fffb58f6de50e3b9cf3b19"
-                ]
-            }
-        },
-        {
-            "id": "48dd4fff-2c65-4256-8b74-d6ea9547967a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "48dd4fff-2c65-4256-8b74-d6ea9547967a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Light Stars FC v St. Michel SC | Seychelles Absa Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "light-stars-fc-vs-st-michel-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/45/9f/11/a8/459f11a8-e0bb-4967-9ffc-2e4fe552a13e.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d8/7d/65/0b/d87d650b-36e4-4aee-a5ba-7751c245b5c2.png",
-            "freeMode": "FREE_ADS",
-            "title": "Light Stars FC v St. Michel SC | Seychelles Absa Premier League 2025/26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Seychelles | Absa Premier League 2025/2026",
-                "publisher": "MA | Seychelles",
-                "city": "Praslin",
-                "team:st-michel-sc": "St. Michel SC",
-                "stadium": "Amitie Stadium",
-                "match": "Light Stars FC v St. Michel SC",
-                "stage": "Regular Season",
-                "global-stage": "Round 18",
-                "association": "Seychelles",
-                "team:light-stars-fc": "Light Stars FC",
-                "season": "Seychelles Absa Premier League 2025/26",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "country": "Seychelles",
-                "competition": "Seychelles Premier League",
-                "video-type": "Live Streams",
-                "organizer": "Seychelles",
-                "organizer-country": "Seychelles"
-            },
-            "startDate": "2026-05-09T10:50:00Z",
-            "endDate": "2026-05-09T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Light Stars FC v St. Michel SC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Seychelles Absa Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 18"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Seychelles"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_14_25_52_ab9ef048-a83b-4b9f-a8fe-792593543222/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778323740",
-                "decryption_keys": [
-                    "783a50c11c8c3b999630d33961e9989b:40341c5c0024d9c64e7a456db8a98852"
                 ]
             }
         },
@@ -1386,27 +1248,27 @@
             "freeMode": "FREE_ADS",
             "title": "Lijabatho FC v Lioli FC | Vodacom Premier League 2025/26",
             "titleTemplateValues": {
-                "country": "Lesotho",
-                "association": "Lesotho",
-                "team:lioli-fc": "Lioli FC",
-                "team:lijabatho-fc": "Lijabatho FC",
                 "publisher-channel": "MA | Lesotho | Vodacom Premier League 2025/26",
-                "stadium": "Setsoto Stadium",
-                "stage": "Regular Season",
-                "match": "Lijabatho FC v Lioli FC",
-                "global-stage": "Round 29",
-                "publisher": "MA | Lesotho",
+                "country": "Lesotho",
+                "team:lioli-fc": "Lioli FC",
                 "city": "Maseru",
+                "match": "Lijabatho FC v Lioli FC",
+                "association": "Lesotho",
                 "competition": "Lesotho Premier League",
-                "season": "Vodacom Premier League 2025/26",
-                "video-type": "Live Streams",
+                "organizer-country": "Lesotho",
+                "global-stage": "Round 29",
+                "team:lijabatho-fc": "Lijabatho FC",
+                "stage": "Regular Season",
                 "organizer": "Lesotho",
-                "organizer-country": "Lesotho"
+                "stadium": "Setsoto Stadium",
+                "publisher": "MA | Lesotho",
+                "season": "Vodacom Premier League 2025/26",
+                "video-type": "Live Streams"
             },
             "startDate": "2026-05-09T12:50:00Z",
             "endDate": "2026-05-09T15:30:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-09T13:00:00Z"
+                "kickOffTime": "2026-05-09T13:11:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
@@ -3218,6 +3080,130 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Mali"
+                }
+            ]
+        },
+        {
+            "id": "2ffc94c0-db0f-401a-8975-c0e223f4a751",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "2ffc94c0-db0f-401a-8975-c0e223f4a751",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Cupelum FC v FC Cumura | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+            "category": "livestream",
+            "urlSlug": "cupelum-fc-vs-fc-cumura",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f5/aa/df/8d/f5aadf8d-fa6c-49d2-9a09-43ac1fc84e29.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6c/bb/aa/96/6cbbaa96-5245-41b6-b17c-e6cbe89fae65.png",
+            "freeMode": "FREE_ADS",
+            "title": "Cupelum FC v FC Cumura | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Guinea-Bissau (Publisher)",
+                "team:fc-cumura": "FC Cumura",
+                "competition": "Campeonato Nacional de Futebol da 1a Divisão",
+                "association": "Guinea-Bissau",
+                "city": "Bissau",
+                "match": "Cupelum FC v FC Cumura",
+                "global-stage": "Round 18",
+                "season": "Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+                "country": "Guinea-Bissau",
+                "publisher-channel": "MA | Guinea-Bissau | Campeonato Nacional de Futebol da 1a Divisão 2025/26 (Channel)",
+                "stadium": "Lino Correia",
+                "stage": "Regular Season",
+                "team:cupelum-fc": "Cupelum FC",
+                "video-type": "Live Streams",
+                "organizer": "Guinea-Bissau",
+                "organizer-country": "Guinea-Bissau"
+            },
+            "startDate": "2026-05-09T16:35:00Z",
+            "endDate": "2026-05-09T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Cupelum FC v FC Cumura"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Campeonato Nacional de Futebol da 1a Divisão 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 18"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Guinea-Bissau"
+                }
+            ]
+        },
+        {
+            "id": "80f8752f-cd14-4150-83ba-895388f2bb3d",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "80f8752f-cd14-4150-83ba-895388f2bb3d",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "ASC Gendrim v FC Ksar | Super D-1 2025/26",
+            "category": "livestream",
+            "urlSlug": "asc-gendrim-vs-fc-ksar",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1c/a5/f3/8a/1ca5f38a-8e53-4a64-8500-0fa3acc4a0ce.png",
+            "freeMode": "FREE_ADS",
+            "title": "ASC Gendrim v FC Ksar | Super D-1 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular season",
+                "publisher": "MA | Mauritania",
+                "global-stage": "Round 24",
+                "team:asc-gendrim": "ASC Gendrim",
+                "competition": "Super D-1",
+                "city": "Nouakchott",
+                "association": "Mauritania",
+                "stadium": "Stade Cheikha Ould Boïdiya",
+                "match": "ASC Gendrim v FC Ksar",
+                "team:fc-ksar": "FC Ksar",
+                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
+                "season": "Super D-1 2025/26",
+                "country": "Mauritania",
+                "video-type": "Live Streams",
+                "organizer": "Mauritania",
+                "organizer-country": "Mauritania"
+            },
+            "startDate": "2026-05-09T16:35:00Z",
+            "endDate": "2026-05-09T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "ASC Gendrim v FC Ksar"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super D-1 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 24"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritania"
                 }
             ]
         }
