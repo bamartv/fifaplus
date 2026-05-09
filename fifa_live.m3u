@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:15:26 AM 10-05-2026
+#last update time: 04:30:22 AM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e1/b8/48/04/e1b84804-b196-4385-946e-636f544da28e.png" group-title="FIFA Live", Pointe Michel FC v Harlem United SC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e3eec5056c63bac87fe11af8a6dcc33:75ddcebf00b6a7faa112892d02d89c1a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_57_22_9b8b9577-ac8a-4cdc-a9f2-977babd1ee43/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778356140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/45/60/02/9f/4560029f-ca26-4311-b973-eb49a6f9e0bf.png" group-title="FIFA Live", Barquisimeto SC v Ureña SC | Liga FUTVE 2 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -18,3 +13,18 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_59_02_f9c75585-ed6f-4ade-9fcd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=898cee7249bc38f9bfe25dc30b987fcf:fb97684211ad18aa4149e6c262344f5b
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_22_57_c6ca776f-7e74-4e9c-a0cc-06f34964bee5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778363340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/38/9a/e4/13/389ae413-b501-417b-a2c3-c3c91875fdec.png" group-title="FIFA Live", Mighty Avengers v Mahaut Soca Strikers FC | DFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc6fa14c9c5732bc82d18eb756942ff8:920d596769454ace8696c764c4ebaae2
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_57_27_5041ab6e-6d05-45da-ad94-fcd7d08bc3d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778365140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a5/7e/82/74/a57e8274-0635-4bc7-b1f8-6f69a3c272ff.png" group-title="FIFA Live", Bubali v Dakota | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a8e2fc378bf37e9b8cd7a129df6698d:310cfcd45102f0b6e6a5a8ef58416fc0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_20_594ad389-aaf6-41e8-baff-044656571098/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778365140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/56/b1/cb/b2/56b1cbb2-bcf5-4f1c-957b-689794050e7b.png" group-title="FIFA Live", Provo United FC v Cheshire Hall FC | Provo Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81f4b1fc97ec3fe58bb6f2f4db488968:a6f1e56fa7a17ab9497ee02643f260e9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_13_47_19_83a13ff1-a004-4e98-90a2-313b1d9c406a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778365140
