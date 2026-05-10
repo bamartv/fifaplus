@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:24 AM 11-05-2026",
-        "total_live": 23,
+        "last_update_time": "12:15:20 AM 11-05-2026",
+        "total_live": 20,
         "total_upcoming": 23
     },
     "matches": [
-        {
-            "id": "651ceb18-44ba-4ec6-bcc7-d93619beacdf",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "651ceb18-44ba-4ec6-bcc7-d93619beacdf",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "ASN Nigelec v AS Police | Super Ligue 2025/26",
-            "category": "livestream",
-            "urlSlug": "asn-nigelec-vs-as-police",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/ec/cd/44/9eeccd44-ac8e-414d-a647-f8fe021614d5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/0c/f9/c7/90/0cf9c790-c458-4104-a805-27c646b86498.png",
-            "freeMode": "FREE_ADS",
-            "title": "ASN Nigelec v AS Police | Super Ligue 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Niger ",
-                "global-stage": "Round 24",
-                "season": "Super Ligue 2025/26",
-                "stage": "Regular stage",
-                "association": "Niger",
-                "match": "ASN Nigelec v AS Police",
-                "stadium": "SGSK Stadium",
-                "competition": "Super Ligue",
-                "team:asn-nigelec": "ASN Nigelec",
-                "country": "Niger",
-                "city": "Niamey",
-                "team:as-police": "AS Police",
-                "publisher-channel": "MA | Niger | Super Ligue 2025/2026",
-                "video-type": "Live Streams",
-                "organizer": "Niger",
-                "organizer-country": "Niger"
-            },
-            "startDate": "2026-05-10T15:35:00Z",
-            "endDate": "2026-05-10T18:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T15:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "ASN Nigelec v AS Police"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super Ligue 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 24"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Niger"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_03_05_ac8126ec-1574-44a4-bb77-76200b0e2b59/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778427240",
-                "decryption_keys": [
-                    "d6e121307c6f31cb923c4572d7c29e65:3723f0fa8d99a78166bf260a563745e9"
-                ]
-            }
-        },
         {
             "id": "9a6ddcf1-306c-4631-b3f8-b69307fd9ca6",
             "channelId": "fifa-tournaments",
@@ -209,74 +141,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_28_03509ae3-6c91-4bb9-9adb-70c2ef3b290b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140",
                 "decryption_keys": [
                     "53a5ca6ce7653687a0a2128a042bfe75:d06dfbbdaf62c34026a9695612285791"
-                ]
-            }
-        },
-        {
-            "id": "4aaa91c6-778c-438a-822b-301a5d179234",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4aaa91c6-778c-438a-822b-301a5d179234",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Sonabel v ASFAY | Burkina Faso Ligue 1 2025-26",
-            "category": "livestream",
-            "urlSlug": "as-sonabel-vs-asfay",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/8c/c3/a9/30/8cc3a930-8c98-4a2b-b0a0-ed6a1e0a98cf.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Sonabel v ASFAY | Burkina Faso Ligue 1 2025-26",
-            "titleTemplateValues": {
-                "team:asfay": "ASFAY",
-                "city": "Ouagadougou",
-                "global-stage": "Round 30",
-                "stadium": "Terrain USFA",
-                "team:as-sonabel": "AS Sonabel",
-                "publisher": "MA | Burkina Faso",
-                "stage": "Regular Season",
-                "association": "Burkina Faso",
-                "season": "Burkina Faso Ligue 1 2025-26",
-                "competition": "Ligue 1",
-                "country": "Burkina Faso",
-                "match": "AS Sonabel v ASFAY",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
-                "organizer": "Burkina Faso",
-                "organizer-country": "Burkina Faso"
-            },
-            "startDate": "2026-05-10T15:50:00Z",
-            "endDate": "2026-05-10T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Sonabel v ASFAY"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Burkina Faso Ligue 1 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Burkina Faso"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_44_c45431f5-5ad4-4332-81d2-6bf8b67f7fcb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140",
-                "decryption_keys": [
-                    "72519bd7373734b5bebc104d2631ce6b:c8835745bec8dd5b85f3059f97fb9a6f"
                 ]
             }
         },
@@ -821,75 +685,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_45_26_f71c8bb1-3692-471d-acf2-b8fdf3f74e88/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778428140",
                 "decryption_keys": [
                     "857cd7aca7b4365caac801397146f8ac:dbd7b2e78088bb8c51c96f4ac649ab04"
-                ]
-            }
-        },
-        {
-            "id": "5419bf23-e69e-4107-90bb-a5c477c80cdb",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5419bf23-e69e-4107-90bb-a5c477c80cdb",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Sporting Casablanca v Wydad de Casablanca | D1 Women's Championship  2025-26",
-            "category": "livestream",
-            "urlSlug": "sporting-casablanca-vs-wydad-de-casablanca",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/de/e7/40/33/dee74033-f15f-4c9b-b864-56d00c2765ee.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/0e/3a/8e/45/0e3a8e45-0149-459d-bb80-5fe53548fbb5.png",
-            "freeMode": "FREE_ADS",
-            "title": "Sporting Casablanca v Wydad de Casablanca | D1 Women's Championship  2025-26",
-            "titleTemplateValues": {
-                "competition": "Championnat Féminin D1",
-                "stage": "Regular Season",
-                "global-stage": "Round 21",
-                "association": "Morocco",
-                "publisher": "MA | Morocco",
-                "publisher-channel": "MA | Morocco | Championnat Féminin D1 2025/2026",
-                "city": "Zürich",
-                "season": "D1 Women's Championship  2025-26",
-                "country:switzerland": "Switzerland",
-                "country:morocco": "Morocco",
-                "match": "Sporting Casablanca v Wydad de Casablanca",
-                "team:wydad-de-casablanca": "Wydad de Casablanca",
-                "stadium": "To be confirmed",
-                "video-type": "Live Streams",
-                "team:sporting-casablanca": "Sporting Casablanca",
-                "organizer": "Morocco",
-                "organizer-country": "Morocco"
-            },
-            "startDate": "2026-05-10T15:50:00Z",
-            "endDate": "2026-05-10T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Sporting Casablanca v Wydad de Casablanca"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "D1 Women's Championship  2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 21"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Morocco"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_45_19_478f9183-fb01-40fc-b8b0-c64c3032529d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778428140",
-                "decryption_keys": [
-                    "64f4f263bb713ce298df4c20dfdba285:54b5dc4c00d7632531f9b54b0503103b"
                 ]
             }
         },

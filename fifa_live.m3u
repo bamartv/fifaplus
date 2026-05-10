@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:24 AM 11-05-2026
+#last update time: 12:15:20 AM 11-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0c/f9/c7/90/0cf9c790-c458-4104-a805-27c646b86498.png" group-title="FIFA Live", ASN Nigelec v AS Police | Super Ligue 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6e121307c6f31cb923c4572d7c29e65:3723f0fa8d99a78166bf260a563745e9
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_03_05_ac8126ec-1574-44a4-bb77-76200b0e2b59/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778427240
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4c/c6/06/2a/4cc6062a-51cf-46bc-85b8-2e22eb3709c8.png" group-title="FIFA Live", AJEB v Sporting Cascades | Burkina Faso Ligue 1 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -18,11 +13,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_37_8fbce27c-901a-4c6b-ad2d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53a5ca6ce7653687a0a2128a042bfe75:d06dfbbdaf62c34026a9695612285791
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_28_03509ae3-6c91-4bb9-9adb-70c2ef3b290b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8c/c3/a9/30/8cc3a930-8c98-4a2b-b0a0-ed6a1e0a98cf.png" group-title="FIFA Live", AS Sonabel v ASFAY | Burkina Faso Ligue 1 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72519bd7373734b5bebc104d2631ce6b:c8835745bec8dd5b85f3059f97fb9a6f
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_44_c45431f5-5ad4-4332-81d2-6bf8b67f7fcb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8a/c8/ee/79/8ac8ee79-f6e2-44d7-b60c-5b77d658c0b7.png" group-title="FIFA Live", RCB v USFA | Burkina Faso Ligue 1 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,11 +53,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_45_22_5c72d045-58bc-40f5-80e4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=857cd7aca7b4365caac801397146f8ac:dbd7b2e78088bb8c51c96f4ac649ab04
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_45_26_f71c8bb1-3692-471d-acf2-b8fdf3f74e88/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778428140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0e/3a/8e/45/0e3a8e45-0149-459d-bb80-5fe53548fbb5.png" group-title="FIFA Live", Sporting Casablanca v Wydad de Casablanca | D1 Women's Championship  2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=64f4f263bb713ce298df4c20dfdba285:54b5dc4c00d7632531f9b54b0503103b
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_45_19_478f9183-fb01-40fc-b8b0-c64c3032529d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778428140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/da/5a/b7/84/da5ab784-238c-44b9-86e0-3f00ee4d9140.png" group-title="FIFA Live", Abacha City FC v Diamond Stars FC | Leone Rock Premier League 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
