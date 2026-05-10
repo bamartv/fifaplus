@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:20 AM 10-05-2026",
-        "total_live": 5,
-        "total_upcoming": 45
+        "last_update_time": "06:00:27 AM 10-05-2026",
+        "total_live": 6,
+        "total_upcoming": 44
     },
     "matches": [
-        {
-            "id": "3c3dffc8-7bb2-4357-8ae9-fbb362c987a7",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3c3dffc8-7bb2-4357-8ae9-fbb362c987a7",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Barquisimeto SC v Ureña SC | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "barquisimeto-sc-vs-urena-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/45/60/02/9f/4560029f-ca26-4311-b973-eb49a6f9e0bf.png",
-            "freeMode": "FREE_ADS",
-            "title": "Barquisimeto SC v Ureña SC | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "season": "Liga FUTVE 2 2026",
-                "team:barquisimeto-sc": "Barquisimeto SC",
-                "global-stage": "Round 13",
-                "stage": "Regular Season",
-                "match": "Barquisimeto SC v Ureña SC",
-                "association": "Venezuela",
-                "stadium": "Farid Richa Stadium",
-                "city": "Barquisimeto",
-                "publisher": "MA | Venezuela",
-                "team:urena-sc": "Ureña SC",
-                "competition": "Liga FUTVE 2",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-09T21:20:00Z",
-            "endDate": "2026-05-10T00:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T21:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Barquisimeto SC v Ureña SC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 13"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_59_02_f9c75585-ed6f-4ade-9fcd-eb97fcc22091/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778361540",
-                "decryption_keys": [
-                    "4acae87e063b3548b905d275accd60cc:08ef17861a4e8f8132d6833119d75f67"
-                ]
-            }
-        },
         {
             "id": "138a1571-c2a2-4904-a3a5-a9b83baac087",
             "channelId": "fifa-tournaments",
@@ -386,7 +318,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -408,7 +340,13 @@
                     "p": 1,
                     "value": "Antigua and Barbuda"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_12_46_02_2caee600-6c79-46fe-be81-a3a51d61ab05/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778370540",
+                "decryption_keys": [
+                    "8afc97c278803594a57aa1108f8a24eb:b5a65484bed39fa2fc455d1ab520c7a9"
+                ]
+            }
         },
         {
             "id": "fd9eea6e-ea17-452c-be87-d1aa5b506044",
@@ -448,7 +386,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -470,7 +408,13 @@
                     "p": 1,
                     "value": "St Kitts and Nevis"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_00_bc0a4c86-d2de-429e-9b40-c59258d8709c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778370540",
+                "decryption_keys": [
+                    "4a83ccdb63f9366582d67cae898858a9:6ebfc388d060b6f9f2ae272a12b38ae4"
+                ]
+            }
         },
         {
             "id": "e1915f65-bba1-46ee-9de2-da5ef853f821",
@@ -3121,6 +3065,68 @@
                     "kind": "title",
                     "p": 0,
                     "value": "RCK v Majestic FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Burkina Faso Ligue 1 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burkina Faso"
+                }
+            ]
+        },
+        {
+            "id": "70ff5985-fad2-45c9-b746-7399f5c50f9b",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "70ff5985-fad2-45c9-b746-7399f5c50f9b",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Real du Faso v EFO | Burkina Faso Ligue 1 2025-26",
+            "category": "livestream",
+            "urlSlug": "real-du-faso-vs-efo",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b8/1e/c4/d5/b81ec4d5-672b-47e4-8800-d72c40428e17.png",
+            "freeMode": "FREE_ADS",
+            "title": "Real du Faso v EFO | Burkina Faso Ligue 1 2025-26",
+            "titleTemplateValues": {
+                "match": "Real du Faso v EFO",
+                "city": "Ouagadougou",
+                "global-stage": "Round 30",
+                "publisher": "MA | Burkina Faso",
+                "stage": "Regular Season",
+                "association": "Burkina Faso",
+                "team:real-du-faso": "Real du Faso",
+                "season": "Burkina Faso Ligue 1 2025-26",
+                "competition": "Ligue 1",
+                "stadium": "Stade Municipal IJC",
+                "country": "Burkina Faso",
+                "team:efo": "EFO",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
+                "organizer": "Burkina Faso",
+                "organizer-country": "Burkina Faso"
+            },
+            "startDate": "2026-05-10T15:50:00Z",
+            "endDate": "2026-05-10T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Real du Faso v EFO"
                 },
                 {
                     "kind": "subtitle",

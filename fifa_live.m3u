@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:20 AM 10-05-2026
+#last update time: 06:00:27 AM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/45/60/02/9f/4560029f-ca26-4311-b973-eb49a6f9e0bf.png" group-title="FIFA Live", Barquisimeto SC v Ureña SC | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4acae87e063b3548b905d275accd60cc:08ef17861a4e8f8132d6833119d75f67
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_59_02_f9c75585-ed6f-4ade-9fcd-eb97fcc22091/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778361540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c4/ab/ba/1d/c4abba1d-ee8e-4133-a3af-1473ae86d438.png" group-title="FIFA Live", Newtown United FC v St. Peters FC | SKNFA Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -28,3 +23,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_20_594ad389-aaf6-41e8-baff
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81f4b1fc97ec3fe58bb6f2f4db488968:a6f1e56fa7a17ab9497ee02643f260e9
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_13_47_19_83a13ff1-a004-4e98-90a2-313b1d9c406a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778365140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c7/7c/2f/ed/c77c2fed-2b48-459d-8df5-1fd9ec24f788.png" group-title="FIFA Live", Grenades FC v All Saints United | Antigua Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8afc97c278803594a57aa1108f8a24eb:b5a65484bed39fa2fc455d1ab520c7a9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_12_46_02_2caee600-6c79-46fe-be81-a3a51d61ab05/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778370540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/de/df/a1/a0/dedfa1a0-17f9-4efb-8f28-1a15f5da2f17.png" group-title="FIFA Live", Old Road United Jets v Cayon FC | SKNFA Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a83ccdb63f9366582d67cae898858a9:6ebfc388d060b6f9f2ae272a12b38ae4
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_00_bc0a4c86-d2de-429e-9b40-c59258d8709c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778370540
