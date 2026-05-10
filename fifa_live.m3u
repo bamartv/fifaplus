@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:18 PM 10-05-2026
+#last update time: 08:00:26 PM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a9/a8/ef/4f/a9a8ef4f-9195-488a-8b32-91052954b3b6.png" group-title="FIFA Live", Blue Eagles v Silver Strikers FC | FDH Bank Premiership
@@ -33,3 +33,63 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_07_08e570cd-94e9-4022-b3e5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e000cd630df317388345fd72296aa1a:69d4c68dd74d1c25f69260399698920f
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_13_28_50_1a952ffc-c6dc-435d-8da8-27524bfb3833/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778417340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/cb/b3/e8/59cbb3e8-731c-4469-bac3-25e6aadd1f8b.png" group-title="FIFA Live", AS Tempete Mocaf v ORB | Central African Republic Super League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=184f81d9c8173610873f4abde81a788c:fe9146be416955881f82c22ebd57603b
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_44_20_07ef5464-e4c4-4e5f-9a95-8e18a18e204a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778420940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d5/a1/b4/59/d5a1b459-89f5-4d30-ad74-c768ec07532c.png" group-title="FIFA Live", AF Elbasani v KF Tirana | Kategoria Superiore 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f68d4ec83f73c3a887dc400604275ef:0230c669b5aabbeb3f00c84435924a48
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_30_33_de5c751e-1f95-4d93-b030-3b979a09acc3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778420940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a2/23/76/b8/a22376b8-4082-4a49-ace6-08b4ca9565af.png" group-title="FIFA Live", FK Partizani v FC Dinamo City | Kategoria Superiore 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f633c47bb29e389cb0d9c2c249491485:3aed9f0fc3113c78df17f75ff2885eac
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_30_27_3f6de55f-958c-4e80-a4f7-da4a5fcb1025/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778420940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/25/d5/97/02/25d59702-27d3-4142-8aa0-7d31e62eff5f.png" group-title="FIFA Live", KF Teuta v KF Egnatia | Kategoria Superiore 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=924d5b276d5d36b5a2dd137face2a2a0:52213fe5d98f81e7424d5edb6da0aa0e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_30_36_f0449fb5-df87-4fbc-a8ff-a96f19b12be2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778420940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1f/65/41/68/1f654168-b6ec-4956-bffd-90c56a63f4da.png" group-title="FIFA Live", KF Vllaznia v Flamurtari | Kategoria Superiore 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8712232ad69233c48fa3edf91797cf44:422691fc8bc031bfb9884bf6e3d995a0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_30_24_18f3cd44-01f5-49bd-a09e-631e1dd6e507/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778420940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/24/9c/49/90/249c4990-222a-4a78-b151-cb9778a79efc.png" group-title="FIFA Live", Vora v KF Bylis | Kategoria Superiore 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5b3e698c27e369b831e3d4af6a84bb6:ab7ea3551e3c0ea5c5ef18a7a64b6315
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_30_30_4a3300d9-c7f3-4628-9d53-09c4ca220dff/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778420940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b0/d9/ea/7c/b0d9ea7c-9668-4b62-b656-e4b90348cbed.png" group-title="FIFA Live", Al Jazira Al Hamra v Dubai City F.C. | Round 27 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78476240f68939dcaf7ebdf59162a620:055b033214e6c0b051bd6ec114660e60
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_17_7b0ee942-c766-414b-835f-82d807dc5bca/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/37/d1/10/9d/37d1109d-69cc-49d8-8d85-a87fe63f3853.png" group-title="FIFA Live", Dibba Al-Hisn v Al-Ittifaq | Round 27 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84dfac5957d33bde9f16c0e02c139971:7e2f0020b92e8665160b6c75d738092e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_10_26091aca-baa2-49b5-aa5b-0a423aa06c47/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/92/da/ae/e0/92daaee0-6f60-4f92-8b07-82ec405c6a04.png" group-title="FIFA Live", Emirates Club v Al Orooba | Round 27 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96241bef85423eb298548de26861ffd7:9b745ffd3b7fbdfb07217b878268d766
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_07_253c5c5f-4905-4447-970f-43e8c840fe2c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/89/bd/5e/29/89bd5e29-6b22-423b-95f5-7bb86de682e9.png" group-title="FIFA Live", Fujairah Club v Al Dhaid Club | Round 27 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90bda59e7d1231e49a14f31f75ae4b79:a81421f0eb8bbd407f3fbe8d79d75a1c
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_23_a750adc5-35aa-4ce5-9e74-b09605357324/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/78/20/f4/03/7820f403-0da5-4984-8b3b-8a74693327e0.png" group-title="FIFA Live", Hatta Club v Al Hamriyah | Round 27 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14cad455b003324d9af0eb213d5e76c3:67194ac31d4a2e6d5a9363e725154a6a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_09_41_16cd7db4-e0ed-442a-bb5b-a63014698a76/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2a/28/47/ad/2a2847ad-6eea-4f4d-bb7b-a7cc1289a39d.png" group-title="FIFA Live", United Club v Al Arabi | Round 27 | First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17eb47bfe92238879898a375f88b6dda:d425517cddf7d6b7bf4e47ccfdf1ba8f
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_20_a3b6951c-4871-440d-a0c7-6a93c3b5a2f0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240
