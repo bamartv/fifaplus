@@ -3,487 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:30 PM 10-05-2026",
-        "total_live": 34,
-        "total_upcoming": 10
+        "last_update_time": "10:30:21 PM 10-05-2026",
+        "total_live": 29,
+        "total_upcoming": 4
     },
     "matches": [
-        {
-            "id": "8d9cfc40-3d7a-47a5-8d43-aa0e95e89ca9",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "8d9cfc40-3d7a-47a5-8d43-aa0e95e89ca9",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Tempete Mocaf v ORB | Central African Republic Super League 2026",
-            "category": "livestream",
-            "urlSlug": "as-tempete-mocaf-vs-orb",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/12/d2/95/35/12d29535-9e89-468f-85f5-3ba4a598305a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/59/cb/b3/e8/59cbb3e8-731c-4469-bac3-25e6aadd1f8b.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Tempete Mocaf v ORB | Central African Republic Super League 2026",
-            "titleTemplateValues": {
-                "stadium": "Zari Herman",
-                "publisher-channel": "MA | Central Africa Republic | League D1 - Super League 2026 (Channel)",
-                "city": "Bouar",
-                "season": "Central African Republic Super League 2026",
-                "publisher": "MA | Central African Republic (Publisher)",
-                "competition": "Ligue de Bangui",
-                "association": "Central African Republic",
-                "team:orb": "ORB",
-                "country": "Central African Republic",
-                "team:as-tempete-mocaf": "AS Tempete Mocaf",
-                "match": "AS Tempete Mocaf v ORB",
-                "stage": "Regular Season",
-                "global-stage": "Round 6",
-                "video-type": "Live Streams",
-                "organizer": "Central African Republic",
-                "organizer-country": "Central African Republic"
-            },
-            "startDate": "2026-05-10T13:50:00Z",
-            "endDate": "2026-05-10T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Tempete Mocaf v ORB"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Central African Republic Super League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 6"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Central African Republic"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_44_20_07ef5464-e4c4-4e5f-9a95-8e18a18e204a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778420940",
-                "decryption_keys": [
-                    "184f81d9c8173610873f4abde81a788c:fe9146be416955881f82c22ebd57603b"
-                ]
-            }
-        },
-        {
-            "id": "73be0169-0a61-4596-8c90-e670e8e06384",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "73be0169-0a61-4596-8c90-e670e8e06384",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AF Elbasani v KF Tirana | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "af-elbasani-vs-kf-tirana",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d5/a1/b4/59/d5a1b459-89f5-4d30-ad74-c768ec07532c.png",
-            "freeMode": "FREE_ADS",
-            "title": "AF Elbasani v KF Tirana | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "season": "Kategoria Superiore 2025/26",
-                "team:af-elbasani": "AF Elbasani",
-                "country": "Albania",
-                "city": "Elbasan",
-                "team:kf-tirana": "KF Tirana",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "publisher": "MA | Albania",
-                "competition": "Kategoria Superiore",
-                "match": "AF Elbasani v KF Tirana",
-                "stadium": "Elbasan Arena",
-                "global-stage": "Round 36",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-10T13:50:00Z",
-            "endDate": "2026-05-10T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AF Elbasani v KF Tirana"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 36"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_30_33_de5c751e-1f95-4d93-b030-3b979a09acc3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778420940",
-                "decryption_keys": [
-                    "9f68d4ec83f73c3a887dc400604275ef:0230c669b5aabbeb3f00c84435924a48"
-                ]
-            }
-        },
-        {
-            "id": "95781107-064f-4068-bb97-552eabc28747",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "95781107-064f-4068-bb97-552eabc28747",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FK Partizani v FC Dinamo City | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "fk-partizani-vs-fc-dinamo-city",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a2/23/76/b8/a22376b8-4082-4a49-ace6-08b4ca9565af.png",
-            "freeMode": "FREE_ADS",
-            "title": "FK Partizani v FC Dinamo City | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "match": "FK Partizani v FC Dinamo City",
-                "stage": "Regular Season",
-                "stadium": "Arena e Demave",
-                "season": "Kategoria Superiore 2025/26",
-                "team:fk-partizani": "FK Partizani",
-                "country": "Albania",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "publisher": "MA | Albania",
-                "competition": "Kategoria Superiore",
-                "team:fc-dinamo-city": "FC Dinamo City",
-                "global-stage": "Round 36",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "city": "Tirana",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-10T13:50:00Z",
-            "endDate": "2026-05-10T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FK Partizani v FC Dinamo City"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 36"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_30_27_3f6de55f-958c-4e80-a4f7-da4a5fcb1025/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778420940",
-                "decryption_keys": [
-                    "f633c47bb29e389cb0d9c2c249491485:3aed9f0fc3113c78df17f75ff2885eac"
-                ]
-            }
-        },
-        {
-            "id": "7d9aed23-6660-4f28-bfeb-5c766ea04c47",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "7d9aed23-6660-4f28-bfeb-5c766ea04c47",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "KF Teuta v KF Egnatia | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "kf-teuta-vs-kf-egnatia",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/25/d5/97/02/25d59702-27d3-4142-8aa0-7d31e62eff5f.png",
-            "freeMode": "FREE_ADS",
-            "title": "KF Teuta v KF Egnatia | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "city": "Durrës",
-                "team:kf-teuta": "KF Teuta",
-                "team:kf-egnatia": "KF Egnatia",
-                "season": "Kategoria Superiore 2025/26",
-                "country": "Albania",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "match": "KF Teuta v KF Egnatia",
-                "publisher": "MA | Albania",
-                "competition": "Kategoria Superiore",
-                "stadium": "Niko Dovana Stadium",
-                "global-stage": "Round 36",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-10T13:50:00Z",
-            "endDate": "2026-05-10T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "KF Teuta v KF Egnatia"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 36"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_30_36_f0449fb5-df87-4fbc-a8ff-a96f19b12be2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778420940",
-                "decryption_keys": [
-                    "924d5b276d5d36b5a2dd137face2a2a0:52213fe5d98f81e7424d5edb6da0aa0e"
-                ]
-            }
-        },
-        {
-            "id": "f13b4268-63a7-4a66-a594-8f2d3f33825b",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f13b4268-63a7-4a66-a594-8f2d3f33825b",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "KF Vllaznia v Flamurtari | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "kf-vllaznia-vs-flamurtari-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1f/65/41/68/1f654168-b6ec-4956-bffd-90c56a63f4da.png",
-            "freeMode": "FREE_ADS",
-            "title": "KF Vllaznia v Flamurtari | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "team:flamurtari-fc": "Flamurtari",
-                "season": "Kategoria Superiore 2025/26",
-                "team:kf-vllaznia": "KF Vllaznia",
-                "country": "Albania",
-                "city": "Shkodër",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "match": "KF Vllaznia v Flamurtari",
-                "publisher": "MA | Albania",
-                "competition": "Kategoria Superiore",
-                "stadium": "Loro Borici Stadium",
-                "global-stage": "Round 36",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-10T13:50:00Z",
-            "endDate": "2026-05-10T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "KF Vllaznia v Flamurtari"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 36"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_30_24_18f3cd44-01f5-49bd-a09e-631e1dd6e507/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778420940",
-                "decryption_keys": [
-                    "8712232ad69233c48fa3edf91797cf44:422691fc8bc031bfb9884bf6e3d995a0"
-                ]
-            }
-        },
-        {
-            "id": "3c96cf55-e4c5-4108-a8d7-9b5c4d6fb563",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3c96cf55-e4c5-4108-a8d7-9b5c4d6fb563",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Vora v KF Bylis | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "kf-vora-vs-kf-bylis",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/24/9c/49/90/249c4990-222a-4a78-b151-cb9778a79efc.png",
-            "freeMode": "FREE_ADS",
-            "title": "Vora v KF Bylis | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "stadium": "Stadiumi Vora",
-                "city": "Vorë",
-                "season": "Kategoria Superiore 2025/26",
-                "team:kf-bylis": "KF Bylis",
-                "country": "Albania",
-                "team:kf-vora": "Vora",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "publisher": "MA | Albania",
-                "competition": "Kategoria Superiore",
-                "match": "Vora v KF Bylis",
-                "global-stage": "Round 36",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-10T13:50:00Z",
-            "endDate": "2026-05-10T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Vora v KF Bylis"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 36"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_30_30_4a3300d9-c7f3-4628-9d53-09c4ca220dff/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778420940",
-                "decryption_keys": [
-                    "f5b3e698c27e369b831e3d4af6a84bb6:ab7ea3551e3c0ea5c5ef18a7a64b6315"
-                ]
-            }
-        },
-        {
-            "id": "bfe63617-2488-4f49-b6df-b6e89e79912f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "bfe63617-2488-4f49-b6df-b6e89e79912f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Al Jazira Al Hamra v Dubai City F.C. | Round 27 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "al-jazira-al-hamra-club-vs-dubai-city-f-c",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b0/d9/ea/7c/b0d9ea7c-9668-4b62-b656-e4b90348cbed.png",
-            "freeMode": "FREE_ADS",
-            "title": "Al Jazira Al Hamra v Dubai City F.C. | Round 27 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "stadium": "Saud Bin Saqr Al Qasimi Stadium",
-                "match": "Al Jazira Al Hamra v Dubai City F.C.",
-                "stage": "Second Leg",
-                "season": "First Division League 2025/26",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "global-stage": "Round 27",
-                "association": "United Arab Emirates",
-                "team:dubai-city-f-c": "Dubai City F.C.",
-                "city": "Al Jazira Al Hamra",
-                "team:al-jazira-al-hamra-club": "Al Jazira Al Hamra",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-10T13:55:00Z",
-            "endDate": "2026-05-10T16:35:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:05:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Al Jazira Al Hamra v Dubai City F.C."
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_17_7b0ee942-c766-414b-835f-82d807dc5bca/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240",
-                "decryption_keys": [
-                    "78476240f68939dcaf7ebdf59162a620:055b033214e6c0b051bd6ec114660e60"
-                ]
-            }
-        },
         {
             "id": "57dad657-710c-48fc-86aa-8f1fcd478980",
             "channelId": "fifa-tournaments",
@@ -549,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_10_26091aca-baa2-49b5-aa5b-0a423aa06c47/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240",
                 "decryption_keys": [
                     "84dfac5957d33bde9f16c0e02c139971:7e2f0020b92e8665160b6c75d738092e"
-                ]
-            }
-        },
-        {
-            "id": "63145fa5-8da6-4d5f-9944-7aba1ada5b5a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "63145fa5-8da6-4d5f-9944-7aba1ada5b5a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Emirates Club v Al Orooba | Round 27 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "emirates-club-vs-al-orooba",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/92/da/ae/e0/92daaee0-6f60-4f92-8b07-82ec405c6a04.png",
-            "freeMode": "FREE_ADS",
-            "title": "Emirates Club v Al Orooba | Round 27 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "stadium": "Emirates Club Stadium",
-                "city": "Ras Al-Khaimah",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "stage": "Second Leg",
-                "season": "First Division League 2025/26",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "global-stage": "Round 27",
-                "match": "Emirates Club v Al Orooba",
-                "association": "United Arab Emirates",
-                "team:emirates-club": "Emirates Club",
-                "team:al-orooba": "Al Orooba",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-10T13:55:00Z",
-            "endDate": "2026-05-10T16:35:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:05:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Emirates Club v Al Orooba"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_07_253c5c5f-4905-4447-970f-43e8c840fe2c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240",
-                "decryption_keys": [
-                    "96241bef85423eb298548de26861ffd7:9b745ffd3b7fbdfb07217b878268d766"
                 ]
             }
         },
@@ -689,142 +145,6 @@
             }
         },
         {
-            "id": "03b5a3c4-792b-484e-b459-dc7128e783e7",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "03b5a3c4-792b-484e-b459-dc7128e783e7",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Hatta Club v Al Hamriyah | Round 27 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "hatta-club-vs-al-hamriyah",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/78/20/f4/03/7820f403-0da5-4984-8b3b-8a74693327e0.png",
-            "freeMode": "FREE_ADS",
-            "title": "Hatta Club v Al Hamriyah | Round 27 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "stadium": "Hatta Club / Hamdan Bin Rashid Stadium",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "stage": "Second Leg",
-                "team:al-hamriyah": "Al Hamriyah",
-                "city": "Hatta",
-                "season": "First Division League 2025/26",
-                "team:hatta-club": "Hatta Club",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "global-stage": "Round 27",
-                "match": "Hatta Club v Al Hamriyah",
-                "association": "United Arab Emirates",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-10T13:55:00Z",
-            "endDate": "2026-05-10T16:35:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:05:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Hatta Club v Al Hamriyah"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_09_41_16cd7db4-e0ed-442a-bb5b-a63014698a76/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240",
-                "decryption_keys": [
-                    "14cad455b003324d9af0eb213d5e76c3:67194ac31d4a2e6d5a9363e725154a6a"
-                ]
-            }
-        },
-        {
-            "id": "1c16e681-5099-4ea2-987f-f70071c0d37d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "1c16e681-5099-4ea2-987f-f70071c0d37d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "United Club v Al Arabi | Round 27 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "united-club-vs-al-arabi-club",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/2a/28/47/ad/2a2847ad-6eea-4f4d-bb7b-a7cc1289a39d.png",
-            "freeMode": "FREE_ADS",
-            "title": "United Club v Al Arabi | Round 27 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "city": "Dubai",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "team:united-club": "United Club",
-                "team:al-arabi-club": "Al Arabi",
-                "stage": "Second Leg",
-                "season": "First Division League 2025/26",
-                "match": "United Club v Al Arabi",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "global-stage": "Round 27",
-                "association": "United Arab Emirates",
-                "stadium": "United Club / Dubai Sport City",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-10T13:55:00Z",
-            "endDate": "2026-05-10T16:35:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:05:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "United Club v Al Arabi"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_20_a3b6951c-4871-440d-a0c7-6a93c3b5a2f0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240",
-                "decryption_keys": [
-                    "17eb47bfe92238879898a375f88b6dda:d425517cddf7d6b7bf4e47ccfdf1ba8f"
-                ]
-            }
-        },
-        {
             "id": "48ba79fa-4635-44d1-930d-4ea37dc6fd6a",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "48ba79fa-4635-44d1-930d-4ea37dc6fd6a",
@@ -889,74 +209,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_14_558e15b1-8c45-4301-b928-2dc3aed12c97/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421720",
                 "decryption_keys": [
                     "97a98f6f94d23052a6c073bc668bccaf:234ae3d2a39b7c90845768d5cfc25375"
-                ]
-            }
-        },
-        {
-            "id": "acd8ade4-8764-41a1-a285-88bf068f84b4",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "acd8ade4-8764-41a1-a285-88bf068f84b4",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Mighty Wanderers v FCB Nyasa Big Bullets | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "mighty-mukuru-wanderers-vs-fcb-nyasa-big-bullets",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/bf/1f/06/18/bf1f0618-774c-4894-815f-47b8d508b7c3.png",
-            "freeMode": "FREE_ADS",
-            "title": "Mighty Wanderers v FCB Nyasa Big Bullets | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "stadium": "Bingu National Stadium",
-                "global-stage": "Round 3",
-                "association": "Malawi",
-                "team:fcb-nyasa-big-bullets": "FCB Nyasa Big Bullets",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "competition": "Super League",
-                "team:mighty-mukuru-wanderers": "Mighty Wanderers",
-                "match": "Mighty Wanderers v FCB Nyasa Big Bullets",
-                "video-type": "Live Streams",
-                "city": "Lilongwe",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-10T14:20:00Z",
-            "endDate": "2026-05-10T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Mighty Wanderers v FCB Nyasa Big Bullets"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 3"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_14_e886ad3a-82a8-4969-9bd3-609e8bb0e5e5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778422740",
-                "decryption_keys": [
-                    "13eff11bda9e3d16b57923a99e0dd751:bdd3c6de99718f45f35b60fd4bcc0146"
                 ]
             }
         },
@@ -1093,74 +345,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_34_7ef56141-4c08-4ef7-8bde-ef12febda03f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778426340",
                 "decryption_keys": [
                     "dfb0b316d3b435c1a258bae156cf920b:deddfecea3ea89cde266278a13081a0c"
-                ]
-            }
-        },
-        {
-            "id": "3da5af55-133f-4f1c-a7f1-a2fc567a7905",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3da5af55-133f-4f1c-a7f1-a2fc567a7905",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Binah v ASKO | D1 Lonato 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-binah-vs-asko-togo",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a7/db/8d/db/a7db8ddb-8d1e-4263-ab6d-5d3a43919ef1.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/75/66/b0/c6/7566b0c6-c580-4946-ae7d-37117eb4bc26.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Binah v ASKO | D1 Lonato 2025/26",
-            "titleTemplateValues": {
-                "country": "Togo",
-                "team:asko-togo": "ASKO",
-                "association": "Togo",
-                "global-stage": "Round 23",
-                "match": "AS Binah v ASKO",
-                "stadium": "Kara Municipal Stadium",
-                "stage": "Regular Season",
-                "publisher": "MA | Togo",
-                "city": "Kara",
-                "publisher-channel": "MA | Togo | D1 Lonato 2025/2026",
-                "season": "D1 Lonato 2025/26",
-                "video-type": "Live Streams",
-                "team:as-binah": "AS Binah",
-                "competition": "Championnat de Première Division D1",
-                "organizer": "Togo",
-                "organizer-country": "Togo"
-            },
-            "startDate": "2026-05-10T15:20:00Z",
-            "endDate": "2026-05-10T18:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T15:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Binah v ASKO"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "D1 Lonato 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 23"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Togo"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_38_a3b02aa5-a0c6-4a71-88e6-df197de95575/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778426340",
-                "decryption_keys": [
-                    "118f6f09050f3dc497546a474ee761e1:f7d5390f53ee6a1eb38bf816e1805a4a"
                 ]
             }
         },
@@ -2359,7 +1543,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2381,7 +1565,13 @@
                     "p": 1,
                     "value": "Sierra Leone"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_37_07_63297ff5-50c2-4a6f-9d43-5b446dcd31ad/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778429940",
+                "decryption_keys": [
+                    "a629a38797e239ec8d36adfaa019e2f8:afd838510adff156d563de9ac5a4d742"
+                ]
+            }
         },
         {
             "id": "0826c15b-df24-45b1-996b-62e623b05a6f",
@@ -2421,7 +1611,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2443,7 +1633,13 @@
                     "p": 1,
                     "value": "Sierra Leone"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_37_18_bb720b20-e4a3-4bba-a908-948ae12405ce/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778429940",
+                "decryption_keys": [
+                    "be576acb42af36f9bd5c1bbb14bafd8a:d632fae2f0c24b842c4642530d5fd444"
+                ]
+            }
         },
         {
             "id": "1692fe19-dffd-409e-adf8-632f81938ae5",
@@ -2483,7 +1679,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2505,7 +1701,13 @@
                     "p": 1,
                     "value": "Sierra Leone"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_37_23_fc86c88a-b8d7-47bf-94d7-a9822fd63b96/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778429940",
+                "decryption_keys": [
+                    "5e43cfe437ab3f39ae504bd65deb24d6:34e03be0fe216165180b62c74783c012"
+                ]
+            }
         },
         {
             "id": "08649128-0387-4d24-a454-23726fa7d99c",
@@ -2545,7 +1747,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2567,7 +1769,13 @@
                     "p": 1,
                     "value": "Sierra Leone"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_37_13_6a3ee58b-d2f1-49e8-95d7-f1968256f58c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778429940",
+                "decryption_keys": [
+                    "bcaf4c3939bd3f86856c81f72a1ceeaa:88dabbc06ae4e9a7ef693ca8feb6f23d"
+                ]
+            }
         },
         {
             "id": "25a39e49-0d11-4dbf-a99d-122100d56c59",
@@ -2607,7 +1815,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2629,7 +1837,13 @@
                     "p": 1,
                     "value": "Mali"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_31_802fa056-7530-4714-83a0-4951f8989d45/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778429940",
+                "decryption_keys": [
+                    "e7ec1b1a7a76375b8bd2316368e3f198:1b70b8490655a95d57b6ff7e391e9bf2"
+                ]
+            }
         },
         {
             "id": "e08ca2ab-9b8d-4a72-b8de-4bed2f5ed98d",
@@ -2669,7 +1883,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2691,7 +1905,81 @@
                     "p": 1,
                     "value": "Mali"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_34_c88b0bb4-bcee-411a-8756-dfc858db57f6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778429940",
+                "decryption_keys": [
+                    "48f9ace95b9f3e4b884ddca47546df09:f099672d6871967d3083a70f5cbac58f"
+                ]
+            }
+        },
+        {
+            "id": "3da5af55-133f-4f1c-a7f1-a2fc567a7905",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "3da5af55-133f-4f1c-a7f1-a2fc567a7905",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Binah v ASKO | D1 Lonato 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-binah-vs-asko-togo",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a7/db/8d/db/a7db8ddb-8d1e-4263-ab6d-5d3a43919ef1.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/75/66/b0/c6/7566b0c6-c580-4946-ae7d-37117eb4bc26.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Binah v ASKO | D1 Lonato 2025/26",
+            "titleTemplateValues": {
+                "country": "Togo",
+                "team:asko-togo": "ASKO",
+                "association": "Togo",
+                "global-stage": "Round 23",
+                "match": "AS Binah v ASKO",
+                "stadium": "Kara Municipal Stadium",
+                "stage": "Regular Season",
+                "publisher": "MA | Togo",
+                "city": "Kara",
+                "publisher-channel": "MA | Togo | D1 Lonato 2025/2026",
+                "season": "D1 Lonato 2025/26",
+                "video-type": "Live Streams",
+                "team:as-binah": "AS Binah",
+                "competition": "Championnat de Première Division D1",
+                "organizer": "Togo",
+                "organizer-country": "Togo"
+            },
+            "startDate": "2026-05-10T16:21:00Z",
+            "endDate": "2026-05-10T18:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T15:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Binah v ASKO"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "D1 Lonato 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 23"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Togo"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_38_a3b02aa5-a0c6-4a71-88e6-df197de95575/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778426340",
+                "decryption_keys": [
+                    "118f6f09050f3dc497546a474ee761e1:f7d5390f53ee6a1eb38bf816e1805a4a"
+                ]
+            }
         },
         {
             "id": "72ca7358-74ff-47ff-82bf-5f43e7b6cc72",
