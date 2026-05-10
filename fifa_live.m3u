@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:29 AM 11-05-2026
+#last update time: 02:45:27 AM 11-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0b/b8/89/10/0bb88910-aef9-4fa0-8837-4977ac1c9a59.png" group-title="FIFA Live", FC Diarra v Derby Academie | Ligue 1 Pro Orange 2025/26
@@ -43,3 +43,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_14_06_41_59590662-332e-46a6-bc9f
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d8b56ff6ce323cb65bfeeeb9cd8365:4d4cb61b2669db4136271d281494ac15
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_07_28_25_6d079ab8-27e9-409f-a382-23d5183e378e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778444340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/39/1f/cf/14/391fcf14-c86b-4262-9bca-46ee5c83aa0a.png" group-title="FIFA Live", VG United  v Lion Heart FC | BVIFA National League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5bfd579077b34f8a780d8a53cd47c5c:89fb4a3695c559a94c9a2d4c026dc084
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_45_28_6c1e4f76-c678-4afa-a64e-14dc2bff4ab6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778445240
