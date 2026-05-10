@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:23 AM 11-05-2026
+#last update time: 04:15:24 AM 11-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/dd/7c/b0/8a/dd7cb08a-d4db-4660-9a64-73639bd1c720.png" group-title="FIFA Live", UWI Blackbirds v Bagatelle FC | BFA Premier League 2026
@@ -53,3 +53,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_34_20_04f8f61a-43a8-4972-b9d2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=020b7034f6313200af67081fe4038165:d3a4bbffff77df0d31af1d38ddcc7249
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_07_56_46_5328841e-02c6-44c2-b344-8f2c3d858d53/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778450040
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f2/06/fd/2f/f206fd2f-49b9-48d6-814e-08c77fcf5daa.png" group-title="FIFA Live", Unistars v River Plate Aruba | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51e59295913135a9a9e3b3a52d1d18f1:f94ffdcae22914321eaa55256aa0ac4b
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_30_12fc4729-e39c-49bf-8971-518eea7181fb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778450940
