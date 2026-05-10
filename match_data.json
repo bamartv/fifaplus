@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:00:36 PM 10-05-2026",
+        "last_update_time": "11:15:27 PM 10-05-2026",
         "total_live": 30,
-        "total_upcoming": 1
+        "total_upcoming": 0
     },
     "matches": [
         {
@@ -1302,74 +1302,6 @@
             }
         },
         {
-            "id": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Ayema FC v Loto Popo FC | Ligue 1 2025",
-            "category": "livestream",
-            "urlSlug": "ayema-fc-vs-loto-popo-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/76/8b/f5/a3/768bf5a3-8d1c-41c2-b76e-25e7995e467a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/18/31/83/3f/1831833f-bc1d-4036-ac4f-682a8df1acc8.png",
-            "freeMode": "FREE_ADS",
-            "title": "Ayema FC v Loto Popo FC | Ligue 1 2025",
-            "titleTemplateValues": {
-                "competition": "Super Ligue Pro",
-                "country": "Benin",
-                "publisher": "MA | Benin",
-                "stadium": "Pobè Stadium",
-                "season": "Ligue 1 2025",
-                "stage": "Regular Stage",
-                "association": "Benin",
-                "city": "Pobè",
-                "match": "Ayema FC v Loto Popo FC",
-                "team:ayema-fc": "Ayema FC",
-                "global-stage": "Round 28",
-                "publisher-channel": "MA | Benin | Ligue 1 2025/2026",
-                "video-type": "Live Streams",
-                "team:loto-popo-fc": "Loto Popo FC",
-                "organizer": "Benin",
-                "organizer-country": "Benin"
-            },
-            "startDate": "2026-05-10T15:53:00Z",
-            "endDate": "2026-05-10T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Ayema FC v Loto Popo FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 2025"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Benin"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_27_d607ef8c-ca49-4f31-9c6e-64a91a4ab24c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778428320",
-                "decryption_keys": [
-                    "fb1e14450d4433f48c2b40007c345820:83623c5679ee7cd117368d288d18de26"
-                ]
-            }
-        },
-        {
             "id": "451e4ea8-a9e8-442d-b0a1-6548b4947ccd",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "451e4ea8-a9e8-442d-b0a1-6548b4947ccd",
@@ -2089,7 +2021,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2111,7 +2043,13 @@
                     "p": 1,
                     "value": "Cabo Verde"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_11_af11f11f-9989-4a69-a030-7d59f3f16050/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778432460",
+                "decryption_keys": [
+                    "b448b6f5eaef33e7b313b4c51c380953:925737eb94b0e312e86c0f73a438dcce"
+                ]
+            }
         }
     ]
 }
