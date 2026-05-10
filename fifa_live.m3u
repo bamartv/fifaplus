@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:18 AM 11-05-2026
+#last update time: 02:00:27 AM 11-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/14/e9/f9/3e/14e9f93e-855b-477f-a581-542a11dc9139.png" group-title="FIFA Live", Campobasso v Potenza | National Phase Play-offs - First Round - First Leg | Serie C 2025/26
@@ -18,3 +18,23 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_39_8f02c91f-a59e-4a07-aa66
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=421a6f7a7ed43dae8b6774d904004f21:6247afc1bdff47951756bd01e06ad4e3
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_08_34_31_33918001-1062-4ef8-939e-658193f86812/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778440740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/dd/7c/b0/8a/dd7cb08a-d4db-4660-9a64-73639bd1c720.png" group-title="FIFA Live", UWI Blackbirds v Bagatelle FC | BFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d836c2a169d73b31831346ab93eab517:506f47a037d94c7b0f052e954aec0e71
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_34_15_b29ff81e-1187-4fd5-a47b-de937b3eae80/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778442540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c6/ad/0e/d1/c6ad0ed1-ce7e-4c25-afb5-0a3efcc526c6.png" group-title="FIFA Live", SV Atlantico Deportivo v FC San Nicolas | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ad2ee6170e8322a8fb9dae18b6f1756:b50ed99a6a6444228010f16e0cacb4f8
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_27_296ff310-1a76-4488-b75b-b24a7396ccda/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778442540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/25/04/e6/0e/2504e60e-ac4f-49bd-b357-dbfd6e980276.png" group-title="FIFA Live", Dynamo Puerto v Bolívar SC | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccadba69663f391690c116c0c1b388d1:6a8c973a5537abd59fbb4a3e3a4776e9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_59_06_4a4f1c83-61ed-4061-8b63-6ca2e2c57744/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778442540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cc/d6/cd/94/ccd6cd94-0f9f-4ca7-af5b-89e77cefe4f8.png" group-title="FIFA Live", Miranda v Marítimo La Guaira | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65072b1865833fb9b7859869601a1279:44d9d745c6a58e6efffbf59ca3181c92
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_41_41_81b06dbf-d59b-4734-8192-a5ba7c25b723/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778442540
