@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:21 AM 11-05-2026",
+        "last_update_time": "03:45:21 AM 11-05-2026",
         "total_live": 8,
         "total_upcoming": 14
     },
@@ -768,7 +768,7 @@
                 "organizer": "Cayman Islands",
                 "organizer-country": "Cayman Islands"
             },
-            "startDate": "2026-05-10T21:50:00Z",
+            "startDate": "2026-05-10T21:55:00Z",
             "endDate": "2026-05-11T00:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-10T22:00:00Z"
