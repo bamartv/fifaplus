@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:21 PM 10-05-2026
+#last update time: 11:45:31 PM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/89/bd/5e/29/89bd5e29-6b22-423b-95f5-7bb86de682e9.png" group-title="FIFA Live", Fujairah Club v Al Dhaid Club | Round 27 | First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90bda59e7d1231e49a14f31f75ae4b79:a81421f0eb8bbd407f3fbe8d79d75a1c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_23_a750adc5-35aa-4ce5-9e74-b09605357324/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/99/c4/1b/4d/99c41b4d-3012-4c06-b37d-900d8d098eac.png" group-title="FIFA Live", AC Barracuda v ASCK | D1 Lonato 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -123,11 +118,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_31_802fa056-7530-4714-83a0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=48f9ace95b9f3e4b884ddca47546df09:f099672d6871967d3083a70f5cbac58f
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_34_c88b0bb4-bcee-411a-8756-dfc858db57f6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778429940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/66/b0/c6/7566b0c6-c580-4946-ae7d-37117eb4bc26.png" group-title="FIFA Live", AS Binah v ASKO | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=118f6f09050f3dc497546a474ee761e1:f7d5390f53ee6a1eb38bf816e1805a4a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_38_a3b02aa5-a0c6-4a71-88e6-df197de95575/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778426340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/23/14/7c/0d/23147c0d-2814-40ae-a7e3-68f82b809c0e.png" group-title="FIFA Live", Flamengo de Pefine v FC Pelundo | Campeonato Nacional de Futebol da 1a Divisão 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey

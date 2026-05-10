@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:30:21 PM 10-05-2026",
-        "total_live": 28,
+        "last_update_time": "11:45:31 PM 10-05-2026",
+        "total_live": 26,
         "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "5961bbe3-59cd-42d2-8cc1-586e02e151b3",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5961bbe3-59cd-42d2-8cc1-586e02e151b3",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Fujairah Club v Al Dhaid Club | Round 27 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "fujairah-club-vs-al-dhaid-club",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/89/bd/5e/29/89bd5e29-6b22-423b-95f5-7bb86de682e9.png",
-            "freeMode": "FREE_ADS",
-            "title": "Fujairah Club v Al Dhaid Club | Round 27 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "team:fujairah-club": "Fujairah Club",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "city": "Fujairah",
-                "stage": "Second Leg",
-                "team:al-dhaid-club": "Al Dhaid Club",
-                "season": "First Division League 2025/26",
-                "stadium": "Fujairah Club",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "global-stage": "Round 27",
-                "association": "United Arab Emirates",
-                "match": "Fujairah Club v Al Dhaid Club",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-10T13:55:00Z",
-            "endDate": "2026-05-10T17:35:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:05:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Fujairah Club v Al Dhaid Club"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_23_a750adc5-35aa-4ce5-9e74-b09605357324/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240",
-                "decryption_keys": [
-                    "90bda59e7d1231e49a14f31f75ae4b79:a81421f0eb8bbd407f3fbe8d79d75a1c"
-                ]
-            }
-        },
         {
             "id": "38d6d72b-42f3-40ed-a727-8f4a6fb41082",
             "channelId": "fifa-tournaments",
@@ -165,11 +97,11 @@
                 "city": "Tsevie",
                 "stage": "Regular Season",
                 "publisher": "MA | Togo",
+                "video-type": "Full Match Replays",
                 "stadium": "Dr Kaolo Tsévié Stadium",
                 "publisher-channel": "MA | Togo | D1 Lonato 2025/2026",
                 "season": "D1 Lonato 2025/26",
                 "team:fc-espoir": "FC Espoir",
-                "video-type": "Live Streams",
                 "competition": "Championnat de Première Division D1",
                 "organizer": "Togo",
                 "organizer-country": "Togo"
@@ -1638,74 +1570,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_34_c88b0bb4-bcee-411a-8756-dfc858db57f6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778429940",
                 "decryption_keys": [
                     "48f9ace95b9f3e4b884ddca47546df09:f099672d6871967d3083a70f5cbac58f"
-                ]
-            }
-        },
-        {
-            "id": "3da5af55-133f-4f1c-a7f1-a2fc567a7905",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3da5af55-133f-4f1c-a7f1-a2fc567a7905",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Binah v ASKO | D1 Lonato 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-binah-vs-asko-togo",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a7/db/8d/db/a7db8ddb-8d1e-4263-ab6d-5d3a43919ef1.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/75/66/b0/c6/7566b0c6-c580-4946-ae7d-37117eb4bc26.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Binah v ASKO | D1 Lonato 2025/26",
-            "titleTemplateValues": {
-                "country": "Togo",
-                "team:asko-togo": "ASKO",
-                "association": "Togo",
-                "global-stage": "Round 23",
-                "match": "AS Binah v ASKO",
-                "stadium": "Kara Municipal Stadium",
-                "stage": "Regular Season",
-                "publisher": "MA | Togo",
-                "city": "Kara",
-                "publisher-channel": "MA | Togo | D1 Lonato 2025/2026",
-                "season": "D1 Lonato 2025/26",
-                "video-type": "Live Streams",
-                "team:as-binah": "AS Binah",
-                "competition": "Championnat de Première Division D1",
-                "organizer": "Togo",
-                "organizer-country": "Togo"
-            },
-            "startDate": "2026-05-10T16:21:00Z",
-            "endDate": "2026-05-10T18:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T15:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Binah v ASKO"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "D1 Lonato 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 23"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Togo"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_38_a3b02aa5-a0c6-4a71-88e6-df197de95575/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778426340",
-                "decryption_keys": [
-                    "118f6f09050f3dc497546a474ee761e1:f7d5390f53ee6a1eb38bf816e1805a4a"
                 ]
             }
         },
