@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:45:23 PM 10-05-2026",
-        "total_live": 22,
-        "total_upcoming": 24
+        "last_update_time": "10:00:32 PM 10-05-2026",
+        "total_live": 34,
+        "total_upcoming": 11
     },
     "matches": [
-        {
-            "id": "13b7f1d1-2936-4bcf-89fb-77045ce2a06d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "13b7f1d1-2936-4bcf-89fb-77045ce2a06d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Port-Louis 2000 v La Cure Waves SC | MFA Cup 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-port-louis-2000-vs-la-cure-waves-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/d7/aa/fb/da/d7aafbda-e39c-4193-a973-ec3d850cf357.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/53/f8/0f/99/53f80f99-9c3b-4711-960e-cb8533731d4e.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Port-Louis 2000 v La Cure Waves SC | MFA Cup 2025/26",
-            "titleTemplateValues": {
-                "season": "MFA Cup 2025/26",
-                "competition": "MFA Cup",
-                "match": "AS Port-Louis 2000 v La Cure Waves SC",
-                "publisher": "MA | Mauritius",
-                "stadium": "Côte d'Or National Sports Complex",
-                "country": "Mauritius",
-                "stage": "Final",
-                "association": "Mauritius",
-                "global-stage": "Final",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "publisher-channel": "MA | Mauritius | MFA Cup 2025/26 (Channel)",
-                "team:as-port-louis-2000": "AS Port-Louis 2000",
-                "city": "Saint Pierre",
-                "team:la-cure-waves-sc": "La Cure Waves SC",
-                "video-type": "Live Streams",
-                "organizer": "Mauritius",
-                "organizer-country": "Mauritius"
-            },
-            "startDate": "2026-05-10T11:50:00Z",
-            "endDate": "2026-05-10T16:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Port-Louis 2000 v La Cure Waves SC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "MFA Cup 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Final"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritius"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_08_14_06_105bdd82-0641-472f-aea1-cabcf6431245/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778413740",
-                "decryption_keys": [
-                    "b9172e87e0c13109bfd1a56b62d2d101:599200a530c0db699aa5ea7cc7979df9"
-                ]
-            }
-        },
         {
             "id": "8d9cfc40-3d7a-47a5-8d43-aa0e95e89ca9",
             "channelId": "fifa-tournaments",
@@ -1543,7 +1474,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1565,7 +1496,13 @@
                     "p": 1,
                     "value": "Burkina Faso"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_37_8fbce27c-901a-4c6b-ad2d-dc87d9736a19/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140",
+                "decryption_keys": [
+                    "b569f9f321e530c782c5248cead07002:e341ff85720e4259d66b7ce04c4ed5d6"
+                ]
+            }
         },
         {
             "id": "3261f0b6-9dbe-443f-92b2-33120b3664ec",
@@ -1605,7 +1542,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1627,7 +1564,13 @@
                     "p": 1,
                     "value": "Burkina Faso"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_28_03509ae3-6c91-4bb9-9adb-70c2ef3b290b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140",
+                "decryption_keys": [
+                    "53a5ca6ce7653687a0a2128a042bfe75:d06dfbbdaf62c34026a9695612285791"
+                ]
+            }
         },
         {
             "id": "4aaa91c6-778c-438a-822b-301a5d179234",
@@ -1667,7 +1610,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1689,7 +1632,13 @@
                     "p": 1,
                     "value": "Burkina Faso"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_44_c45431f5-5ad4-4332-81d2-6bf8b67f7fcb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140",
+                "decryption_keys": [
+                    "72519bd7373734b5bebc104d2631ce6b:c8835745bec8dd5b85f3059f97fb9a6f"
+                ]
+            }
         },
         {
             "id": "b9ca42d9-be54-490f-a9e1-29548ba40770",
@@ -1729,7 +1678,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1751,7 +1700,13 @@
                     "p": 1,
                     "value": "Burkina Faso"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_40_9867b324-ed9e-47e0-a763-afbd5e81aa96/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140",
+                "decryption_keys": [
+                    "379cebb3dfb03c18837c0f51064692e7:499a74809343423df496835856f48a34"
+                ]
+            }
         },
         {
             "id": "287aa24d-e7a2-44d8-82d9-cc6cac024f78",
@@ -1791,7 +1746,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1813,7 +1768,13 @@
                     "p": 1,
                     "value": "Burkina Faso"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_47_d59700c7-0242-4ca4-a94b-188e80b30f11/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140",
+                "decryption_keys": [
+                    "7a73d1fadd09399c8b3ffadfff8d70aa:9f11152a9d0e9be9999f533bda874d46"
+                ]
+            }
         },
         {
             "id": "70ff5985-fad2-45c9-b746-7399f5c50f9b",
@@ -1853,7 +1814,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1875,7 +1836,13 @@
                     "p": 1,
                     "value": "Burkina Faso"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_31_8a17b998-2e3c-47fb-8bdf-3fcfb95970d9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140",
+                "decryption_keys": [
+                    "c1f064b3d6ea310c91cd3bb3455889e9:423fd7ac765ed44473978d9bb0d373f2"
+                ]
+            }
         },
         {
             "id": "bf450916-a4b8-49f5-9a2f-a4d8b05a456a",
@@ -1915,7 +1882,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1937,7 +1904,13 @@
                     "p": 1,
                     "value": "Burkina Faso"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_50_f728a040-b363-4d21-806b-ab69e305904a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140",
+                "decryption_keys": [
+                    "9457a3c03d4a36a6807e207933796a57:b238d49bcf2f31f19f8720161f052add"
+                ]
+            }
         },
         {
             "id": "7e228378-fc4b-4dc4-a9b5-e7ae2b7390be",
@@ -1977,7 +1950,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1999,7 +1972,13 @@
                     "p": 1,
                     "value": "Burkina Faso"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_39_34_8ac53c18-a8ae-436d-87d8-f4c29f32ee13/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778428140",
+                "decryption_keys": [
+                    "f61e2cc639a6357d80bb2673b7efe41f:07d95c0d8a32551bcb0f94f2e90eaa43"
+                ]
+            }
         },
         {
             "id": "7039a942-98e9-409e-9d91-c455a6158843",
@@ -2039,7 +2018,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2061,7 +2040,13 @@
                     "p": 1,
                     "value": "Côte d'Ivoire"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_24_43_9b5f13d5-7360-499f-bd8e-5b383275ae96/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778428140",
+                "decryption_keys": [
+                    "c01d3797d3c234a09c1cce13dac15885:fc129cee6a57e51de717d5d8d3e1180a"
+                ]
+            }
         },
         {
             "id": "a3ca1d1d-5f24-48a4-bac8-c4cb318199a0",
@@ -2101,7 +2086,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2123,7 +2108,13 @@
                     "p": 1,
                     "value": "Morocco"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_45_22_5c72d045-58bc-40f5-80e4-ad9717b03c3f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778428140",
+                "decryption_keys": [
+                    "501b59737c23390ba1c8390c0ac6a1ea:04ae122dfe73dc3aba59ce81d0eb57d9"
+                ]
+            }
         },
         {
             "id": "19fc2d3d-fbcc-40eb-9f7b-e2964e6e03b0",
@@ -2163,7 +2154,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2185,7 +2176,13 @@
                     "p": 1,
                     "value": "Morocco"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_45_26_f71c8bb1-3692-471d-acf2-b8fdf3f74e88/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778428140",
+                "decryption_keys": [
+                    "857cd7aca7b4365caac801397146f8ac:dbd7b2e78088bb8c51c96f4ac649ab04"
+                ]
+            }
         },
         {
             "id": "5419bf23-e69e-4107-90bb-a5c477c80cdb",
@@ -2226,7 +2223,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2248,7 +2245,13 @@
                     "p": 1,
                     "value": "Morocco"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_45_19_478f9183-fb01-40fc-b8b0-c64c3032529d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778428140",
+                "decryption_keys": [
+                    "64f4f263bb713ce298df4c20dfdba285:54b5dc4c00d7632531f9b54b0503103b"
+                ]
+            }
         },
         {
             "id": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
@@ -2280,7 +2283,7 @@
                 "organizer": "Benin",
                 "organizer-country": "Benin"
             },
-            "startDate": "2026-05-10T15:51:00Z",
+            "startDate": "2026-05-10T15:53:00Z",
             "endDate": "2026-05-10T17:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-10T15:00:00Z"
@@ -2288,7 +2291,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2310,7 +2313,13 @@
                     "p": 1,
                     "value": "Benin"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_27_d607ef8c-ca49-4f31-9c6e-64a91a4ab24c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778428320",
+                "decryption_keys": [
+                    "fb1e14450d4433f48c2b40007c345820:83623c5679ee7cd117368d288d18de26"
+                ]
+            }
         },
         {
             "id": "451e4ea8-a9e8-442d-b0a1-6548b4947ccd",
