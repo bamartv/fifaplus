@@ -3,217 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:15:28 PM 10-05-2026",
-        "total_live": 19,
+        "last_update_time": "08:30:21 PM 10-05-2026",
+        "total_live": 17,
         "total_upcoming": 31
     },
     "matches": [
-        {
-            "id": "c1f27d6f-2d68-4d36-9ea0-b3abca967f60",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c1f27d6f-2d68-4d36-9ea0-b3abca967f60",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Blue Eagles v Silver Strikers FC | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "blue-eagles-vs-silver-strikers",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a9/a8/ef/4f/a9a8ef4f-9195-488a-8b32-91052954b3b6.png",
-            "freeMode": "FREE_ADS",
-            "title": "Blue Eagles v Silver Strikers FC | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "team:silver-strikers": "Silver Strikers FC",
-                "global-stage": "Round 3",
-                "association": "Malawi",
-                "stadium": "CIVO Stadium",
-                "match": "Blue Eagles v Silver Strikers FC",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "video-type": "Full Match Replays",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "competition": "Super League",
-                "team:blue-eagles": "Blue Eagles",
-                "city": "Lilongwe",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-10T11:50:00Z",
-            "endDate": "2026-05-10T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Blue Eagles v Silver Strikers FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 3"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_04_096c9dc9-9c1d-42d7-89d4-0f24b6383ccf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778413740",
-                "decryption_keys": [
-                    "dd065f4463bf35f1bb2c4c4721b987ee:465656880c74545275ccefbcc3d28a55"
-                ]
-            }
-        },
-        {
-            "id": "13b7f1d1-2936-4bcf-89fb-77045ce2a06d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "13b7f1d1-2936-4bcf-89fb-77045ce2a06d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Port-Louis 2000 v La Cure Waves SC | MFA Cup 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-port-louis-2000-vs-la-cure-waves-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/d7/aa/fb/da/d7aafbda-e39c-4193-a973-ec3d850cf357.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/53/f8/0f/99/53f80f99-9c3b-4711-960e-cb8533731d4e.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Port-Louis 2000 v La Cure Waves SC | MFA Cup 2025/26",
-            "titleTemplateValues": {
-                "season": "MFA Cup 2025/26",
-                "competition": "MFA Cup",
-                "match": "AS Port-Louis 2000 v La Cure Waves SC",
-                "publisher": "MA | Mauritius",
-                "stadium": "Côte d'Or National Sports Complex",
-                "country": "Mauritius",
-                "stage": "Final",
-                "association": "Mauritius",
-                "global-stage": "Final",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "publisher-channel": "MA | Mauritius | MFA Cup 2025/26 (Channel)",
-                "team:as-port-louis-2000": "AS Port-Louis 2000",
-                "city": "Saint Pierre",
-                "team:la-cure-waves-sc": "La Cure Waves SC",
-                "video-type": "Live Streams",
-                "organizer": "Mauritius",
-                "organizer-country": "Mauritius"
-            },
-            "startDate": "2026-05-10T11:50:00Z",
-            "endDate": "2026-05-10T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Port-Louis 2000 v La Cure Waves SC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "MFA Cup 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Final"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritius"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_08_14_06_105bdd82-0641-472f-aea1-cabcf6431245/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778413740",
-                "decryption_keys": [
-                    "b9172e87e0c13109bfd1a56b62d2d101:599200a530c0db699aa5ea7cc7979df9"
-                ]
-            }
-        },
-        {
-            "id": "64df058e-324b-4fb2-915d-014f0b731356",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "64df058e-324b-4fb2-915d-014f0b731356",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Shao Jiang v Chiba | Macau First Division 2026",
-            "category": "livestream",
-            "urlSlug": "shao-jiang-sa-vs-macau-chiba-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/17/fb/a2/7e17fba2-2a73-45d5-b26c-5bc6ffdd5b08.jpg",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/dd/a2/73/50/dda27350-ef15-487e-bab8-02d8dcc6d671.png",
-            "freeMode": "FREE_ADS",
-            "title": "Shao Jiang v Chiba | Macau First Division 2026",
-            "titleTemplateValues": {
-                "publisher": "MA | Macau",
-                "stage": "Regular Season",
-                "country": "Macau",
-                "city": "Macao",
-                "publisher-channel": "MA | Macau | Macau First Division 2026 (Channel)",
-                "team:macau-chiba-fc": "Chiba",
-                "season": "Macau First Division 2026",
-                "match": "Shao Jiang v Chiba",
-                "global-stage": "Round 11",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "competition": "Macau Liga de Elite",
-                "stadium": "Macau Stadium",
-                "team:shao-jiang-sa": "Shao Jiang",
-                "association": "Macau",
-                "video-type": "Live Streams",
-                "organizer": "Macau",
-                "organizer-country": "Macau"
-            },
-            "startDate": "2026-05-10T11:55:00Z",
-            "endDate": "2026-05-10T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Shao Jiang v Chiba"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Macau First Division 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 11"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Macau"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_16_e758b757-fa68-42da-bc52-e144f3c3685c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778414040",
-                "decryption_keys": [
-                    "0e0fea0fca8931a99cb028c812de34b2:43e3477b664356728bc8e06add5c6386"
-                ]
-            }
-        },
         {
             "id": "5efff3c7-b22b-45fe-a8d9-49586da4425d",
             "channelId": "fifa-tournaments",
@@ -1339,7 +1133,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1361,7 +1155,13 @@
                     "p": 1,
                     "value": "Malawi"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_14_e886ad3a-82a8-4969-9bd3-609e8bb0e5e5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778422740",
+                "decryption_keys": [
+                    "13eff11bda9e3d16b57923a99e0dd751:bdd3c6de99718f45f35b60fd4bcc0146"
+                ]
+            }
         },
         {
             "id": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
@@ -3208,6 +3008,69 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Benfica da Brava v Scorpion Vermelho"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Cape Verdean Football Championship 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 2"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Cabo Verde"
+                }
+            ]
+        },
+        {
+            "id": "18fa052c-97f2-464e-a8c3-b98c1011d2c1",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "18fa052c-97f2-464e-a8c3-b98c1011d2c1",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Cutelinho v Onze Unidos | Cape Verdean Football Championship 2026",
+            "category": "livestream",
+            "urlSlug": "cutelinho-vs-onze-unidos",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/18/0a/b8/f5/180ab8f5-6254-4127-bbbf-a1f5517232d3.png",
+            "freeMode": "FREE_ADS",
+            "title": "Cutelinho v Onze Unidos | Cape Verdean Football Championship 2026",
+            "titleTemplateValues": {
+                "match": "Cutelinho v Onze Unidos",
+                "stage": "Group Stage",
+                "stadium": "Municipal Stadium Adérito Sena",
+                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
+                "team:cutelinho": "Cutelinho",
+                "competition": "Cape Verdean Football Championship",
+                "team:onze-unidos": "Onze Unidos",
+                "global-stage": "Round 2",
+                "country": "Cabo Verde",
+                "season": "Cape Verdean Football Championship 2026",
+                "publisher": "MA | Cape Verde",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "city": "Mindelo",
+                "association": "Cabo Verde",
+                "video-type": "Live Streams",
+                "organizer": "Cabo Verde",
+                "organizer-country": "Cabo Verde"
+            },
+            "startDate": "2026-05-10T16:50:00Z",
+            "endDate": "2026-05-10T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Cutelinho v Onze Unidos"
                 },
                 {
                     "kind": "subtitle",
