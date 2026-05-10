@@ -3,147 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:15:28 PM 10-05-2026",
-        "total_live": 4,
-        "total_upcoming": 46
+        "last_update_time": "05:30:21 PM 10-05-2026",
+        "total_live": 3,
+        "total_upcoming": 47
     },
     "matches": [
-        {
-            "id": "47d84083-ee4b-497a-b454-8e8b8d7a0684",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "47d84083-ee4b-497a-b454-8e8b8d7a0684",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC Santa Coloma v Ordino | Lliga Multissegur Assegurances 2025/2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "fc-santa-coloma-vs-fc-ordino",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/79/e0/6a/24/79e06a24-b7e5-4b88-9db0-b96f154239ed.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1c/4c/81/71/1c4c8171-8272-46e5-b263-1fb0bc936dd0.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC Santa Coloma v Ordino | Lliga Multissegur Assegurances 2025/2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "publisher": "MA | Andorra (Publisher)",
-                "competition": "Lliga Multissegur Assegurances",
-                "stadium": "Centre d'Entrenament de la FAF",
-                "team:fc-ordino": "Ordino",
-                "season": "Lliga Multissegur Assegurances 2025/2026",
-                "association": "Andorra",
-                "stage": "Round 2",
-                "team:fc-santa-coloma": "FC Santa Coloma",
-                "publisher-channel": "MA | Andorra | Andorra Lliga Multissegur Assegurances (Channel)",
-                "country": "Andorra",
-                "video-type": "Full Match Replays",
-                "match": "FC Santa Coloma v Ordino",
-                "global-stage": "Round 26",
-                "city": "Andorra la Vella",
-                "organizer": "Andorra",
-                "organizer-country": "Andorra"
-            },
-            "startDate": "2026-05-10T08:50:00Z",
-            "endDate": "2026-05-10T11:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T09:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC Santa Coloma v Ordino"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Lliga Multissegur Assegurances 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Andorra"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_49_41_227af1e1-849c-4dd2-8723-b2c8011feadb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Acat%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778402940",
-                "decryption_keys": [
-                    "3bf9559510873140ba1c6185d4feec26:8db79556188454c5ecdb033c62758594"
-                ]
-            }
-        },
-        {
-            "id": "5a5f2127-6572-4ed4-8b60-8c633808ca98",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5a5f2127-6572-4ed4-8b60-8c633808ca98",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Inter Club d'Escaldes v Atlètic Club d'Escaldes | Lliga Multissegur Assegurances 2025/2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "inter-d-escaldes-vs-atletic-club-d-escaldes",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/79/e0/6a/24/79e06a24-b7e5-4b88-9db0-b96f154239ed.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1f/42/49/7a/1f42497a-fd09-4430-9db6-2df040e2ace5.png",
-            "freeMode": "FREE_ADS",
-            "title": "Inter Club d'Escaldes v Atlètic Club d'Escaldes | Lliga Multissegur Assegurances 2025/2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "publisher": "MA | Andorra (Publisher)",
-                "competition": "Lliga Multissegur Assegurances",
-                "season": "Lliga Multissegur Assegurances 2025/2026",
-                "association": "Andorra",
-                "stage": "Round 2",
-                "publisher-channel": "MA | Andorra | Andorra Lliga Multissegur Assegurances (Channel)",
-                "country": "Andorra",
-                "team:inter-d-escaldes": "Inter Club d'Escaldes",
-                "video-type": "Full Match Replays",
-                "match": "Inter Club d'Escaldes v Atlètic Club d'Escaldes",
-                "stadium": "Estadi Nacional",
-                "global-stage": "Round 26",
-                "city": "Andorra la Vella",
-                "team:atletic-club-d-escaldes": "Atlètic Club d'Escaldes",
-                "organizer": "Andorra",
-                "organizer-country": "Andorra"
-            },
-            "startDate": "2026-05-10T08:50:00Z",
-            "endDate": "2026-05-10T12:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T09:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Inter Club d'Escaldes v Atlètic Club d'Escaldes"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Lliga Multissegur Assegurances 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Andorra"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_49_44_c4437b85-7b83-4261-bb2e-7acb8e960597/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Acat%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778402940",
-                "decryption_keys": [
-                    "6466fba13e5730e795cd3cf0c458820e:59bf3da0073574b7484a85a21a1baf59"
-                ]
-            }
-        },
         {
             "id": "98e8abbf-ee7a-4033-8b24-41bd0976e994",
             "channelId": "fifa-tournaments",
@@ -319,7 +183,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -341,7 +205,13 @@
                     "p": 1,
                     "value": "Lithuania"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_13_18_18_ad9f307b-3fc0-41fa-8ae4-a9d6bc3bfad2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778411940",
+                "decryption_keys": [
+                    "d30c7c06c9af3c2b89ad191898ec6902:87ed4c998b680b16083ae478c7b0ce7a"
+                ]
+            }
         },
         {
             "id": "c1f27d6f-2d68-4d36-9ea0-b3abca967f60",
@@ -3132,6 +3002,130 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Mali"
+                }
+            ]
+        },
+        {
+            "id": "e08ca2ab-9b8d-4a72-b8de-4bed2f5ed98d",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "e08ca2ab-9b8d-4a72-b8de-4bed2f5ed98d",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "USFAS v Afrique Football Elite | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "usfas-vs-afrique-football-elite",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/40/5f/cb/f2/405fcbf2-dab9-4929-a56c-afba6c186b8f.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c8/dd/11/04/c8dd1104-e794-41ad-989e-ee2001474e5e.png",
+            "freeMode": "FREE_ADS",
+            "title": "USFAS v Afrique Football Elite | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "match": "USFAS v Afrique Football Elite",
+                "team:usfas": "USFAS",
+                "competition": "Ligue 1 Pro Orange",
+                "city": "Bamako",
+                "association": "Mali",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "team:afrique-football-elite": "Afrique Football Elite",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "stadium": "Stade Ouezzin Coulibaly",
+                "global-stage": "Round 20",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-10T16:20:00Z",
+            "endDate": "2026-05-10T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "USFAS v Afrique Football Elite"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 20"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
+                }
+            ]
+        },
+        {
+            "id": "72ca7358-74ff-47ff-82bf-5f43e7b6cc72",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "72ca7358-74ff-47ff-82bf-5f43e7b6cc72",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Flamengo de Pefine v FC Pelundo | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+            "category": "livestream",
+            "urlSlug": "flamengo-de-pefine-vs-fc-pelundo",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f5/aa/df/8d/f5aadf8d-fa6c-49d2-9a09-43ac1fc84e29.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/23/14/7c/0d/23147c0d-2814-40ae-a7e3-68f82b809c0e.png",
+            "freeMode": "FREE_ADS",
+            "title": "Flamengo de Pefine v FC Pelundo | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Guinea-Bissau (Publisher)",
+                "competition": "Campeonato Nacional de Futebol da 1a Divisão",
+                "association": "Guinea-Bissau",
+                "team:flamengo-de-pefine": "Flamengo de Pefine",
+                "city": "Bissau",
+                "match": "Flamengo de Pefine v FC Pelundo",
+                "global-stage": "Round 18",
+                "season": "Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+                "country": "Guinea-Bissau",
+                "publisher-channel": "MA | Guinea-Bissau | Campeonato Nacional de Futebol da 1a Divisão 2025/26 (Channel)",
+                "stadium": "Lino Correia",
+                "stage": "Regular Season",
+                "team:fc-pelundo": "FC Pelundo",
+                "video-type": "Live Streams",
+                "organizer": "Guinea-Bissau",
+                "organizer-country": "Guinea-Bissau"
+            },
+            "startDate": "2026-05-10T16:35:00Z",
+            "endDate": "2026-05-10T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Flamengo de Pefine v FC Pelundo"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Campeonato Nacional de Futebol da 1a Divisão 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 18"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Guinea-Bissau"
                 }
             ]
         }

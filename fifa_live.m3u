@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:15:28 PM 10-05-2026
+#last update time: 05:30:21 PM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1c/4c/81/71/1c4c8171-8272-46e5-b263-1fb0bc936dd0.png" group-title="FIFA Live", FC Santa Coloma v Ordino | Lliga Multissegur Assegurances 2025/2026 | Full Match Replay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bf9559510873140ba1c6185d4feec26:8db79556188454c5ecdb033c62758594
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_49_41_227af1e1-849c-4dd2-8723-b2c8011feadb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Acat%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778402940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1f/42/49/7a/1f42497a-fd09-4430-9db6-2df040e2ace5.png" group-title="FIFA Live", Inter Club d'Escaldes v Atlètic Club d'Escaldes | Lliga Multissegur Assegurances 2025/2026 | Full Match Replay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6466fba13e5730e795cd3cf0c458820e:59bf3da0073574b7484a85a21a1baf59
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_49_44_c4437b85-7b83-4261-bb2e-7acb8e960597/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Acat%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778402940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/89/39/db/1f/8939db1f-4bcc-4be7-b475-589dc1bf7086.png" group-title="FIFA Live", FK Banga v MFA Žalgiris–MRU | Moterų A lyga 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,3 +13,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_12_49_53_3f55cfb3-5eac-4faa-8671
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9693762bd0a3a71a08d44b4ce38c600:348687045c0c15e74aa4199d9abd992f
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_13_6b05ed77-ca1f-4b79-9756-8b04e112fa52/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778406540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8d/8a/a8/83/8d8aa883-7599-4911-a777-2626d6b82f3f.png" group-title="FIFA Live", FK Gintra v Kauno rajono FA | Moterų A lyga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d30c7c06c9af3c2b89ad191898ec6902:87ed4c998b680b16083ae478c7b0ce7a
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_13_18_18_ad9f307b-3fc0-41fa-8ae4-a9d6bc3bfad2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778411940
