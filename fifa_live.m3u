@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:15:20 AM 11-05-2026
+#last update time: 01:30:22 AM 11-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8a/f5/4f/ea/8af54fea-4f70-4fb9-bbd8-fcf8558878cb.png" group-title="FIFA Live", Atlético São Nicolau v África Show | Cape Verdean Football Championship 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c02a8b48b613555a8f26abc51606999:5183922620abff7e0478e32ecc412950
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_21_8c8b8db9-6bec-44f3-be63-1216d029a5a8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778431740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/14/e9/f9/3e/14e9f93e-855b-477f-a581-542a11dc9139.png" group-title="FIFA Live", Campobasso v Potenza | National Phase Play-offs - First Round - First Leg | Serie C 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -18,3 +13,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_12_23_52_8c749f12-147f-4f10-a0a9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79b05bd2f063a85a33e7281ac598c05:8c0cc724ef42ecbd7d2dc39a07ee04af
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_39_8f02c91f-a59e-4a07-aa66-76e196cd1ad1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778437140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/15/41/59/fa/154159fa-9cfe-4cb7-8e33-d97d6aa84484.png" group-title="FIFA Live", Puerto Cabello B v El Vigía FC | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=421a6f7a7ed43dae8b6774d904004f21:6247afc1bdff47951756bd01e06ad4e3
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_08_34_31_33918001-1062-4ef8-939e-658193f86812/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778440740
