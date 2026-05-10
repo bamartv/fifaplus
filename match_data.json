@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:15:22 AM 11-05-2026",
-        "total_live": 7,
-        "total_upcoming": 17
+        "last_update_time": "02:30:29 AM 11-05-2026",
+        "total_live": 8,
+        "total_upcoming": 15
     },
     "matches": [
-        {
-            "id": "8c2baac1-2e80-41e4-8429-164782bb8148",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "8c2baac1-2e80-41e4-8429-164782bb8148",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Campobasso v Potenza | National Phase Play-offs - First Round - First Leg | Serie C 2025/26",
-            "category": "livestream",
-            "urlSlug": "campobasso-vs-potenza",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/d0/1e/d9/ad/d01ed9ad-e393-4bc8-a854-ef423b346f2f.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/14/e9/f9/3e/14e9f93e-855b-477f-a581-542a11dc9139.png",
-            "freeMode": "FREE_ADS",
-            "title": "Campobasso v Potenza | National Phase Play-offs - First Round - First Leg | Serie C 2025/26",
-            "titleTemplateValues": {
-                "competition": "Serie C",
-                "publisher": "MA | Italy",
-                "stadium": "Stadio Nuovo Romagnoli",
-                "city": "Campobasso",
-                "global-stage": "National Phase Play-offs - First Round - First Leg",
-                "association": "Italy",
-                "match": "Campobasso v Potenza",
-                "country": "Italy",
-                "season": "Serie C 2025/26",
-                "publisher-channel": "MA | Italy | Serie C 2025/26",
-                "team:potenza": "Potenza",
-                "video-type": "Live Streams",
-                "team:campobasso": "Campobasso",
-                "stage": "Promotion Play-offs",
-                "organizer": "Italy",
-                "organizer-country": "Italy"
-            },
-            "startDate": "2026-05-10T17:50:00Z",
-            "endDate": "2026-05-10T20:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T18:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Campobasso v Potenza"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Serie C 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "National Phase Play-offs - First Round - First Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Italy"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_12_23_52_8c749f12-147f-4f10-a0a9-c4c3d848d3ee/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778435340",
-                "decryption_keys": [
-                    "69e0bd1cacde3672857816c017594a9a:251a1a8d41ce46eca4bce18b206e1a63"
-                ]
-            }
-        },
         {
             "id": "3e41ff37-1d0f-446f-b508-a8d234b1d599",
             "channelId": "fifa-tournaments",
@@ -485,68 +417,6 @@
             }
         },
         {
-            "id": "df8c8c16-4b8c-4163-aaef-d344802e6826",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "df8c8c16-4b8c-4163-aaef-d344802e6826",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "VG United  v Lion Heart FC | BVIFA National League 2025/26",
-            "category": "livestream",
-            "urlSlug": "vg-united-senior-men-s-team-vs-lion-heart-senior-men-s-team",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/eb/bf/3f/81/ebbf3f81-27a9-42d1-b443-ea7b722132e2.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/39/1f/cf/14/391fcf14-c86b-4262-9bca-46ee5c83aa0a.png",
-            "freeMode": "FREE_ADS",
-            "title": "VG United  v Lion Heart FC | BVIFA National League 2025/26",
-            "titleTemplateValues": {
-                "competition": "BVIFA National League",
-                "team:vg-united-senior-men-s-team": "VG United ",
-                "association": "British Virgin Islands",
-                "publisher": "MA | British Virgin Islands",
-                "global-stage": "Round 25",
-                "stage": "Round 2",
-                "country": "British Virgin Islands",
-                "match": "VG United  v Lion Heart FC",
-                "city": "Road Town",
-                "publisher-channel": "MA | British Virgin Islands | BVIFA National League 2025/2026",
-                "team:lion-heart-senior-men-s-team": "Lion Heart FC",
-                "season": "BVIFA National League 2025/26",
-                "stadium": "A. O. Shirley Recreation Ground",
-                "video-type": "Live Streams",
-                "organizer": "British Virgin Islands",
-                "organizer-country": "British Virgin Islands"
-            },
-            "startDate": "2026-05-10T20:20:00Z",
-            "endDate": "2026-05-10T23:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T20:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "VG United  v Lion Heart FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BVIFA National League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "British Virgin Islands"
-                }
-            ]
-        },
-        {
             "id": "d7d700f3-e708-4d8c-ad92-d91da511148a",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "d7d700f3-e708-4d8c-ad92-d91da511148a",
@@ -584,7 +454,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -606,7 +476,13 @@
                     "p": 1,
                     "value": "Suriname"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_14_06_41_59590662-332e-46a6-bc9f-b1417745d550/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778444340",
+                "decryption_keys": [
+                    "dfa06739034635ada1177e1a4ae20b14:823b2079965fc8ef1ca071bf8d18195e"
+                ]
+            }
         },
         {
             "id": "04e4d854-bba3-4789-9f91-f500e61691ba",
@@ -646,7 +522,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -667,6 +543,74 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Costa Rica"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_07_28_25_6d079ab8-27e9-409f-a382-23d5183e378e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778444340",
+                "decryption_keys": [
+                    "c1d8b56ff6ce323cb65bfeeeb9cd8365:4d4cb61b2669db4136271d281494ac15"
+                ]
+            }
+        },
+        {
+            "id": "df8c8c16-4b8c-4163-aaef-d344802e6826",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "df8c8c16-4b8c-4163-aaef-d344802e6826",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "VG United  v Lion Heart FC | BVIFA National League 2025/26",
+            "category": "livestream",
+            "urlSlug": "vg-united-senior-men-s-team-vs-lion-heart-senior-men-s-team",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/eb/bf/3f/81/ebbf3f81-27a9-42d1-b443-ea7b722132e2.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/39/1f/cf/14/391fcf14-c86b-4262-9bca-46ee5c83aa0a.png",
+            "freeMode": "FREE_ADS",
+            "title": "VG United  v Lion Heart FC | BVIFA National League 2025/26",
+            "titleTemplateValues": {
+                "competition": "BVIFA National League",
+                "team:vg-united-senior-men-s-team": "VG United ",
+                "association": "British Virgin Islands",
+                "publisher": "MA | British Virgin Islands",
+                "global-stage": "Round 25",
+                "stage": "Round 2",
+                "country": "British Virgin Islands",
+                "match": "VG United  v Lion Heart FC",
+                "city": "Road Town",
+                "publisher-channel": "MA | British Virgin Islands | BVIFA National League 2025/2026",
+                "team:lion-heart-senior-men-s-team": "Lion Heart FC",
+                "season": "BVIFA National League 2025/26",
+                "stadium": "A. O. Shirley Recreation Ground",
+                "video-type": "Live Streams",
+                "organizer": "British Virgin Islands",
+                "organizer-country": "British Virgin Islands"
+            },
+            "startDate": "2026-05-10T20:35:00Z",
+            "endDate": "2026-05-10T23:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T20:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "VG United  v Lion Heart FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "BVIFA National League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "British Virgin Islands"
                 }
             ]
         },
