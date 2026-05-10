@@ -1,8 +1,13 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:21 PM 10-05-2026
+#last update time: 08:45:17 PM 10-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/53/f8/0f/99/53f80f99-9c3b-4711-960e-cb8533731d4e.png" group-title="FIFA Live", AS Port-Louis 2000 v La Cure Waves SC | MFA Cup 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9172e87e0c13109bfd1a56b62d2d101:599200a530c0db699aa5ea7cc7979df9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_08_14_06_105bdd82-0641-472f-aea1-cabcf6431245/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778413740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f0/8a/f4/b6/f08af4b6-a008-4c65-8e1b-2539f351adef.png" group-title="FIFA Live", Kamuzu Barracks FC v Karonga United | FDH Bank Premiership
 #KODIPROP:inputstream.adaptive.license_type=clearkey

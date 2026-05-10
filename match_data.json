@@ -3,11 +3,80 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:21 PM 10-05-2026",
-        "total_live": 17,
+        "last_update_time": "08:45:17 PM 10-05-2026",
+        "total_live": 18,
         "total_upcoming": 31
     },
     "matches": [
+        {
+            "id": "13b7f1d1-2936-4bcf-89fb-77045ce2a06d",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "13b7f1d1-2936-4bcf-89fb-77045ce2a06d",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Port-Louis 2000 v La Cure Waves SC | MFA Cup 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-port-louis-2000-vs-la-cure-waves-sc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/d7/aa/fb/da/d7aafbda-e39c-4193-a973-ec3d850cf357.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/53/f8/0f/99/53f80f99-9c3b-4711-960e-cb8533731d4e.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Port-Louis 2000 v La Cure Waves SC | MFA Cup 2025/26",
+            "titleTemplateValues": {
+                "season": "MFA Cup 2025/26",
+                "competition": "MFA Cup",
+                "match": "AS Port-Louis 2000 v La Cure Waves SC",
+                "publisher": "MA | Mauritius",
+                "stadium": "Côte d'Or National Sports Complex",
+                "country": "Mauritius",
+                "stage": "Final",
+                "association": "Mauritius",
+                "global-stage": "Final",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "publisher-channel": "MA | Mauritius | MFA Cup 2025/26 (Channel)",
+                "team:as-port-louis-2000": "AS Port-Louis 2000",
+                "city": "Saint Pierre",
+                "team:la-cure-waves-sc": "La Cure Waves SC",
+                "video-type": "Live Streams",
+                "organizer": "Mauritius",
+                "organizer-country": "Mauritius"
+            },
+            "startDate": "2026-05-10T11:50:00Z",
+            "endDate": "2026-05-10T15:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T12:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Port-Louis 2000 v La Cure Waves SC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "MFA Cup 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Final"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritius"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_08_14_06_105bdd82-0641-472f-aea1-cabcf6431245/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778413740",
+                "decryption_keys": [
+                    "b9172e87e0c13109bfd1a56b62d2d101:599200a530c0db699aa5ea7cc7979df9"
+                ]
+            }
+        },
         {
             "id": "5efff3c7-b22b-45fe-a8d9-49586da4425d",
             "channelId": "fifa-tournaments",
