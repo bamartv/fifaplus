@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:15:34 PM 11-05-2026",
-        "total_live": 3,
+        "last_update_time": "11:30:30 PM 11-05-2026",
+        "total_live": 1,
         "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "629d0e44-5656-4c09-8f8a-cb984c8d9be5",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "629d0e44-5656-4c09-8f8a-cb984c8d9be5",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Pogradeci v Besa | Championship Play-off – Final Phase | Kategoria e Parë 2025/26",
-            "category": "livestream",
-            "urlSlug": "fk-pogradeci-vs-ks-besa",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a9/29/53/83/a9295383-98b2-479b-b8b1-74c35fc272cb.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/23/b9/b1/5f/23b9b15f-f970-47b4-a1cf-c4f788b0e048.png",
-            "freeMode": "FREE_ADS",
-            "title": "Pogradeci v Besa | Championship Play-off – Final Phase | Kategoria e Parë 2025/26",
-            "titleTemplateValues": {
-                "season": "Kategoria e Parë 2025/26",
-                "stage": "Play-offs Final",
-                "team:fk-pogradeci": "Pogradeci",
-                "team:ks-besa": "Besa",
-                "country": "Albania",
-                "city": "Elbasan",
-                "match": "Pogradeci v Besa",
-                "publisher": "MA | Albania",
-                "publisher-channel": "MA | Albania | Kategoria e Parë 2025/26",
-                "competition": "Kategoria e Parë",
-                "stadium": "Elbasan Arena",
-                "global-stage": "Championship Play-off – Final Phase",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-11T14:50:00Z",
-            "endDate": "2026-05-11T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-11T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Pogradeci v Besa"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria e Parë 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Championship Play-off – Final Phase"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_11_01_47_50f88771-d062-489c-af03-71f020ab959a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778510940",
-                "decryption_keys": [
-                    "5893b8d992983129b37d33612a018e1c:4b5923e0e17ec8bc5f58a768ea7473b1"
-                ]
-            }
-        },
         {
             "id": "5366b51a-74e5-4940-90a5-b4197ebc84d3",
             "channelId": "fifa-tournaments",
@@ -141,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_16_02_51_4ef4996e-f978-4c4a-8720-60eefb68fb06/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778514540",
                 "decryption_keys": [
                     "7a282de9fb253c59ac384353615dd27b:f15cfb048b0e636732ebba7418fc6fcc"
-                ]
-            }
-        },
-        {
-            "id": "abaa880c-0a91-4f02-ab4c-0fe966159660",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "abaa880c-0a91-4f02-ab4c-0fe966159660",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Nouakchott Academy v Inter Nouakchott | Super D-1 2025/26",
-            "category": "livestream",
-            "urlSlug": "nouakchott-academy-vs-inter-nouakchott",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c8/d4/41/ca/c8d441ca-1d9d-47b6-963a-7c0f480a47bc.png",
-            "freeMode": "FREE_ADS",
-            "title": "Nouakchott Academy v Inter Nouakchott | Super D-1 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular season",
-                "publisher": "MA | Mauritania",
-                "match": "Nouakchott Academy v Inter Nouakchott",
-                "global-stage": "Round 24",
-                "competition": "Super D-1",
-                "city": "Nouakchott",
-                "association": "Mauritania",
-                "stadium": "Stade Cheikha Ould Boïdiya",
-                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
-                "season": "Super D-1 2025/26",
-                "country": "Mauritania",
-                "team:nouakchott-academy": "Nouakchott Academy",
-                "video-type": "Live Streams",
-                "team:inter-nouakchott": "Inter Nouakchott",
-                "organizer": "Mauritania",
-                "organizer-country": "Mauritania"
-            },
-            "startDate": "2026-05-11T16:40:00Z",
-            "endDate": "2026-05-11T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-11T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Nouakchott Academy v Inter Nouakchott"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super D-1 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 24"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_16_04_59_22f230f5-71c4-44d5-9dc9-3981c96e449a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778517540",
-                "decryption_keys": [
-                    "c4c27315d32a365a9926f2455dcc5c09:6ba89d3fad88eafc039fd98407c6ba54"
                 ]
             }
         }
