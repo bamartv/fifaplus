@@ -1,18 +1,13 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:27 AM 11-05-2026
+#last update time: 06:15:30 AM 11-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/26/ce/53/10/26ce5310-319b-4135-9790-094aaf0aaea2.png" group-title="FIFA Live", Attackers FC v Spartans FC | Anguilla Senior Men's League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d25e6f82a446356d9dc51578e4b5ed4c:b3f82c22fd99c3b04ea20cc9c4d6139a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_41_35_c437df83-b954-44c7-845e-30d8c789f0d8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778449740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e3/dd/ff/b1/e3ddffb1-beda-4c89-9fa2-c8906f8ac863.png" group-title="FIFA Live", Scholars International v Latinos Football Club | Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=020b7034f6313200af67081fe4038165:d3a4bbffff77df0d31af1d38ddcc7249
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_07_56_46_5328841e-02c6-44c2-b344-8f2c3d858d53/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778450040
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f2/06/fd/2f/f206fd2f-49b9-48d6-814e-08c77fcf5daa.png" group-title="FIFA Live", Unistars v River Plate Aruba | Division Honor 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,3 +33,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_14_06_44_91a450c9-088c-493f-bcba
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acaf7c326fcd371db65868dad907d1de:4ca42a02cd4b0c84c033c93011a4b843
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_41_39_fe762be0-31c7-478f-a893-af1f03760df1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778456940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6b/46/2e/12/6b462e12-d3e6-4c1b-924e-9c75b91c94bd.png" group-title="FIFA Live", Jong Aruba v Caiquetio | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe09a7cf6e6832628059265e125e3bf7:46b02895a9ef430a9c213adfa7b4de02
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_34_59df3d2d-18e8-47ab-9a53-27ab300c067f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778457840
