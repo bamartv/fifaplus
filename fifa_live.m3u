@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:24 AM 11-05-2026
+#last update time: 07:00:34 AM 11-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a0/4c/f6/9a/a04cf69a-664b-44b1-93fe-e9933992eb43.png" group-title="FIFA Live", Bombers FC v Bath Estate FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66cf5dbf0cb0333fa5c67c6f39bd1b18:6a16dc37fc4567c2a111815470026d5d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_57_49_1951df9b-a088-4cc7-8d0e-0628f01073f3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778451540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2e/24/3e/58/2e243e58-ac0a-44a1-a307-7d413a3bb20a.png" group-title="FIFA Live", South East FC vs Dublanc FC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=259c3466ced43eedb94cc16773e3a52b:8e5e836f2afada02f48a4a9c19eca822
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_57_33_1876b45f-f14c-4e5a-9e09-a1234cf0a3e6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778451540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6a/ce/5b/b6/6ace5bb6-76d3-41f2-b0ca-7b208e17013f.png" group-title="FIFA Live", Flora v Broki | Suriname Major League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
