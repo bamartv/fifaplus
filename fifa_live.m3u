@@ -1,15 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:20 AM 11-05-2026
+#last update time: 08:30:23 AM 11-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/41/8e/77/c4/418e77c4-429e-4e56-adba-c056226f7fd4.png" group-title="FIFA Live", Lymers FC v Diamond FC | Anguilla Senior Men's League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acaf7c326fcd371db65868dad907d1de:4ca42a02cd4b0c84c033c93011a4b843
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_41_39_fe762be0-31c7-478f-a893-af1f03760df1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778456940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6b/46/2e/12/6b462e12-d3e6-4c1b-924e-9c75b91c94bd.png" group-title="FIFA Live", Jong Aruba v Caiquetio | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe09a7cf6e6832628059265e125e3bf7:46b02895a9ef430a9c213adfa7b4de02
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_34_59df3d2d-18e8-47ab-9a53-27ab300c067f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778457840
