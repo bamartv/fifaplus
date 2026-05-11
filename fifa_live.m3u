@@ -1,5 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:19 PM 11-05-2026
+#last update time: 02:00:27 PM 11-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/93/59/d6/49/9359d649-62bc-4002-ad6c-1b6d295e68df.png" group-title="FIFA Live", Azerbaijan v Georgia | UEFA Development Tournament Women's U-16 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be476787e95c39ed9c9cd78831915cd5:f728f5941ebc51bf8d1d28561d3925e6
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_55_21_e6385eba-460d-4b90-b9ef-a951c0407d61/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778485740
