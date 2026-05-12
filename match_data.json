@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:29 AM 13-05-2026",
-        "total_live": 6,
+        "last_update_time": "12:15:29 AM 13-05-2026",
+        "total_live": 5,
         "total_upcoming": 15
     },
     "matches": [
-        {
-            "id": "02e1dab9-34fc-41fa-a3c3-8c8804e6d502",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "02e1dab9-34fc-41fa-a3c3-8c8804e6d502",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Fan v Espoir FC | Super Ligue 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-fan-vs-espoir-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/ec/cd/44/9eeccd44-ac8e-414d-a647-f8fe021614d5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/62/ec/54/6e/62ec546e-5e8e-4958-85d4-ec14ec698bea.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Fan v Espoir FC | Super Ligue 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Niger ",
-                "team:espoir-fc": "Espoir FC",
-                "global-stage": "Round 24",
-                "season": "Super Ligue 2025/26",
-                "stage": "Regular stage",
-                "association": "Niger",
-                "team:as-fan": "AS Fan",
-                "competition": "Super Ligue",
-                "country": "Niger",
-                "match": "AS Fan v Espoir FC",
-                "city": "Niamey",
-                "publisher-channel": "MA | Niger | Super Ligue 2025/2026",
-                "stadium": "Municipal Stadium",
-                "video-type": "Live Streams",
-                "organizer": "Niger",
-                "organizer-country": "Niger"
-            },
-            "startDate": "2026-05-12T15:35:00Z",
-            "endDate": "2026-05-12T18:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-12T15:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Fan v Espoir FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super Ligue 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 24"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Niger"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_12_46_08_8728a5c1-b110-40ed-8c85-784290017f57/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778600040",
-                "decryption_keys": [
-                    "e2328918c43d391e89336d80ee10b49e:805ccf3d3bb19f7c765320d850f20f50"
-                ]
-            }
-        },
         {
             "id": "93f11481-fa7d-41b3-9ef4-16cb0d7b32d5",
             "channelId": "fifa-tournaments",
