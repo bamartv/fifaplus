@@ -3,74 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:00:29 PM 12-05-2026",
+        "last_update_time": "05:15:22 PM 12-05-2026",
         "total_live": 0,
-        "total_upcoming": 7
+        "total_upcoming": 6
     },
     "matches": [
-        {
-            "id": "10e1e627-bbb9-442d-9c33-650c95f078fa",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "10e1e627-bbb9-442d-9c33-650c95f078fa",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Gombessa Sport v Steal Nouvel | Championnat des Comores Division I 2025/26",
-            "category": "livestream",
-            "urlSlug": "gombessa-sport-vs-steal-nouvel",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/93/27/8b/0a/93278b0a-5477-40c8-bb9d-ccd55ac409d2.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/88/01/02/94/88010294-eef0-4c80-9945-8b61740fb516.png",
-            "freeMode": "FREE_ADS",
-            "title": "Gombessa Sport v Steal Nouvel | Championnat des Comores Division I 2025/26",
-            "titleTemplateValues": {
-                "season": "Championnat des Comores Division I 2025/26",
-                "publisher-channel": "MA | Comoros | Division 1 2025/2026",
-                "competition": "Division 1",
-                "team:gombessa-sport": "Gombessa Sport",
-                "city": "Mutsamudu",
-                "team:steal-nouvel": "Steal Nouvel",
-                "stage": "Regular Season",
-                "publisher": "MA | Comoros",
-                "country": "Comoros",
-                "global-stage": "Round 18",
-                "association": "Comoros",
-                "match": "Gombessa Sport v Steal Nouvel",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "stadium": "Stade de Hombo",
-                "video-type": "Live Streams",
-                "organizer": "Comoros",
-                "organizer-country": "Comoros"
-            },
-            "startDate": "2026-05-12T11:50:00Z",
-            "endDate": "2026-05-12T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-12T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Gombessa Sport v Steal Nouvel"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championnat des Comores Division I 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 18"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Comoros"
-                }
-            ]
-        },
         {
             "id": "02e1dab9-34fc-41fa-a3c3-8c8804e6d502",
             "channelId": "fifa-tournaments",
