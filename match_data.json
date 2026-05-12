@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:00:26 AM 12-05-2026",
-        "total_live": 1,
+        "last_update_time": "11:15:24 AM 12-05-2026",
+        "total_live": 0,
         "total_upcoming": 8
     },
     "matches": [
-        {
-            "id": "a4335142-378d-444e-85dc-2a135acf7266",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a4335142-378d-444e-85dc-2a135acf7266",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "South Melbourne FC v Bula FC | OFC Professional League 2026",
-            "category": "livestream",
-            "urlSlug": "south-melbourne-vs-bula-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/29/91/30/7e/2991307e-4a48-44eb-892d-8067fd456a5c.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "South Melbourne FC v Bula FC | OFC Professional League 2026",
-            "titleTemplateValues": {
-                "stadium": "Eden Park",
-                "confederation:union-des-associations-europeennes-de-football": "UEFA",
-                "country:fiji": "Fiji",
-                "publisher": "OFC",
-                "association:australia": "Australia",
-                "team:south-melbourne": "South Melbourne FC",
-                "team:bula-fc": "Bula FC",
-                "city": "Auckland/Tāmaki Makaurau ",
-                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
-                "country:new-zealand": "New Zealand",
-                "match": "South Melbourne FC v Bula FC",
-                "stage": "Round 6 - Leaders Group",
-                "season": "OFC Professional League 2026",
-                "confederation:oceania-football-confederation": "OFC",
-                "association:fiji": "Fiji",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "country:australia": "Australia",
-                "global-stage": "Round 6",
-                "competition": "OFC Professional League ",
-                "video-type": "Live Streams",
-                "organizer": "OFC"
-            },
-            "startDate": "2026-05-12T02:45:00Z",
-            "endDate": "2026-05-12T05:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-12T03:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "South Melbourne FC v Bula FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "OFC Professional League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 6"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_14_43_59_c55bc82c-0937-4ddf-b359-d7de6c11a57c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778553840",
-                "decryption_keys": [
-                    "3d2140a269c73534b804725c3c5cef55:4ddda489b89412ce1ea7ebb01b77ca2f"
-                ]
-            }
-        },
         {
             "id": "ad852945-3988-4971-8a7a-7bcbae47bda9",
             "channelId": "fifa-tournaments",
