@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:27 AM 13-05-2026",
-        "total_live": 2,
+        "last_update_time": "09:30:22 AM 13-05-2026",
+        "total_live": 1,
         "total_upcoming": 9
     },
     "matches": [
-        {
-            "id": "42415ec8-430d-402d-8d87-de31cf9577c0",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "42415ec8-430d-402d-8d87-de31cf9577c0",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Wotton FC v Gall Hill | BFA Premier League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "wotton-fc-vs-gall-hill",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/68/77/9e/1f/68779e1f-cf52-40b1-95f3-88fa79d8fb6b.png",
-            "freeMode": "FREE_ADS",
-            "title": "Wotton FC v Gall Hill | BFA Premier League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
-                "stadium": "BFA Technical Centre",
-                "global-stage": "Round 16",
-                "association": "Barbados",
-                "team:gall-hill": "Gall Hill",
-                "video-type": "Full Match Replays",
-                "publisher": "MA | Barbados",
-                "team:wotton-fc": "Wotton FC",
-                "stage": "Regular Season",
-                "match": "Wotton FC v Gall Hill",
-                "city": "Saint Michael",
-                "competition": "BFA Premier League",
-                "country": "Barbados",
-                "season": "BFA Premier League 2026",
-                "organizer": "Barbados",
-                "organizer-country": "Barbados"
-            },
-            "startDate": "2026-05-13T00:56:00Z",
-            "endDate": "2026-05-13T03:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-13T01:06:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Wotton FC v Gall Hill"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 16"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Barbados"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_09_17_17_0758766c-3d03-41e0-837a-bd2c989a34db/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778633700",
-                "decryption_keys": [
-                    "ba4e94530f6b34799ffcabcf768fac3b:d84b2d799c327e4f9a2dbf8ef092e129"
-                ]
-            }
-        },
         {
             "id": "958ad74f-199b-4838-a344-34febe3aabe6",
             "channelId": "fifa-tournaments",

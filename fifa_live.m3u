@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:15:27 AM 13-05-2026
+#last update time: 09:30:22 AM 13-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/68/77/9e/1f/68779e1f-cf52-40b1-95f3-88fa79d8fb6b.png" group-title="FIFA Live", Wotton FC v Gall Hill | BFA Premier League 2026 | Full Match Replay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba4e94530f6b34799ffcabcf768fac3b:d84b2d799c327e4f9a2dbf8ef092e129
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_09_17_17_0758766c-3d03-41e0-837a-bd2c989a34db/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778633700
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f4/ea/9e/24/f4ea9e24-aad5-4675-b073-be242b6cef3b.jpg" group-title="FIFA Live", Solomon Kings FC v PNG Hekari FC | OFC Professional League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
